@@ -3,17 +3,18 @@ import math
 import pandas
 
 class TfIdf:
-    data_set_path = "/home/yogi/Desktop/Webapps Data"                   #Path of data set folder
-    data_files = os.listdir(data_set_path)                              #List of all the file names with extension in dataset folder
-    file_word_dictionary = {}                                           #Dictionary of files containing various words.
-    file_sentence_dictionary ={}                                        #Dictionary of files containing all the sentences
-    file_word_frequency = {}                                            #Dictionary of files containing frequency of unique words 
-    file_Tf={}                                                          #Dictionary of files containing TF values of the words
-    tfIDF = {}                                                          #Dictionary of files containing IDF values of the words
-    word_set={}                                                         #It is the union of all the different words in corpus
-    
+    def __init__(self):
+        self.data_set_path = "/home/yogi/Desktop/Webapps Data"                   #Path of data set folder
+        self.data_files = os.listdir(self.data_set_path)                         #List of all the file names with extension in dataset folder
+        self.file_word_dictionary = {}                                           #Dictionary of files containing various words.
+        self.file_sentence_dictionary ={}                                        #Dictionary of files containing all the sentences
+        self.file_word_frequency = {}                                            #Dictionary of files containing frequency of unique words 
+        self.file_Tf={}                                                          #Dictionary of files containing TF values of the words
+        self.tfIDF = {}                                                          #Dictionary of files containing IDF values of the words
+        self.word_set={}                                                         #It is the union of all the different words in corpus
+        
     def dataCleaning(self,word):                                        #Used to clean the words of the file
-         word=word.strip('\n,:()"!@#$%^&*=+-.')                         #from various punctuation marks.
+         word=word.strip('\n,:()"!@#$%^&*=+-.1234567890;:<>')                         #from various punctuation marks.
          return word
     
     def splitFileToLines(self,sentence_set,file_content):               #Splitting the files into lines
@@ -54,10 +55,10 @@ class TfIdf:
     
     def computeWordFrequency(self):                #Counting the frequency of words of word collection in a particular file
         for file in self.file_word_dictionary:
-            self.file_word_frequency[file+"frequency"] = dict.fromkeys(self.word_set,0)
+            self.file_word_frequency[file] = dict.fromkeys(self.word_set,0)
         for file in self.file_word_dictionary:
             for word in self.file_word_dictionary[file]:
-                self.file_word_frequency[file +"frequency"][word] +=1
+                self.file_word_frequency[file][word] +=1
         return self.file_word_frequency
     
     def computeTF(self,wordDict, BOW):              #Computing TF values  TF = (# of time word appear in document)/ (Total number of words in document)
@@ -89,18 +90,25 @@ class TfIdf:
         self.file_word_dictionary, self.file_sentence_dictionary=self.fileRead()
         self.word_set = self.getWordSet()
         self.file_word_frequency = self.computeWordFrequency()
-        #print(pandas.DataFrame(self.file_word_frequency[file] for file in self.file_word_frequency))
-        
+
         for file in self.file_word_dictionary:                                  #computing TF values
-            self.file_Tf[file+"TF"] = self.computeTF(self.file_word_frequency[file+"frequency"], self.file_word_dictionary[file])
+            self.file_Tf[file] = self.computeTF(self.file_word_frequency[file], self.file_word_dictionary[file])
         idf = self.computeIDF([self.file_Tf[file] for file in self.file_Tf])    #compute idf value
         for file in self.file_word_dictionary:                                  #computing TFIDF values
-            self.tfIDF[file+"tfIDF"] = self.computeTFIDF(self.file_Tf[file+"TF"],idf)
-        print(pandas.DataFrame(self.tfIDF[file] for file in self.tfIDF))
+            self.tfIDF[file] = self.computeTFIDF(self.file_Tf[file],idf)
+        
+        df2=pandas.DataFrame(self.file_Tf[file] for file in self.file_Tf)           #1st DataFrame
+        df2.index=[x[:-4] for x in self.data_files]
+        df=pandas.DataFrame({'Data':self.file_sentence_dictionary[file]} for file in self.file_sentence_dictionary)     #2nd Dataframe
+        
+        df.index=[x[:-4] for x in self.data_files]
+        df_combined = pandas.concat([df,df2],axis =1)                   #Combined DataFrame
+        writer = pandas.ExcelWriter('DataFiles.xlsx')
+        df_combined.to_excel(writer,'Sheet1')
+        writer.save()
         
 def main():
     TfIdfObj = TfIdf()
     TfIdfObj.initiate()
-
 if __name__=="__main__":
     main()

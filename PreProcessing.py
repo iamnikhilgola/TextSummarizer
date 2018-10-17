@@ -1,8 +1,10 @@
 import os
 import math
 import pandas
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 
-class TfIdf:
+class PreProcessing:
     def __init__(self):
         self.data_set_path = "/home/yogi/Desktop/Webapps Data"                   #Path of data set folder
         self.data_files = os.listdir(self.data_set_path)                         #List of all the file names with extension in dataset folder
@@ -12,9 +14,15 @@ class TfIdf:
         self.file_Tf={}                                                          #Dictionary of files containing TF values of the words
         self.tfIDF = {}                                                          #Dictionary of files containing IDF values of the words
         self.word_set={}                                                         #It is the union of all the different words in corpus
+        self.stop_words =set(stopwords.words("english"))                         #It contains all the stop words in english language
+        self.file_names =[]                                                      #Contain File names without extension
         
+    def setFileName(self):
+        for name in self.data_files:
+            self.file_names.append(name[:-4])
+            
     def dataCleaning(self,word):                                        #Used to clean the words of the file
-         word=word.strip('\n,:()"!@#$%^&*=+-.1234567890;:<>')                         #from various punctuation marks.
+         word=word.strip('\n,:()"!@#$%^&*=+-.\'1234567890;:<>/')                         #from various punctuation marks.
          return word
     
     def splitFileToLines(self,sentence_set,file_content):               #Splitting the files into lines
@@ -29,10 +37,13 @@ class TfIdf:
     def splitFileToWords(self,word_set,file_content):                   #Splitting the files into words
         for line in file_content:                                       #word_set is the dictionary which is initially empty
             words = line.split(" ")                                     #file_content is the content of the particular file
+            WN=WordNetLemmatizer()
             for word in words:
-                word=self.dataCleaning(word)
-                if(word!=''):
-                    word_set.append(word)
+                #word=self.dataCleaning(word)                           #function not required as isalpha used below
+                if word.lower() not in self.stop_words:                 #checking if word not in stop word
+                    word=WN.lemmatize(word.lower())
+                    if(word!=''and len(word)>2 and word.isalpha()):     #isalpha to filter punctuation
+                        word_set.append(word)
         return word_set
     
     def fileRead(self):                                                 #Method to read all the dataset files 
@@ -44,8 +55,8 @@ class TfIdf:
             sentence_set =[]
             word_set = self.splitFileToWords(word_set,file__content)
             sentence_set = self.splitFileToLines(sentence_set,file_content)
-            self.file_word_dictionary[file[:-4]] = word_set
             self.file_sentence_dictionary[file[:-4]] = sentence_set
+            self.file_word_dictionary[file[:-4]] = word_set
         return self.file_word_dictionary, self.file_sentence_dictionary
     
     def getWordSet(self):                          #IT gives the collection of all the different words in corpus
@@ -90,25 +101,27 @@ class TfIdf:
         self.file_word_dictionary, self.file_sentence_dictionary=self.fileRead()
         self.word_set = self.getWordSet()
         self.file_word_frequency = self.computeWordFrequency()
-
+        self.setFileName()
+        
         for file in self.file_word_dictionary:                                  #computing TF values
             self.file_Tf[file] = self.computeTF(self.file_word_frequency[file], self.file_word_dictionary[file])
         idf = self.computeIDF([self.file_Tf[file] for file in self.file_Tf])    #compute idf value
         for file in self.file_word_dictionary:                                  #computing TFIDF values
             self.tfIDF[file] = self.computeTFIDF(self.file_Tf[file],idf)
         
-        df2=pandas.DataFrame(self.file_Tf[file] for file in self.file_Tf)           #1st DataFrame
-        df2.index=[x[:-4] for x in self.data_files]
-        df=pandas.DataFrame({'Data':self.file_sentence_dictionary[file]} for file in self.file_sentence_dictionary)     #2nd Dataframe
+        df2=pandas.DataFrame(self.file_Tf[file] for file in self.file_Tf)           #!st DataFrame
+        df2.index=[x for x in self.file_names]
+        #print(df2)
         
-        df.index=[x[:-4] for x in self.data_files]
-        df_combined = pandas.concat([df,df2],axis =1)                   #Combined DataFrame
+        df=pandas.DataFrame({'Data':self.file_sentence_dictionary[file]} for file in self.file_sentence_dictionary)     #2nd Dataframe
+        df.index=[x for x in self.file_names]
+        df_combined = pandas.concat([df,df2],axis =1)
         writer = pandas.ExcelWriter('DataFiles.xlsx')
         df_combined.to_excel(writer,'Sheet1')
         writer.save()
         
 def main():
-    TfIdfObj = TfIdf()
-    TfIdfObj.initiate()
+    PreprocessObj = PreProcessing()
+    PreprocessObj.initiate()
 if __name__=="__main__":
     main()

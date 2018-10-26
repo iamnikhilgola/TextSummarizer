@@ -1,6 +1,7 @@
 import os
 import math
 import pandas
+import copy
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk import ngrams
@@ -9,7 +10,8 @@ from collections import Counter
 
 class PreProcessing:
     def __init__(self):
-        self.data_set_path = "Webapps Data"                                      #Path of data set folder
+        self.path = os.path.abspath(os.path.dirname(__file__))                   #Path of data set folder
+        self.data_set_path = os.path.join(self.path, "Datasets/Webapps Data")
         self.data_files = os.listdir(self.data_set_path)                         #List of all the file names with extension in dataset folder
         self.file_word_dictionary = {}                                           #Dictionary of files containing various words.
         self.file_sentence_dictionary ={}                                        #Dictionary of files containing all the sentences
@@ -47,18 +49,20 @@ class PreProcessing:
         return bigrams
     
     def splitFileToLines(self,sentence_set,file_content):               #Splitting the files into lines
-        for line in file_content:                                       #Sentence_set is the dictionary which is initially empty
+        for line in file_content.splitlines():                          #Sentence_set is the dictionary which is initially empty
             sentences = line.split("\n.")                               #file_content is the content of the particular file
             for sentence in sentences:
                 sentence=sentence.strip('\n ')
                 if(sentence!=''):
                     sentence_set.append(sentence.lower())
+                    #if('aaa' in sentence.lower()):
+                        #print(sentence.lower())
         return sentence_set
     
     def splitFileToWords(self,word_set,file_content):                   #Splitting the files into words
         newTag=[]
         WN=WordNetLemmatizer()
-        for line in file_content:                                       #word_set is the dictionary which is initially empty
+        for line in file_content.splitlines():                                       #word_set is the dictionary which is initially empty
             words = line.split(" ")                                     #file_content is the content of the particular file
             for word in words:
                 word=word.lower()
@@ -85,8 +89,12 @@ class PreProcessing:
     def fileRead(self):                                                 #Method to read all the dataset files 
         for file in self.data_files:
             actual_path = self.data_set_path +"/"+ file
-            file_content =  open(actual_path,"r")
-            file__content =  open(actual_path,"r")
+            new_file__content =  open(actual_path,"rb")
+            file_content=' '
+            for nffile in new_file__content:
+                nffile=nffile.decode('utf-8', 'ignore')
+                file_content+=nffile
+            file__content=copy.deepcopy(file_content)
             word_set = []
             sentence_set =[]
             bigram_set =[]
@@ -145,7 +153,7 @@ class PreProcessing:
         self.word_set = self.getWordSet()
         self.file_word_frequency = self.computeWordFrequency()
         self.setFileName()
-        
+
         for file in self.file_word_dictionary:                                  #computing TF values
             self.file_Tf[file] = self.computeTF(self.file_word_frequency[file], self.file_word_dictionary[file])
         idf = self.computeIDF([self.file_Tf[file] for file in self.file_Tf])    #compute idf value
@@ -162,9 +170,9 @@ class PreProcessing:
 
         df_combined.to_csv("DataFiles.csv",sep=',')                         #Converting to csv format
         
-        
 def main():
     PreprocessObj = PreProcessing()
     PreprocessObj.initiate()
+
 if __name__=="__main__":
     main()

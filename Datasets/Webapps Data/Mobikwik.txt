@@ -1,0 +1,444 @@
+Terms & Conditions
+By reason of subscription to any Service, Merchant hereby agrees to the application of the General Terms and Conditions, hereinafter referred to as the "T&Cs", to his contractual relationship with Mobikwik Payment Gateway, to the exclusion of all other terms and conditions, including those of Merchant. Merchant acknowledges that it is entering into the agreement as a professional and not as a consumer.
+
+In the T&Cs, as well as in the Merchant Agreement, the following terms are defined as follows, when spelled beginning with a capital letter:
+
+"Acquiring Banks" means the bank(s) that enables Mobikwik Payment Gateway to accept payments made through credit cards, debit cards and net banking. Mobikwik Payment Gateway has aggregator/super-merchant agreements with various acquiring banks and by virtue of these agreements, Mobikwik Payment Gateway creates accounts for each Merchant with the Acquiring Banks.
+
+1.2 "Authorization" means the process hereunder by which the Acquiring Banks, Facility Providers, Institutions, cash card brands and associate companies, as well as third party service providers and/or Payment Card Industry issuers such as MasterCard/Visa/Diners Card, banks, etc., electronically or otherwise conveys the approval of a charge (for a particular Transaction attempted at a particular website) on an acceptable Valid Card and/or net-banking services and/or debit-banking services through various acceptable modes of payment mechanism.
+
+1.3 "Business Day" shall mean a day on which scheduled commercial banks are open for business in New Delhi, India excluding the following:
+
+(a) Saturdays and Sundays;
+
+(b) Days declared by RBI as holidays;
+
+(c) Unscheduled holidays due to regional /state bandh / declared holidays (which may or may not be a banking holiday)/election holidays.
+
+(d) Technical faults and glitches including but not limited to internet downtime, bank server downtime; and
+
+(e) Such other holidays as specified by Mobikwik Payment Gateway to the Merchant from time to time.
+
+1.4	"Card Associations" means a network of Issuing Bank(s) and Acquiring Bank(s) that process payment cards of a specific brand.
+
+1.5	"Cardholder" shall mean a person holding a Valid Card licensed by Card Associations.
+
+1.6	"Customer" means a person and/or entity whosoever whose credit card, debit card and/or net banking account has been utilized to purchase service(s) or product(s) from merchants enrolled with Mobikwik Payment Gateway to make payment for the same over the internet on Merchant's Website through various acceptable modes of Payment Mechanism.
+
+1.7	"Customer Order/Order" shall mean an order placed by a Customer for purchase of product(s) or availing of service(s) provided by the Merchant on the Website.
+
+1.8	"Customer Charge" or "Price" means the sale price of the product/service purchased by the Customer which price shall include the shipping charge (if any), the insurance charge and all other taxes, duties, costs, charges and expenses in respect of the product/service that are to be charged to the Customer.
+
+1.9	"Delivery" means, in respect of a product, delivery of the product by a reputed courier/parcel service to the Customer at the address specified by the Customer and in respect of a service, delivery/performance of the service, and proof of such delivery of product/service has been submitted by the Merchant to Mobikwik Payment Gateway electronically through their online account or otherwise to the satisfaction of Mobikwik Payment Gateway.
+
+1.10	"Dispatch" shall mean, in respect of a product, proof to the satisfaction of Mobikwik Payment Gateway, Acquiring Banks, Facility Providers, that the product has been dispatched to the address specified by the Customer through a reputed courier/parcel service, and in respect of a service, delivery/performance of the service and confirmation thereof.
+
+1.11	"Facility Providers" means various banks, cash card brands, as well as various other payment option and payment processors.
+
+1.12	"Force Majeure Event" includes any event due to any cause beyond the reasonable control of Mobikwik Payment Gateway and the Payment Gateway Facilitators, including, without limitation, unavailability of any communication system, breach or virus in the processes or Payment Gateway or gateway delivery mechanism, sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government, computer hacking unauthorized access to computer data and storage devices, computer crashes, etc.
+
+1.13	"Issuing Bank/Institution" in respect of a Customer, means the bank/institution which has issued the Valid Card to the Customer with which payment for the product(s) or service(s) is made.
+
+1.14	"Merchant Account" means the account with the Acquiring Bank opened by Mobikwik Payment Gateway for the Merchant.
+
+1.15	"Nodal Bank" shall mean bank appointed by Mobikwik Payment Gateway for settlement of funds due to Merchant as per the provisions of this Agreement and in accordance with RBI guidelines for payment to merchants, as prescribed from time to time.
+
+1.16	"Payment Card Industry" means and includes payment brands such as MasterCard, Visa, etc. which has issued the Valid Card via an Issuing Bank or directly to the Customer.
+
+1.17	"Payment Gateway" shall mean the system owned/operated/made available by Acquiring Bank(s), Institutions, Payment Gateway Facilitators, cash card brands and associate companies, as well as third party service providers and/or Payment Card Industry issuers such as Master Card/Visa/Diners Card, various banks, etc., and/or their service provider/agents to Mobikwik Payment Gateway for facilitating and validating online transactions on authorized merchants' web-sites and the Authorization of payments in accordance with the Payment Mechanism.
+
+1.18	"Payment Gateway Facilitators" shall mean and include the Acquiring Banks, Institutions, Facility Providers, cash card brands and associate companies, as well as third party service providers and/or Payment Card Industry issuers such as MasterCard/Visa/Diners Card, various banks, etc., and/or their service provider/agents to Mobikwik Payment Gateway.
+
+1.19	"Payment Mechanism" means the mechanism for making payments by the various modes of payment, through the Payment Gateway.
+
+1.20	"Transaction" shall mean information related to the purchase of products and services from the Merchant by a Customer. Specifically, a Transaction is an Authorization, delayed capture, sale, void, voice authorization, or credit data transmission between Mobikwik Payment Gateway and its back end processors.
+
+1.21	"Valid Bank Account" shall mean the Customer's bank account enabled with net-banking facility to enable the Customer to transact online and issue payment instructions.
+
+1.22	"Valid Card" shall mean any valid credit card, valid debit card, valid cash card and/or any other card of whatsoever nature issued in India and/or abroad by Visa or MasterCard and/or by Issuing Bank or any Institution designated to issue a Visa or MasterCard branded approved card type, or an approved valid card product licensed by these associations or an approved card from an approved card bank/Institution, debit cards, cash card brands, etc. suitable and valid for transacting as per the scope defined by those respective institution/s and which is not listed in Visa/MasterCard's or any other bank/Institution warning bulletins and other current warning bulletins and that the valid card is utilized during its period of validity along with a duly authorized, PIN or password and finally that which will be accepted as valid by the Payment Gateway Facilitators.
+
+1.23	"Valid Charge" shall mean a charge and/or Authorization on a Valid Card and/or a charge authorized in accordance with this Agreement.
+
+1.24	"Mobikwik Payment Gateway Site" shall mean the website with the domain name "www.Mobikwik Payment Gateway.com" and all its sub domains established by Mobikwik Payment Gateway for the purposes of enabling payment processing instructions by the Customers of the Merchant to Mobikwik Payment Gateway through the website of the Merchant.
+
+TERMS AND CONDITIONS
+ACCEPTANCE OF TERMS
+Welcome to Mobikwik Payment Gateway. Mobikwik Payment Gateway provides its service to you, subject to the following Terms and Conditions, which may be updated by us from time to time without notice to you. You can review the most current version of the T&C at any time on this page. In addition, when using particular Mobikwik Payment Gateway services, you shall be subject to any posted guidelines or rules applicable to such services, which may be posted from time to time. All such guidelines or rules are hereby incorporated by reference into the T&C. Unless otherwise specified by Mobikwik Payment Gateway all alterations, additions and deletions shall take effect automatically and be binding on and from the day they are posted on the website www.Mobikwik Payment Gateway.com. By continuing to access or use the Mobikwik Payment Gateway Service, you will be deemed to have agreed to accept and be bound by such altered, added to or deleted T&C. If you do not agree to the alterations, additions or deletions, you should discontinue accessing or using the Mobikwik Payment Gateway Service (other than those which have already been availed of by you prior to such alterations, additions or deletions).
+
+Where appropriate, a reference in the T&Cs to a person includes corporations, partnerships and other unincorporated bodies of persons.
+
+1.	Object
+Mobikwik Payment Gateway hereby agrees to permit the Merchant to use the Services, for facilitating payment by Customers through a Valid Card or Valid Bank Account for products and/or services availed from the Merchant by the Customer, using Payment Gateway made available by the Payment Gateway Facilitators. Provided, the Merchant agrees to adhere to the terms and conditions set out hereto.
+
+2.	Eligibility Requirement for Opening Mobikwik Payment Gateway Account
+By creating/opening a Mobikwik Payment Gateway Account, you represent and confirm that you are:
+a)	18 (eighteen) years of age or older;
+
+b)	an Indian citizen, a legal resident of India or a business entity, authorized to conduct business in India;
+
+c)	not 'incompetent to contract' within the meaning of the Indian Contract Act, 1972; and entering into and performing this Agreement, as per applicable law. You further represent and confirm that you are not a person debarred from using the Mobikwik Payment Gateway website and/or receiving the Mobikwik Payment Gateway Services under the laws of India or other applicable laws.
+
+d)	Mobikwik Payment Gateway Services and your Mobikwik Payment Gateway Account can only be used in India. You acknowledge that Mobikwik Payment Gateway Services may be subject to restrictions imposed by the laws, rules, regulations, and guidelines in force in India.
+
+3.	Approval and Registration to Avail Mobikwik Payment Gateway Services
+Merchant Account activation.
+
+3.1	To register for a Merchant Account, You must visit www.Mobikwik Payment Gateway.com, where You will be required to provide the following "Registration Data":
+
+1.	The registered entity name;
+2.	Your valid and functional e-mail address ("Registered E-mail ID"); and
+3.	the valid and functional phone number registered in Your name or the name of Your authorized representative ("Registered Phone Number").
+3.2	The Registration Data provided by You must be true to the best of Your knowledge, information and belief. We will bear no liability for false or incorrect Registration Data provided by You. Please ensure that Your Registered E-mail ID and Registered Phone Number are in working order in order to receive communication from Us.
+
+3.3	Upon successfully filling in the Registration Data, We will send an automated e-mail to Your Registered E-mail ID containing a link, which You must click on for activation of Your Merchant Account.
+
+3.4	You hereby expressly consent to receive communications from Us through Your Registered E-mail ID and/or Registered Phone Number.
+
+3.5	Procedure for negotiation and execution of a Physical Contract.
+
+3.6	Please note that activation of Your Merchant Account does not guarantee that You will receive further communication from Us, or that We will certainly execute a Physical Contract with You.
+
+3.7	By registering for a Merchant Account, You agree to the following:
+
+3.7.1	to receive communication, queries and documents from Us for the purposes of negotiating and executing a Physical Contract;
+
+3.7.2	to provide information that We have a legal duty to request from all Merchant Applicants on account of the Know Your Customer norms ("KYC Norms") prescribed under RBI Regulations;
+
+3.7.3	You agree to undertake due diligence and update Yourself on RBI Regulations and other applicable laws that may have implications on Your liability as a Merchant;
+
+3.7.4	Upon execution of the Physical Contract, You will become a Merchant and will be entitled to Services subject to these T&Cs and the Physical Contract. Those customers of Your goods and/or services who are also Our Users will be entitled to purchase Your goods and/or services using the available payment options.
+
+3.8	At the time of registration you are required to disclose the exact business category/business sub-category for which you will be using the Mobikwik Payment Gateway Services and only avail the Mobikwik Payment Gateway Services through your designated Merchant Site. You understand and acknowledge that in order to use the Mobikwik Payment Gateway Services for any other purpose, you shall notify Mobikwik Payment Gateway in writing/E-mail of such change and such change will be subject to approval by Mobikwik Payment Gateway.
+
+3.9	In order to avail the Mobikwik Payment Gateway Services and Acquiring Bank Services, you must be approved by and registered with Mobikwik Payment Gateway, the Acquiring Banks and Nodal Bank. Any undertaking with respect to the Mobikwik Payment Gateway Services shall be subject to Mobikwik Payment Gateway's, the Acquiring Banks' and Nodal Bank's approval and completion of the registration process. By accepting the terms and conditions, you agree to provide Mobikwik Payment Gateway with all such documents as required by Mobikwik Payment Gateway to register you with Mobikwik Payment Gateway, the Acquiring Banks and Nodal Bank. You authorize Mobikwik Payment Gateway to request for supplemental documentation at any time (before or after your Mobikwik Payment Gateway Account has been activated), in order to verify your identity, the accuracy of the information provided, legitimacy of your business, and/or your Customers, including a Customer report that contains your name and address, etc. If we cannot verify that this information is accurate and complete, we may deny your use of the Services, or close your Mobikwik Payment Gateway Account at any time.
+
+3.10	You further understand and acknowledge that Mobikwik Payment Gateway, the Acquiring Banks and Nodal Bank have the right to withdraw their approval/consent at any time prior to or after commencement of the Mobikwik Payment Gateway Services.
+
+4.	User Name and Password
+4.1	You must choose a reasonably descriptive User name that clearly identifies you or your business. This name will appear on the Customer's Valid card/ Account statement. If a Transaction dispute results from your failure to use a reasonably descriptive user name, you agree to indemnify Mobikwik Payment Gateway for any costs stemming from such dispute.
+
+4.2	As part of the Mobikwik Payment Gateway registration process, you will create a password for your Mobikwik Payment Gateway Account. You are responsible for maintaining the confidentiality of the password and the Mobikwik Payment Gateway Account, and are fully responsible for all activities that occur under the Mobikwik Payment Gateway Account, including, without limitation, all actions by sub-users registered under the Mobikwik Payment Gateway Account. You agree to
+
+(a) immediately notify Mobikwik Payment Gateway of any unauthorized use of your password or the Mobikwik Payment Gateway Account or any other breach of security, and
+
+(b) ensure that you exit from your Mobikwik Payment Gateway Account at the end of each session. Mobikwik Payment Gateway cannot and will not be liable for any loss, damage or other liability arising from your failure to comply with this Clause or from any unauthorized access to or use of the Mobikwik Payment Gateway Account.
+
+4.3	The Merchant shall notify Mobikwik Payment Gateway immediately upon learning of any unauthorized use of its Customer's username and/or password. The Merchant shall be solely responsible for (i) updating its passwords for access to the services periodically, and (ii) creating passwords that are reasonably "strong" under the circumstances, both in accordance with Mobikwik Payment Gateway's requirements.
+
+4.4	For avoidance of any doubt, it is specified herein that a "strong" password must be at least six characters long, does not contain all or part of the Customer's account/user name, and contains at least three of the four following categories of characters: uppercase characters, lowercase characters, base 10 digits, and symbols found on the keyboard (such as !, @, #). Strong passwords should be generated in such a way that knowledge of one does not lead to knowledge of another.
+
+5.	Security and control of transactions
+5.1 The Merchant shall take all precautions as may be feasible or as may be directed by Mobikwik Payment Gateway to ensure that there is no breach of security and that the integrity of the link between the Merchant Website and Mobikwik Payment Gateway Site is maintained at all times. The Merchant shall ensure that all Customers upon accessing the link are truly and properly directed to the Mobikwik Payment Gateway Site. Without prejudice to the generality of the aforesaid, the Merchant shall routinely and at such time intervals as may be specified by Mobikwik Payment Gateway check the integrity of the link and provide such reports as may be required to Mobikwik Payment Gateway from time to time. The Merchant shall also maintain records of such periodical checks in such manner as may be specified by Mobikwik Payment Gateway.
+
+5.2	Mobikwik Payment Gateway shall be entitled to check and audit the Merchant's records and statements in this regard at such intervals or time as Mobikwik Payment Gateway may deem fit but with prior notice to the Merchant. Notwithstanding the aforesaid, in the event of any loss being caused as a result of the link being breached or as a consequence of the link being improper or being in violation of the provisions of T&C, the loss shall be to the account of the Merchant and the Merchant herein indemnifies Mobikwik Payment Gateway and shall keep indemnified Mobikwik Payment Gateway from any loss as may be caused in this regard.
+
+5.3	The Merchant shall ensure that there are proper encryption and security measures at Merchant Website to prevent any hacking into the information of the Merchant. It shall be the obligation of Merchant to verify the IP address of https://www.Mobikwik Payment Gateway.com/ in the return/confirmation message URL. In the event of any loss being due to any act, which is beyond the control of the Merchant, including any hacking into the Website, the loss shall be borne by the Merchant alone and not the Customer. The Merchant must use security standards in respect of all processing of orders or such other standard as may be specified by Mobikwik Payment Gateway from time to time.
+
+6.	Liability, warranties and Merchant commitments Liability
+6.1	Notwithstanding anything to the contrary contained in these T&C, under no circumstances shall the aggregate liability of Mobikwik Payment Gateway to the Merchant or any third party arising from or out of, relating to this Agreement, or relating to Services exceed the sum actually earned by Mobikwik Payment Gateway for the Transaction in question/under dispute.
+
+6.2	Mobikwik Payment Gateway shall not be liable to the Merchant or any third party for loss of profits or for any special, incidental, indirect, consequential or exemplary damages arising out of or in any manner related to Mobikwik Payment Gateway service or the subject matter hereof, or as regards the Services agreed to be given T&C, regardless of the form of action and whether or not Merchant or such third party has been informed of, or otherwise might have anticipated, the possibility of such damages.
+
+Warranties related to Mobikwik Payment Gateway
+6.3	Mobikwik Payment Gateway disclaim all warranties, express or implied, written or oral, including, but not limited to, warranties of merchantability and fitness for a particular purpose with respect to the Services or otherwise made as regards to these T&C. The Merchant acknowledges and accepts that Mobikwik Payment Gateway's Services and the Payment Gateway Facilitators' services may not be uninterrupted or error free. The Merchant also acknowledges that the services provided by the Payment Gateway Facilitators to Mobikwik Payment Gateway which is passed on to the Merchant under these T&C, can be in any event be brought to an abrupt end in any event whatsoever by Mobikwik Payment Gateway and/or the Payment Gateway Facilitators for any reason whatsoever and in such an event the services to the Merchant will in turn be terminated without Mobikwik Payment Gateway having to be given any reason whatsoever.
+
+6.4 Mobikwik Payment Gateway's sole obligation and the Merchant's sole and exclusive remedy in the event of interruption to the Services or loss of use and/or access to Mobikwik Payment Gateway Site and the Payment Gateway Facilitator's Payment Mechanism and services, shall be to use all reasonable endeavors to restore the Services and/or access to the Payment Mechanism as soon as reasonably possible.
+
+6.5 Without prejudice to any other provision, Mobikwik Payment Gateway do not warrant that:
+
+(a) Mobikwik Payment Gateway Site and services, Facilities and the Payment Gateway Facilitator's Payment Mechanism will be provided uninterrupted or free from errors or that any identified defect will be corrected; or
+
+(b) the Services are free from any virus or other malicious, destructive or corrupting code, program or macro; or
+
+(c) they shall provide the Services in a manner that protects information transmitted by the Software from
+
+(i) unauthorized interception;
+
+(ii)	undetected unauthorized modification or alteration after its origination;
+
+(iii)	undetected initiation by persons posing as other persons or entities; or
+
+(iv) unauthorized replication.
+
+6.6 Mobikwik Payment Gateway reserves the right, but shall not be obliged, to make changes, enhancements, and/or modifications to the services offered by Mobikwik Payment Gateway from time to time including, without limitation, the development of updates, patches, upgrades, and/or the procurement of new releases of any Software or the internet Payment Gateway.
+
+6.7 Mobikwik Payment Gateway shall be entitled to provide the Payment Mechanism with such security as Mobikwik Payment Gateway may deem fit from time to time. At present Mobikwik Payment Gateway uses the HMACencryption. However Mobikwik Payment Gateway does not guarantee that the Services and/or the internet Payment Gateway will be at all times be equipped with security measures and Mobikwik Payment Gateway does not make any express or implied warranty with respect to the security measures that it may employ from time to time, or other procedures, services, including, without limitation, any warranties on merchantability, satisfactory quality and/or fitness for a particular purpose.
+
+6.8 Other than as expressly provided in this Agreement, Mobikwik Payment Gateway shall not be responsible for any Delivery, after-sales service, payment, invoicing or collection, Customer enquiries (not limited to sales enquiries), technical support maintenance services and/or any other obligations or services relating to or in respect of the products. Such services shall be the sole responsibility of the Merchant and the Merchant shall bear any and all expenses and/or costs relating thereto.
+
+6.9	Mobikwik Payment Gateway shall be entitled to rely upon by all electronic communications, orders or messages to Mobikwik Payment Gateway through the internet Payment Gateway and Mobikwik Payment Gateway shall not be obliged to verify or make further inquiry into the identity of the sender, or the message integrity, of any communications, orders or messages. The Merchant shall in no circumstance dispute such reliance by Mobikwik Payment Gateway. Provided that if Mobikwik Payment Gateway were to employ any security measures, Mobikwik Payment Gateway shall not be bound by or obliged to act on any electronic communications, orders or messages received on-line from the Merchant or the Customer which do not properly utilize Mobikwik Payment Gateway security measures as may be applicable from time to time.
+
+6.10	Mobikwik Payment Gateway shall not be liable in contract, tort or otherwise for any direct, indirect or consequential loss or damage sustained by the Merchant by any direct or indirect use of or reliance on the electronic communication, orders or messages whether with or without the utilization of any security measures, including but not limited to any loss or damage resulting as a consequence of any defects, delays, interruptions, errors, inaccuracies or failures in the various communications and Mobikwik Payment Gateway specifically excludes the same to the fullest extent permitted by law even if Mobikwik Payment Gateway shall have been advised in advance of the possibility of such damages.
+
+For the avoidance of doubt, in no event shall Mobikwik Payment Gateway/Nodal Bank and the Payment Gateway Facilitators/Payment Card Industry be liable to the Merchant or any other third party for any of the following:
+
+(a) amounts due from Customer in connection with any service obtained by Customer at Merchant's Website; and
+
+(b) any applicable taxes and government levies.
+
+The Merchant shall themselves bear and otherwise be solely responsible for the payment of all relevant taxes and/or any other dues (including any applicable withholding taxes) due on account of and in connection with the services or otherwise relating to Customer Orders received by/placed with the Merchant and/or this Agreement.
+
+6.11	Mobikwik Payment Gateway shall be entitled to use hardware, software and/or such other equipment as it deems necessary or appropriate for the provision of the Services and the Merchant agrees to comply with the directions and/or instructions issued by Mobikwik Payment Gateway in respect of the use of such hardware, software and/or equipment. The Merchant also agrees to suitably modify/upgrade its systems to comply with the standards of the Payment Mechanisms (then in force) and the standards applicable to the various services provided by Mobikwik Payment Gateway. Mobikwik Payment Gateway shall be entitled to modify the mode of payment and the payment procedure mentioned herein and shall be also entitled to modify its Payment Mechanism from time to time in such manner as it may deem fit. If such a modification requires the change in any software, upgradation of software, change in security or upgradation of security on the Merchant Website, the Merchant shall forthwith improve the software, security or such other matters provided therein in a manner acceptable to Mobikwik Payment Gateway. Mobikwik Payment Gateway may levy additional charges as Mobikwik Payment Gateway may deem fit for the provision of additional services in this regard.
+
+Merchant Commitment's
+6.12 Merchant hereby covenants that it has full capacity, power and authority to enter into this Agreement and has already taken and will continue to take all necessary and further actions, (including where applicable without limitation obtaining of all governmental and other necessary approvals/consents/licenses in all applicable jurisdictions) and to authorize the execution, delivery and performance of this Agreement.
+
+6.13	Notwithstanding anything contained in this Agreement, Mobikwik Payment Gateway shall not be liable to the Merchant or Customer in relation to any claims in connection with the underlying Transaction between the Merchant and Customer. In the event that a User makes a claim upon Mobikwik Payment Gateway in connection with any products or services provided by the Merchant, the Merchant shall forthwith upon demand and without protest indemnify and hold Mobikwik Payment Gateway harmless from and against any and all claims, loss, damage arising in connection with the products and/or services sought to be provided by the Merchant.
+
+6.14	The Merchant assures and guarantees to Mobikwik Payment Gateway that the Merchant shall indemnify and hold Mobikwik Payment Gateway harmless if it carries on any activity, which is banned or illegal or immoral under applicable laws. Without any prejudice to the generality of the foregoing, the Merchant shall be deemed to be liable under this provision if it deals in the products and services as is listed and set out in Banned List or such other specific products or services as may be declared by Mobikwik Payment Gateway in future.
+
+6.15	The Merchant shall use the Services only for the Merchant Website and for no other purpose whatsoever.
+
+6.16	The Merchant shall make available the Merchant Website and records relevant to transactions connected to the Services for the purpose of audits or verification by rating agencies or any other agencies whether of the government or otherwise, as may be notified by Mobikwik Payment Gateway to the Merchant from time to time.
+
+6.17	Neither Party shall not do any act or conduct any activity that could affect the goodwill and reputation of the other Party or which would affect interests of the other Party, in any manner.
+
+6.18	The Merchant shall be solely responsible for compliance of legal and regulatory requirements applicable to its business and in no event shall Mobikwik Payment Gateway be held liable for any non-compliance and/or breach of applicable laws by the Merchant.
+
+6.19	The Merchant shall maintain such minimum content requirements that Mobikwik Payment Gateway requires the Merchant to adopt for payment purposes and pursuant to this Agreement.
+
+7.	Authorisation
+7.1	The Merchant shall obtain Authorization from Mobikwik Payment Gateway and/or their Payment Gateway Facilitator(s) before accepting any Customer Order.
+
+7.2 The Merchant shall not accept any Order for which payment is to be made though a Valid Card (credit/debit) unless the Transaction is authorized through the Payment Gateway mechanism.
+
+7.3 Unacceptable Transactions: The Merchant shall not process or deposit Transactions with Mobikwik Payment Gateway for any other merchant or establishment who may or may not be the merchant with Mobikwik Payment Gateway. The Merchant will also not give cash advance by showing the Transaction as a sale Transaction. The Merchant shall not accept payment from a Cardholder to re-finance an existing debt.
+
+7.4 Mobikwik Payment Gateway reserves the right to discontinue the service on these grounds and recover such amounts from the Merchant in case it is exposed to losses due to chargeback or disputes.
+
+7.5 Minimum or maximum Transaction amount: The Merchant shall not require, or post signs indicating that they require, a Transaction amount below or above which the Merchant shall refuse to honour a Valid Card.
+
+8.	Transaction Handling Policy
+8.1	The Merchant in handling Transaction(s) via Payment Gateway(s) must ensure that the extraction of data from the cards must be in the manner specified by Payment Card Industry members from time to time.
+
+8.2 The Merchant shall deliver to the Cardholder a bill/invoice, which shall include the charges covered in the payment received from the Cardholder through the Payment Gateway, along with the terms and conditions applicable for the Transaction.
+
+8.3	Mobikwik Payment Gateway reserves the right to impose limits on the number of Transactions undertaken using a particular Valid Card and the value of a single Transaction during any time period, and reserves the right to refuse to make payments in respect of Transactions exceeding such limit.
+
+8.4 The Merchant shall not require any Cardholder to pay any surcharge, to pay any part of the discount, whether arising through any increase in price or otherwise, or to pay any contemporaneous finance charge in connection with the Transaction in which a Valid Card is used.
+
+8.5 The Merchant shall in all documents including the delivery note mention amongst other particulars, the particulars regarding quantity of products ordered and quantity of products delivered.
+
+8.6	The Merchant shall have an option to either capture or cancel the Customer Order on the Merchant Settlement Dashboard within 7 (seven) days. The Merchant shall immediately convey to Mobikwik Payment Gateway by capturing the Customer Order/ acceptance to provide the service to the Customer within a period not exceeding 7 (seven) days (or any other period which may be intimated to the Merchant from time to time) from the Customer placing an Order/requesting a service through the Payment Gateway. In the event the Merchant captures a Customer Order/agrees to provide the service to the Customer but however subsequently notifies to Mobikwik Payment Gateway about the Merchant's inability to comply with a Customer Order/service, the Merchant shall forthwith make a proper refund for giving effect to the same.
+
+8.7 Where the Payment Gateway Facilitators have fixed that the Customer Order has to be fulfilled within 7 (seven) calendar days from the date of Order and the Merchant has failed to comply with the said Customer Order, the Merchant shall not be entitled to its share of the Customer Charge in respect of the Order which the Merchant is unable to deliver/provide.
+
+9.	Consideration/Fees and Other Charges
+
+9.1 In consideration of the Services provided by Mobikwik Payment Gateway, the Merchant agrees to pay to Mobikwik Payment Gateway the transaction discount rate ("TDR") and further charges such as account maintenance charges (AMC) or other charges and fees for further services as may be applicable or as revised by Mobikwik Payment Gateway which amount(s) shall be deducted by Mobikwik Payment Gateway from the amounts payable to the Merchant in terms of this agreement, thereof in respect of and from the Customer Charge and/or from the credit balance. The TDR may be modified from time to time by at least 5 (five) business days advance written notice by Mobikwik Payment Gateway to the Merchant in the manner specified.
+
+9.2 The transaction discount rate shall be the amount of the bill excluding taxes, tips, shipping, charges, etc. which shall be additionally chargeable as applicable. For avoidance of any doubts, it is hereby clarified that all taxes of whatsoever nature including but not limited to service tax, education cess, consumption tax, value added tax, withholding taxes whether currently in force or introduced after the date from which merchant started using the Mobikwik Payment Gateway services and any other taxes, duties, fees and charges arising out of the performance shall be borne by the Merchant.
+
+9.3	If deemed necessary by Mobikwik Payment Gateway, the Merchant shall provide a security deposit to the Merchant as specified and Mobikwik Payment Gateway shall have the right to forfeit the security deposit in the event of any material breach of the terms of this Agreement.
+
+10.	Payment Mechanism
+10.1	The payment to the Merchant by Mobikwik Payment Gateway shall be governed by the following terms.
+
+10.1.1	The net payments shall be made available by Mobikwik Payment Gateway's Nodal Bank to the Merchant after making the following adjustments, deductions and any other deductions in as per T&C from the amount of the Transaction (subject to the limits on the monthly withdrawal volumes/limits allowed to the Merchant):
+
+(a) the consideration/fees, the transaction discount rate along with other dues, fees, charges, out of pocket expenses, etc due to Mobikwik Payment Gateway in terms of T&C or the agreement signed between Mobikwik Payment Gateway and Merchant. Mobikwik Payment Gateway and the merchant or at any other rates and percentage as amended from time to time for all Transactions processed;
+
+(b) the sum of all Customer Charges denied, refused, or charged back by the Customer or the Payment Gateway Facilitators;
+
+(c) all costs, charges, expenses, etc. of whatsoever nature on account of, inquiries, disputes, cancellations and/or refunds processed on account of Merchant's Customer Charges and/or chargeback; and
+
+(d) any taxes including, but not limited to, service tax, education cess as may be applicable, penalties, charges or other items reimbursable under any of the provisions of this Agreement or otherwise occurring in any manner whatsoever.
+
+10.1.2	Mobikwik Payment Gateway will reconcile the accounts and subject to the right of Mobikwik Payment Gateway to withhold payment of the amount arrived at for any reason whatsoever either in as per these T&C or otherwise, only thereafter Mobikwik Payment Gateway shall make payment to the Merchant.
+
+10.1.3	It is herein agreed and acknowledged that irrespective of any payment made by Mobikwik Payment Gateway to the Merchant, the same shall be made without prejudice to any claims or rights that Mobikwik Payment Gateway may have against the Merchant and such payments shall not constitute any admission by Mobikwik Payment Gateway as to the performance by the Merchant of its obligations under this Agreement and the amount payable to the Merchant. Mobikwik Payment Gateway shall be entitled to set off and/or deduct from any payment due from the Merchant, such payments that are subsequently determined to be not due and/or wrongly paid to the Merchant.
+
+10.1.4	It is hereby clarified and agreed that subject to applicable law, Mobikwik Payment Gateway is hereby authorized and entitled to debit the Merchant's Account for, transaction discount rates, service tax, other applicable taxes, refund/s to Customer/Cardholder and any other amounts due and payable by the Merchant to Mobikwik Payment Gateway as per these T&C or in any other manner whatsoever shall not be dependent upon or conditional upon the Merchant obtaining payment whether through Mobikwik Payment Gateway or otherwise from Customers in respect of the product(s)/service(s) and/or irrespective of whether the Merchant complies with the Order placed by the Customer with the Merchant. The Merchant agrees and undertakes to execute all Authorizations and writings as may be required by Mobikwik Payment Gateway from time to time and shall ensure that there is sufficient captured transactional amount in the Merchant's Account at all times.
+
+10.1.5	The Mobikwik Payment Gateway Site shall provide the Merchant with access to a feature titled as "Merchant Settlement Dashboard" that shall list all the transactions that were undertaken, attempted or completed by any Customer using Mobikwik Payment Gateway Services vis-a-vis the Merchant.
+
+10.2 Time of making payments/due date of payment:
+
+10.2.1	Upon completion of Transaction and receipt of proof of Delivery of the Dispatch of the relevant product and/or service of the Merchant, Mobikwik Payment Gateway's Nodal Bank shall deliver payment to the Merchant of the Merchant's share of the Customer Charge, 2 (two) Business Days after the date of Transaction(s).This amount shall always be subject to no potential claims having arisen against Mobikwik Payment Gateway by third parties in relation to the proposed payment or due to other heads of claims permissible under applicable law.
+
+10.2.2 Subject to provisions of Force Majeure, Mobikwik Payment Gateway shall undertake reasonable efforts to make payments of Merchant's share of the Customer Charge to the Merchant within 2 (two) Business Days from the date of Transaction(s) carried on by using net banking facilities or by using a Valid Card.
+
+10.2.3	Notwithstanding anything contained herein, where Mobikwik Payment Gateway has reason to believe that any charges/debits have been fraudulently incurred ("Suspect Charge") Mobikwik Payment Gateway's Nodal Bank shall be entitled to withhold payment in respect thereof until it is held not to be a Suspect Charge. Upon Mobikwik Payment Gateway determining after due enquiry and investigation that the charge is a Valid Charge and not a Suspect Charge, Mobikwik Payment Gateway's Nodal Bank shall release such withheld payment. Provided further that if Mobikwik Payment Gateway determines after due enquiry and investigation that any Suspect Charge is not a Valid Charge at all, Mobikwik Payment Gateway's shall be entitled not to pay the same at all.
+
+For avoidance of any doubts, it is hereby clarified that Mobikwik Payment Gateway shall not be liable to pay any Penalty Interest to the Merchant for the Suspect Charge or any other payments withhold under the provisions of Clause 10.2.3 above.
+
+10.3	Rejection of Payment: The making of payments under this Agreement by Mobikwik Payment Gateway to the Merchant due to Mobikwik Payment Gateway being unable to exercise set-offs against amounts due to Mobikwik Payment Gateway shall not constitute a waiver of its rights to recover amounts payable by the Merchant to Mobikwik Payment Gateway and seek indemnities from the Merchant for losses suffered by Mobikwik Payment Gateway under any heads of claims permissible under applicable law, such as:
+
+(a) Any Transaction is for any reason unlawful or unenforceable.
+
+(b)	Any information presented electronically to Mobikwik Payment Gateway in respect of the Transaction is not received in accordance with Mobikwik Payment Gateway's requirements as specified from time to time.
+
+(c) Any Transaction made outside the territory authorized for the use of such instrument.
+
+(d) Transaction is posted more than once to Cardholder's account.
+
+(e)	The Transaction is doubtful or erroneously paid for, to the Merchant.
+
+(f)	Where the Transaction amount and/or monthly volumes, etc exceeds the limits prescribed by Mobikwik Payment Gateway/Payment Gateway Facilitators from time to time, for any legal or regulatory reasons.
+
+Mobikwik Payment Gateway reserves the right to discontinue the service on these grounds and recover such amounts from the Merchant and to be indemnified in relation to any losses in connection thereto
+
+10.4	Consequences Upon Rejection of Payment: Where Mobikwik Payment Gateway/Nodal Bank and/or the Payment Gateway Facilitators are entitled to reject payments in respect of an order or demand a refund or in the case of chargeback, Mobikwik Payment Gateway/Nodal Bank shall be entitled to set off and deduct from any payment due to the Merchant or demand a refund, and in doing so Mobikwik Payment Gateway/Nodal Bank may:
+
+(a) demand payment of the relevant amount from the Merchant;
+
+(b) debit the Merchant's Account forthwith until Mobikwik Payment Gateway has been refunded in full; and/or;
+
+(c) deduct and/or set off the outstanding amount from any credits to and/or lying in Merchant Account then or at any time thereafter until Mobikwik Payment Gateway has been refunded in full, and in addition hereto; in the event there are insufficient funds available in the Merchant Account; the Merchant shall forthwith not later than 24 hours, make payment of the amount of the refund to the extent to which such funds proves inadequate and/or any other balance due of whatsoever nature to the Merchant without any delay and the time for payment is herein made the essence of the contract.
+
+10.5	Any default or omission of the Merchant resulting in inability of Mobikwik Payment Gateway to debit charges and other dues and/or non-payment of the amounts due to Mobikwik Payment Gateway and/or the Payment Gateway Facilitators and without prejudice to any other right or remedy Mobikwik Payment Gateway/Nodal Bank and/or the Payment Gateway Facilitators may have, the Merchant shall pay late payment compounded interest at rate of 2.5% (two point five percent) per month on all late payments from due dates of payment until actual date of payment by the Merchant.
+
+10.6	For avoidance of any doubts, it is hereby clarified that Mobikwik Payment Gateway has not provided, and shall not provide, any amount of money by means of security deposit to the Merchant under these T&C.
+
+11.	Refunds / Refund Policy to Customers.
+11.1 In the event of a Customer making a purchase by using a Valid Card or through net-banking and upon the Customer or Issuing Bank/Institution with whom the Customer has taken the Valid Card or the Payment Gateway Facilitator through whom the Customer has utilized any mode of payment mechanism requesting Mobikwik Payment Gateway, the Facility Providers or the banks or the Payment Gateway Facilitator for a refund on any grounds whatsoever within a period of 15 (fifteen) days from the actual Delivery of the product(s), then Mobikwik Payment Gateway, the banks or the Payment Gateway Facilitator shall be entitled to cancel Authorization and refuse to make any payments to the Merchant and/or enforce a refund from the Merchant. Mobikwik Payment Gateway shall forthwith inform the Merchant of the same and shall debit the payment to be made to the Merchant's Account and make an intermediate credit in Mobikwik Payment Gateway Nodal Account, irrespective of any dispute that the Merchant may have pertaining to such debit.
+
+(a)	If the Merchant and the Customer are unable to arrive at a satisfactory resolution of a problem within a period of 14 (fourteen) days thereafter, Mobikwik Payment Gateway's Nodal Bank shall be entitled to make a direct credit to the disputing Customer's account for the disputed amount. Such a debit to the Merchant's Account and the direct credit to the disputing Customer's account shall not be disputed by the Merchant in any manner whatsoever.
+
+(b)	In the event of the Customer and the Merchant arrive at a settlement within the said 14 (fourteen) day period, Mobikwik Payment Gateway shall deal with the said moneys in accordance with the terms of the settlement arrived at. If there is insufficient credit balance of the Merchant with Mobikwik Payment Gateway; the Merchant, shall on receipt of the claim from Mobikwik Payment Gateway, undertakes to forthwith pay to Mobikwik Payment Gateway the amount of the refund within 24 hours of such demand.
+
+11.2 In the event the Merchant accepts a Customer Order/agrees to provide the service to the Customer but however subsequently notifies to Mobikwik Payment Gateway about the Merchant's inability to comply with a Customer Order/service, the Merchant shall forthwith make a proper cancellation for giving effect to the same as well as provide the funds in their account to facilitate a refund of the entire amount due to the Customer. Any deductions made by Mobikwik Payment Gateway from` the Merchant shall not be challenged by the Merchant for any reason whatsoever.
+
+11.3 Where the Payment Gateway Facilitators have fixed that the Customer Order has to be completed within 7 (seven) calendar days from the date of Order and the Merchant has failed to comply with the said Customer Order, the Merchant shall not be entitled to its share of the Customer Charge in respect of the Order which the Merchant is unable to deliver/provide and in the event the Merchant has already received payment for the Customer Order not complied with the Merchant shall forthwith make the payment to Mobikwik Payment Gateway to facilitate a refund of the entire amount due to the Customer, within 24 hours. Any deductions made by Mobikwik Payment Gateway from the Merchant shall not be challenged by the Merchant for any reason whatsoever.
+
+11.4 In the event of a refund to a Cardholder in respect of any Transaction of any products/services that are not received as Ordered by the Cardholder or are lawfully rejected or accepted for or services are not performed or partly performed or cancelled or price is lawfully disputed by the Cardholder or price adjustment is allowed or for any other reason whatsoever, the Merchant shall not process a refund transaction and/or make a cash refund directly to the Cardholder. The Merchant must not process a refund transaction, unless there is a preceding corresponding debit on a card account. The Merchant must present to Mobikwik Payment Gateway a credit slip/credit process/refund letter on headed stationary and signed by authorized signatory(ies) which will include details of a brief description of the items concerned upon which Mobikwik Payment Gateway is authorized to deduct from the Merchant Account the total refund(s) due to the Cardholder(s) and in the event of there being a shortfall in the account of the Merchant to provide for the said amount then the Merchant shall forthwith make provisions for the same failing which the Merchant shall be liable to pay interest at the rate then currently charged to Cardholders in respect of their indebtedness from the due date until the date of payment (as well as after and before any demand made or judgment obtained). A true and completed copy of the credit slip must be delivered or forwarded to the Cardholder.
+
+11.5 In the event of refund being agreed to be made by the Merchant to the Customer, a credit slip shall be issued by the Merchant to Mobikwik Payment Gateway within 7 (seven) days after the refund has been agreed between the Merchant and the Customer and Mobikwik Payment Gateway shall:
+
+(a) debit the Merchant's account forthwith; and/or
+
+(b) deduct the outstanding amount from subsequent credits to the Merchant's account; and/ or
+
+(c) if there is no credit amount with Mobikwik Payment Gateway, or insufficient funds available therein, claim from the Merchant the amount credited to the account in respect of the relative Transaction/s along with interest thereon.
+
+In the event of there being a shortfall in the account of the Merchant held with Mobikwik Payment Gateway to provide for the aforesaid then the Merchant shall forthwith make payment to Mobikwik Payment Gateway for the same. In the event of the Merchant failing to make payment for the same and/or in the event Mobikwik Payment Gateway is unable to recover the money from the Merchant, Mobikwik Payment Gateway shall at their discretion be entitled to an amount equal to interest at the rate then currently charged to Customer in respect of their indebtedness from the due date until the date of payment (as well as after and before any demand made or judgment obtained).
+
+11.6 In situations where sale date and refund date have a gap between them, which or otherwise causes a currency conversion difference, Mobikwik Payment Gateway shall have the right to recover the amount pertaining to such foreign exchange currency conversion differences from Merchant, for purpose of crediting the same to the Customer's account.
+
+11.7	Mobikwik Payment Gateway shall not be liable to the Merchant or the Customer in connection with any matters pertaining to the validity of refund or cancellation requests, and shall act in accordance with the directions of the Merchant subject to compliance with Refund Policy as mentioned above. The Merchant shall indemnify and hold harmless Mobikwik Payment Gateway in relation to any claims from third parties including a Customer to the extent that such claims do not relate to a breach of Mobikwik Payment Gateway's contract with the Customer.
+
+12.	Chargebacks Policy.
+12.1	The Parties hereby agree that all chargeback requests received by Mobikwik Payment Gateway from Payment Gateways with respect to the Merchant shall be communicated to the Merchant and the Merchant shall have the ability to dispute the chargeback by providing proof of delivery. However, the decision of Mobikwik Payment Gateway in relation to all chargeback request shall be final and binding on the Merchant. Further, Mobikwik Payment Gateway shall have the right to deduct the chargeback amount from Mobikwik Payment Gateway's daily settlements vis-Ã -vis the Merchant as soon as such amount is deducted from Mobikwik Payment Gateway's settlement by the Payment Gateway. The
+
+13.	Disputes Regarding Products/Services Policy.
+13.1 Mobikwik Payment Gateway shall not be responsible for the quality or merchantability of the products sold to the Customer on Merchant Website using Mobikwik Payment Gateway's Services. Mobikwik Payment Gateway shall also not be responsible for any non-delivery of the products/services to the Customer by the Merchant. All risks associated with the delivery of the products shall be solely that of the Merchant and not of Mobikwik Payment Gateway. Provided that any and all disputes of whatsoever nature whether in relation to deficient, improper or incomplete product/service provided by the Merchant including dispute regarding quality, quantity, merchantability, non-delivery and delay in delivery of the products/service or otherwise any other dispute will be dealt with by and between the Merchant and the Customer directly and Mobikwik Payment Gateway shall not be a party to such disputes.
+
+14. Member Conduct
+14.1	As a condition of your use of the Service, you warrant to Mobikwik Payment Gateway that you will not use the Service for any purpose that is unlawful or prohibited by these terms, conditions, and notices. You agree to abide by all applicable local, state, national and international laws and regulations and are solely responsible for all acts or omissions that occur under your account or password, including the content received and payments made through the Service.
+
+14.2	Mobikwik Payment Gateway has no obligation to monitor the Service or any member's use thereof or retain the content of any member session. However, Mobikwik Payment Gateway reserves the right at all times to monitor, review, retain and/or disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request.
+
+15.	Links
+15.1	The Service may provide, or third parties may provide, links to other World Wide Web sites or resources ("Linked Sites"). As Mobikwik Payment Gateway has no control over such sites and resources, you acknowledge and agree that Mobikwik Payment Gateway is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available or transmitted from such sites or resources. Your correspondence or business dealings with, or participation in promotions of advertisers found on or through the Service, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such suppliers. You acknowledge and agree that Mobikwik Payment Gateway shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource. The links have been provided to you only as a convenience and the inclusion of any link does not imply any association of Mobikwik Payment Gateway with the operators of such sites or resources.
+
+16. Disclaimers
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+
+16.1 Your use of the service is at your sole risk. The service is provided on an "as is" and "as available" basis. Mobikwik Payment Gateway and/or its respective suppliers expressly disclaim all warranties of any kind whether express or implied including without limitation, any representation or warranty for accuracy, continuity, uninterrupted access, timeliness, sequence, quality, performance, merchantability, fitness for any particular purpose, non-infringement or completeness. Specifically, Mobikwik Payment Gateway disclaims any and all warranties including, but not limited to any warranties concerning the availability, accuracy, usefulness, correctness or completeness of information, and any warranties of title, warranty of non-infringement, freedom from computer virus, warranties of merchantability or fitness for a particular purpose, other than those warranties which are incapable of exclusion, restriction or modification under the laws applicable to the T&C.
+
+16.2	Mobikwik Payment Gateway does not warrant or makes any representations regarding the use or the results of the Service in terms of its compatibility, correctness, accuracy, reliability or otherwise. You assume total responsibility and risk for your access and use of the Service.
+
+16.3	Any material downloaded or otherwise obtained through the use of the service is done at your own discretion and risk and that you will be solely responsible for any damage to your computer system or loss of data that results from the download of any such material.
+
+16.4	No advice or information, whether oral or written, obtained by you from Mobikwik Payment Gateway or through or from the service shall create any warranty not expressly stated in the T&C.
+
+16.5	Although Mobikwik Payment Gateway adopts security measures it considers appropriate for the offer of this Service, it does not assure or guarantee that no person will overcome or subvert the security measures and gain unauthorised access to the Service or any Member Accounts. Mobikwik Payment Gateway shall not be responsible or liable if any unauthorised person hacks into or gains access to the Service or to your accounts; and you shall be liable and responsible for the same.
+
+16.6	This disclaimer of liability applies also to any injury or damage caused by any failure of performance, delay in processing or transmission, error, omission, interruption, deletion, defect, computer virus, communication line failure, unauthorized access to, alteration of, or use of record, whether for breach of contract, negligence, or under any other cause of action.
+
+16.7	Mobikwik Payment Gateway shall not be responsible for unauthorized access to or alteration of your transmissions or data, any material or data sent or received, or not sent or not received, or any transactions entered into through the service. You specifically agree that Mobikwik Payment Gateway is not responsible for any content, data, information sent using and/or included in the Service by any third party.
+
+17.	Limitation of Liability
+17.1	You expressly understand and agree that Mobikwik Payment Gateway shall not be liable for any direct, indirect, punitive, incidental, special, consequential damages or any damages whatsoever, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses resulting from: (i) the use or performance of the service or the inability to use or non performance of the service; (ii) the provision of or failure to provide services (iii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iv) unauthorized access to or alteration of your transmissions or data; (v) statements or conduct of any third party on the service; or (vi) any other matter relating to the service; whether based on contract, tort, negligence, strict liability or otherwise, even if Mobikwik Payment Gateway has been advised of the possibility of damages.
+
+17.2	To the extent possible, the disclaimers, limitations on liability and indemnities available to Mobikwik Payment Gateway under the T&C shall extend, mutatis mutandis, to the affiliates and partners of Mobikwik Payment Gateway and their respective directors, officers, employees, agents, successors, assigns, involved in providing, delivering or managing the Service (or any part thereof). However this clause shall not protect the aforesaid affiliates/partners or extend to their obligations and liability to Mobikwik Payment Gateway or Mobikwik Payment Gateway's claims against them.
+
+17.3	If you are dissatisfied with any portion of the service, or with any of these terms of use, your sole and exclusive remedy is to discontinue using the service and its related web sites.
+
+18. Intellectual property rights
+18.1	All the Content displayed on this Website is the sole propriety and is in the exclusive right, title and ownership of Mobikwik Payment Gateway. The copyright existing in the content on the Website as well as the Website itself is and shall always remain in the sole custody, possession, control and ownership of Mobikwik Payment Gateway. Copyright for this purpose includes registered as well as non-registered copyright. Trade mark and domain name with of this Website also vests with Mobikwik Payment Gateway Trade marks that have been put for registration and non-registered, trademarks shall also be the sole propriety of Mobikwik Payment Gateway. Any intellectual property rights arising as a result of makeover of any content provided by any Visitor, then intellectual property arising because of such makeover shall also vest with Mobikwik Payment Gateway. The Visitor to this Website grants a royalty free, exclusive and transferable right to Mobikwik Payment Gateway with respect of the content posted by him/her.
+
+19.	Duration and Termination
+19.1	Mobikwik Payment Gateway shall be entitled to terminate the Merchant use of Mobikwik Payment Gateway services with immediate effect, and without the need to take any further action if the performance of the Merchant services is negatively affecting Mobikwik Payment Gateway's business activities.
+
+19.2	Any termination pursuant to this clause will be without any liability or obligation of the terminating party, other than with respect to any breach of these T&C prior to termination, and the Parties will immediately cease representing to the public any affiliation between them in connection with the subject matter of this Agreement.
+
+19.3 Termination for non use: Mobikwik Payment Gateway has the discretion to unilaterally terminate merchant use of Mobikwik Payment Gateway services with immediate effect without any notice, if the Merchant fails or neglects to use the Services for a continuous period of 180 (one hundred and eighty) days, and the Merchant shall not have any recourse to Mobikwik Payment Gateway and no compensation is payable to the Merchant, Mobikwik Payment Gateway's decision being final and binding on the Merchant in this regard.
+
+19.4	Consequences on termination:
+
+(a) Any termination shall not affect any liabilities incurred prior to the termination nor any provision expressed to survive or to be effective on termination and this clause shall remain in full force and effect notwithstanding termination. Any transaction presented to Mobikwik Payment Gateway after the termination date, whether it bears authorization or not, shall not be paid by Mobikwik Payment Gateway.
+
+(b) In the event of termination, Mobikwik Payment Gateway shall be entitled to withhold for a period of 210 (two hundred and ten) days from the date of termination last transaction attempted, balance and amounts payable to the Merchant or any balance thereof after making adjustments/deductions in terms of this Agreement.
+
+(c) Where any refund claimed by Mobikwik Payment Gateway/customers exceeds the amount due to the Merchant the difference thereof shall be a debt due from the Merchant to Mobikwik Payment Gateway and be forthwith recoverable by appropriate legal action, as deemed fit by Mobikwik Payment Gateway. Without prejudice to any other of Mobikwik Payment Gateway rights and remedies, in the event that the Merchant does not make any payment to Mobikwik Payment Gateway by its due date or on demand as required under these T&C, Mobikwik Payment Gateway shall be entitled to charge daily compounded interest on such overdue amount from the due date until the date of payment in full, at the rate of 2.5% (two point five per cent) per month.
+
+(d) The provisions of this section shall not preclude Mobikwik Payment Gateway from recourse to any other remedies available to it under any statute or otherwise, at law or in equity.
+
+20.	Confidentiality
+20.1	All data, regardless of the medium and their nature, relating to Merchant, Mobikwik Payment Gateway or Customer and designated as being confidential, as well as all data not expressly designated as confidential but which should reasonably be deemed confidential by reason of the medium, nature or content is to be considered confidential. Each party remains the owner of all data made available to the other party.
+
+20.2	Each party undertakes to take all necessary steps to protect the confidential nature of all confidential data under the terms of the present T&Cs, agreeing, in particular, to:
+
+20.2.1 Only use the confidential information of the other for the purpose of fulfilling its obligations set out in the Merchant Contract and not for any other purpose whatsoever;
+
+20.2.2 Communicate all such confidential data supplied within the framework of fulfilment of the Merchant Contract, in whole or in part, orally or in writing, solely to the personnel and representatives of the parties, who shall be informed thereof within the framework of the collaboration described in the Merchant Contract; such data may be made available to the legal authorities upon written request;
+
+20.2.3 Refrain from making any such confidential information available to any Third Party without the prior written consent of the other party;
+
+20.2.4 To return to the other party, upon request and without delay, all documents, copies, notes, recordings, memoranda or other documents issued by said other party which might contain confidential information.
+
+20.3. The obligation of confidentiality as described in article 12 shall remain in effect throughout the entire lifetime of the Merchant Contract. It shall moreover subsist for five (5) years following the end of the test period or termination of the Merchant Contract, regardless of the grounds for termination.
+
+20.4. The following data is to be considered confidential, without need for special mention: (i) all financial data; (ii) the terms and conditions of the Merchant Contract; and (iii) all user manuals and guides relating to Service(s).
+
+21- General provisions
+21.1 Relationship between Parties.
+
+(a) Unless expressly provided otherwise, it is clarified that this relationship is on a principal to principal basis and does not create and shall not be deemed to create any employer-employee or a principal-agent relationship between the Parties. None of the Parties shall be entitled to, by act, word, and deed or otherwise make any statement on behalf of the other Party or in any manner bind the other Party or hold out or represent that it is representing or acting as an agent of the other Party.
+
+(b) It is further clarified that each Party shall provide the said services as an independent contractor and nothing contained herein shall be deemed to create any association, partnership, joint venture or relationship of principal and agent or master and servant, or employer and employee between the Parties and/or the personnel assigned/provided/deployed by either Party with the right, power or authority, whether express or implied to create any such duty or obligation on behalf of any of them.
+
+21.2 Severability. If any provision of these T&C are determined to be unenforceable in whole or in part for any reason, then such provision or part shall to that extent be deemed deleted from this Agreement and the legality, validity and enforceability of the remaining provisions of this Agreement shall not be in any way affected thereby and any act of omission/commission of the parties hereto done prior to the provisions being held unenforceable shall be deemed to be valid and/or binding on the other.
+
+21.3 Variations of T&C's. Mobikwik Payment Gateway reserves the right at all times to vary or amend these terms and conditions or to introduce new terms and conditions. Any such variations or amendment or introduction will become effective and binding on the Merchant upon (a) written notification to the Merchant through the merchant settlement dashboard and/or e-mail communication; and (b) receipt of written consent from the Merchant, accepting the variation or amendment. The Merchant shall be under an obligation to provide its written consent within 7 (seven) days of notification by Mobikwik Payment Gateway, failing which the variations or amendment will deemed to be effective and binding on the Merchant.
+
+21.4 Assignment. Merchant will obtain prior consent from Mobikwik Payment Gateway and shall notify Mobikwik Payment Gateway of any sale, assignment, or transfer of the business of, or change in ownership of the Merchant.
+
+21.5 Rights, Remedies and Waiver. All rights and remedies hereunder shall be cumulative and may be exercised singularly or concurrently. If either Party fails to perform its obligations under any provision of this Agreement and the other Party does not enforce such provision, failure to enforce on that occasion shall not constitute a waiver or prevent enforcement on later occasions.
+
+21.6 Jurisdiction and Governing Law. The laws of India shall govern these T&C's. The Parties agree to submit to the exclusive jurisdiction of the courts located in New Delhi, India as regards any claims or matters arising under or in relation to the terms and conditions.
+
+21.7	Dispute Resolution. The Parties hereto will endeavour to settle amicably by mutual discussion any disputes, differences or claims whatsoever, related to these T&C or arising on account of the Agreement signed between Mobikwik Payment Gateway and Merchant. Failing such amicable settlement any dispute shall be settled by arbitration by a single arbitrator who shall be appointed by the Parties hereto and for which the Arbitration and Conciliation Act, 1996 as amended from time to time shall govern the arbitration proceedings. The seat of arbitration and jurisdiction in relation to proceedings before the courts shall be New Delhi, India. The arbitral procedure shall be conducted in the English language and any award or awards shall be rendered in English. The procedural law of the arbitration shall be Indian law.
+
+21.8 Headings and sub-headings. The headings and sub headings are for convenience only and do not affect the intent/meaning or interpretation of the relative section/ clause.
+
+21.9 Disclosure of information. Mobikwik Payment Gateway/Nodal Bank/Payment Gateway Facilitators will be entitled at any time to disclose information concerning the Merchant to a third party in connection with the Services.
+
+21.10 Duty, costs, charges, etc. All costs (including costs between the advocate and client), charges, expenses, taxes, duties (including stamp duty and/or franking charges) in relation to this Mobikwik Payment Gateway Service and any document executed pursuant thereto and in relation to the enforcement of this T&C's shall be borne and paid by the Merchant alone.
+
+21.11
+
+Notices
+
+1.	Any notice or notification in connection with these T&Cs or Physical Contract executed with a Merchant will be communicated through the contact information specified in the said Physical Contract, unless otherwise specified.
+
+2.	All Your communication with Us will be of a professional nature only. You will not contact Us to harass, intimidate or threaten any person, or to promote any cause which You may espouse.
+
+3.	You will be subject to Our Terms of Use and Privacy Policy.
+
+Any notice or notification in connection with this Agreement shall be in writing and given as follows: If to Mobikwik Payment Gateway:
+
+Attn:    Legal Department
+
+Address:   Second Floor, Orchid Center, Sector-53, Golf Course Road, Gurgaon, Haryana 122002.
+
+E-mail:   legal@Mobikwik Payment Gateway.com
+
+21.12	Confidentiality. All communications between the Parties and/or any of them and all confidential information given to or received by any of them from any other, and all information concerning the business transactions and the financial arrangements of any Party with any entity or Person with whom any of them is in a confidential relationship with regard to the matter in question which comes to the knowledge of the recipient, shall be kept confidential by the recipient unless or until the recipient can reasonably demonstrate that any such communication or confidential information is in the public domain through no fault of its own. If it is in the public domain, this obligation shall then cease in relation to the specific information concerned only.
+
+21.13	Specific Performance. Mobikwik Payment Gateway shall be entitled to seek and enforce specific performance of for merchant, in addition to any other legal rights and remedies, without the necessity of demonstrating the inadequacy of monetary damages.
+
+21.14	Good Faith. Each of the Parties hereto undertake with the other to act in the utmost good faith in interpreting and implementing this Agreement and agree to do all things reasonably within its power which are necessary or desirable to give effect to the spirit and intent of these T&C's.
+
+21.15 Audit	Merchant shall maintain in good order and as per generally accepted industry practices, its Site, books of account and other records and documents as required under or for this Merchant Contract. In case it is directed or required by Financial Institutions or other governmental authorities, Merchant shall allow the auditors appointed by Mobikwik Payment Gateway (whether internal or external) to act on its behalf and/or its regulators to enter upon the premises of Merchant and inspect, examine and audit Merchant's operations and records and take copies as it deem fits in their absolute discretion to be relevant to the services carried out and/or arrangement entered into in terms of this Merchant Contract. Such audit shall not unreasonably disturb Merchant's daily operations.

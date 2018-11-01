@@ -1,0 +1,75 @@
+Perfect Corp. (hereinafter referred to as the ‘Company’, ‘YouCam’, ‘YouCam apps’, ‘we’ or ‘our’) handles your information when you use our mobile app services which includes YouCam Makeup, YouCam Perfect, YouCam Fun, YouCam Nails, Beauty Circle and YouCam Shop (collectively known as “YouCam Apps”) in accordance with the following.
+
+What We Collected Information
+We collect the following information: 
+User Information
+your mobile phone number and email address/ password and/or personal description and photograph in your profile;
+phone-book stored on the device;
+optional profile information submitted by you like names, gender, date of birth, physical profile information such as the skin, hair, nails and eye attributes, profile photos, messages, etc;
+cookies, Internet Protocol (IP) address; device information like type of operating system, device serial number, mobile advertising ID, hardware information etc. (collectively known as Anonymous Data Location”) browser type and language. We receive and store these information whenever you install YouCam Apps, use our service or interact with us. For example, like many apps, we use "cookies," and obtain certain types of information when your mobile app browser accesses YouCam Apps or advertisements and other content served by or on behalf of us;
+When you download apps created by us, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services
+your Facebook and Weibo, Twitter, WeChat and email account name for log-in;
+anonymous location data, including but not limited to your geo-location and WiFi network to which your device is connected or in-range where applicable;
+information about the products you tried on.
+Any information that is not connected to your name is not considered personal information. By using Perfect’s mobile app, you consent to the collection and use of information by us and the terms of the Privacy Policy. We may change our Privacy Policy from time to time. We will post these changes so that you are always aware of the information we collect when using this app, how we use it, and under what circumstances we may disclose it. By using our app, you also agree to be legally bound to abide by the changes and other provisions contained in this Privacy Policy. You can choose not to provide certain information, but you may not be able to make a purchase or fully take advantage of promotions on our mobile app.
+
+This privacy policy does not cover information that you submit on other websites, even if we communicate with you on those sites. For example, if you log in via your Facebook account, that information is governed by the privacy policies on that website, and is not governed by this policy.
+
+Purpose of collected Information
+Your information may be used for any or all of the following purposes:
+
+to connect you with people who you may know, and vice versa;
+to provide our services to you;
+for customer service, technical, security, archival and backup purposes in connection with the provision of our services;
+to prevent fraudulent use of the Service;
+to provide you with better advertising and direct marketing experience when you choose to subscribe to this optional service;
+to develop our new services and improve our existing services;
+for aggregated customer analytics and market research purposes;
+membership registration;
+future communication and liaison with you; and
+to send you newsletters, marketing materials and other information that may be of interest to you when you choose to subscribe to this optional service (“Marketing Literature”). For example, depending on your email notification settings, we may send you weekly updates that include Posts you may like. Otherwise, you may opt out from receiving Marketing Literature by updating your account settings.
+Disclose the Information
+Except for sections D1, D2 and D3 as set forth below or otherwise required by laws and regulations of certain jurisdiction where we carry out our business, we will NOT disclose your information to any third parties without your consent.
+
+Activity and log data.
+We store information related to your use of YouCam Apps, such as the pages you view on the Services, your browser type, IP address, requested URL, browser language, referring URL, and the date and time of your visits. We use this type of information to administer the services and provide a more pleasant experience when using YouCam Apps. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the services or to manage or improve the services.
+Public Content.
+If you post content for public view on YouCam Apps, we may distribute such content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their own websites and media platforms. We may ask them to credit you as the source of these contributions by including your account name and profile photo.
+Third Party Service Provider
+We may engage a service providers for services to enhance your experience at YouCam Apps, We may share your personal information with companies to handle matters like such as fulfilling orders, delivering packages, sending postal mail and e-mails, analyzing customer data, providing marketing assistance, investigating fraudulent activity, conducting customer surveys, technical and customer support, perform tracking and reporting functions, conduct quality assurance testing providing customer service and other services in connection with the Services app. In light of the recent changes to privacy laws in Europe, we will do our best to evaluate the eligibility and capability of such affiliate to comply with applicable privacy laws, and security measures in handling information. We may share information about you with them so that they can perform the services they are required to perform, but they are not permitted to use your personal information other than to provide the services requested by you.
+Third party advertising.
+Third parties serve some of the ads on the Services. We do not send any individualized personal information to them, but they may have access to information that they obtain through cookies or that you share with them yourself.
+
+Personal Information Protection
+We strive to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. It is important for you to protect against unauthorized access to your password and to your mobile device. Be sure to sign off when finished using a shared mobile device.
+
+Measurement of Advertising Effectiveness
+To measure the effectiveness of the advertisement, we may install third party modules in the smart phone versions of the Services.
+
+Children’s Privacy
+Our Service do not cater for minors. In case the Service is used by a minor, we strongly advise that this service is cater for individual who are 16 years and above, otherwise, we request a parental /guardian express consent for you to continue using our service by writing to us at privacyteam@perfectcorp.com. If, via notice, any user information relating to minors was on our record, we will deactivate minor’s account and take reasonable measures to promptly delete such information from our records.
+
+Opt-out right
+You may limit the disclosure of certain Non-Personal Information by your mobile Device to us and our business partners by adjusting the advertising settings on your mobile Device.
+
+You may control cookie setting by following the steps below:
+
+How to Control Cookies on mobile app (Android/iOS)
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences
+
+Most web browsers automatically accept cookies but provide controls that allow you to turn off, block or delete them. Learn more at
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en
+
+Please be aware that if you choose to delete cookies, settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
+Accessing and updating your personal information
+We want you to be clear about what information we collect and store your information for as long as your account (upon registering with us in YouCam Apps) is account in use, active or for legitimate purpose in line with the purpose of our business. We do our best to give you ways to manage your information. You may either:
+
+View and edit your preferences about the Perfect ads shown to you on Perfect and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Perfect advertising services;
+Control who you share information with through our service; or
+Change your Profile name and Profile photo appear in shared endorsements that appear in ads by writing to us or adjust setting in your device or membership account; or
+Email us at privacyteam@perfectcorp.com Contact Webmaster for any other enquiries relating to your account information.
+Modifications to this Privacy Policy
+This Privacy Policy may be revised periodically. Notices will be sent to users to advise the changes.
+
+Inquiries
+If you have any questions about this Privacy Statement or any complaints or comments on how the Company handle your information related to the Service, please write to appsupport@perfectcorp.com or 14F., No.98, Minquan Rd., Xindian Dist., New Taipei City 231, Taiwan (R.O.C.).

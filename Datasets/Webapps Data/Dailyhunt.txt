@@ -1,0 +1,128 @@
+User Agreement
+THIS AGREEMENT GRANTS A NON-EXCLUSIVE AND NON-TRANSFERABLE LICENSE TO DOWNLOAD, ACCESS AND USE THE MOBILE OR DESKTOP APPLICATION OR WEBSITE, NAMELY DAILYHUNT OR COOLFIE (hereinafter referred to as the “Platform”) THAT ACTS AS AN INTERMEDIARY ENABLING TECHNOLOGY ALLOWING USER(S) TO ACCESS VARIOUS CONTENT. VERSÉ HOLDS NO RESPONSIBILITY OVER ANY OF THE CONTENT ACCESSIBLE BY USE OF THE PLATFORM BY THE USER.
+
+PLEASE READ CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND BEFORE ACCESSING OR USING THE APPLICATION. BY DOWNLOADING, INSTALLING AND USING THE APPLICATION, USER(S) AGREE TO ACCEPT THE TERMS OF THIS AGREEMENT. BY INSTALLING AND/OR USING THE APPLICATION, THE USER(S) CONFIRM AND AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF THE USER(S) DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN PLEASE DO NOT INSTALL AND/OR USE THE PLATFORM.
+
+This User Agreement (hereinafter called “Agreement”) is entered between User(s) (hereinafter called “User(s)” or “You”,) AND Versé Innovation (hereinafter referred as “Versé”).
+
+Party shall mean either User(s) or Versé based on the context and Parties shall mean both User(s) and Versé respectively.
+WHEREAS, Versé owns and manages the Platform(s) (defined hereinafter) which provides the User(s) access to News contents aggregated from other third-party content providers;
+WHEREAS, User(s) desire to access, use and avail the published content on the Platform and agree to the terms set forth in this Agreement.
+
+NOW THEREFORE, the User(s) and Versé hereby agree as follows
+
+1. Definitions
+11.1. “Confidential Information” shall mean any information, including but not limited to processes, methods, systems, business information, technological information, sales information, client information, which is deemed confidential by Versé, and is disclosed to the User(s) in any manner.
+
+1.2. “Intellectual Property” refers to any invention, creation, work, algorithm, source code, object code or other code, design, Confidential Information, Product and so on which have been acquired, or in the process of being acquired, or capable of being acquired as patent, copyright, trademark, trade secret, or any other type of Intellectual Property
+1.3
+2. Terms and Conditions
+2.1. Versé hereby grant the User(s) a Non-Exclusive, non-transferable and limited License to (s) access and use the Platform on mobile phones, portable devices, or any other technology.
+
+2.2. User(s) agree, undertake and confirm that User(s) are only permitted to use the Platform in accessing the News Content.
+
+2.3. Versé provides User(s) the option to search and select the Content accessible through the Platform, but does not warrant the correctness, authenticity, or validity of the content.
+
+2.4. The Platform may be accessed free of charge, or in any other manner determined by Versé from time to time. Provided however that in order to access the latest Content the User(s) is required to have access to uninterrupted internet connection.
+
+2.5. User(s) hereby agree and acknowledge that nothing contained in this Agreement constitutes an obligation on the part of Versé to offer or provide Content as mentioned herein. Versé may at its sole discretion disable access to the content without any notice.
+
+2.6. User(s) hereby acknowledge and concede that the use, access and availing the facilities of the Platform shall also be governed by the Terms and Conditions, Content Policy and Privacy policy of Verse. User(s) hereby agree that he/she shall be bound by the Terms and Conditions and Privacy Policy and shall act in accordance with the said documents.
+
+2.7 While posting content to the Platform, User(s) hereby agree and acknowledge that heshe shall strictly adhere to the provisions relating to User Generated Content in the Dally Hunt Terms and Conditions which can be accessed here.
+
+3. Activities not permitted
+3.1. User(s) hereby agree, undertake and confirm that use of the Platform shall be subject, including without limitation, to the following conditions:
+3.1.1. Usage of Platform through its installation is permitted only in a single mobile or computer device at a time by a single user;
+
+3.1.2. User(s) shall not illegally download/save the Content accessed through the Platform at any given time;
+
+3.1.3. User(s) shall not attempt to Reverse Engineer, Decompile or Descramble or use the Platform in any manner to understand the process, structure or working of the Platform or to otherwise reduce the Platform to a human perceivable form;
+
+3.1.4. User(s) shall not modify, network, rent, lease, loan, sell, distribute or create derivative works based upon the Platform in whole or in part. User(s) shall not at any time make the Platform available to multiple users through any networking, terminal access, downloading, internal time sharing or similar arrangement or otherwise;
+
+3.1.5. User(s) shall not collect or harvest or attempt to harvest or collect personal data of other users who are using the Platform. User(s) shall not transmit any viruses, worms, defects, Trojan horse, cancel bots, spyware, other items of a contaminating or destructive nature, denial of service attacks, adware, packet or IP spoofing, forged routing or electronic mail address information or similar methods or technology harmful code, flood pings, malware, bot, time bomb, worm, or other harmful or malicious component, which or might overburden, impair or disrupt the Platform , or which does or might restrict or inhibit third party user’s use and enjoyment of the Platform;
+
+3.1.6. User(s) shall not alter or remove, attempt to alter or remove any trademark, copyright or any other proprietary or legal notices contained in, or appearing on, the Platform or any other contents appearing on the Platform. User(s) shall not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, content, music, text, page laYout, or form) of Versé and our affiliates. User(s) may not use any meta-tags or any other “hidden text” utilizing Versé’s name or trademarks;
+
+4. Ownership
+4.1. User(s) hereby agree, undertake and confirm that all right, title and interest in the Platform is retained with Versé and that this Agreement only licenses usage of Platform by the User(s) subject to the terms and conditions of the Agreement. User(s) hereby confirm that this Agreement does not amount to transfer of any proprietary property by Versé to the User, and that all right, title, and interest in the property continues to vest with Versé.
+
+5. Intellectual Property
+5.1 The copyright, trademark, patent or other intellectual property rights in the contents of the Platform (including, without limitation, all designs, logos, names, text, sound recordings, music, images, graphics, video and links) are owned by Versé or the respective third-party entities as identified on the Platform. No license or right is granted and use of the Platform by User(s) therein shall not constitute by implication, estoppel or otherwise, any license or right of use. As such, User(s) shall not reproduce, transmit, republish, upload, post, perform, broadcast, adapt, parody, distribute, display, license and/or alter in whole or in part any of the foregoing in any manner without the express permission of Versé.
+
+5.2 User(s) shall not download or encourage others to download copyrighted works, trademarks, or other proprietary information without obtaining the prior written consent of the owner of the Intellectual Property. In the event of infringement, Versé may on its own sole discretion to take necessary steps to remedy the same.
+
+6. Confidentiality
+6.1. User(s) hereby agree that User(s) shall not disclose any confidential information to any third party about the Platform or Versé which User(s) have come into possession by virtue of downloading, installing, accessing or using the Platform, or in any other manner. User also agrees that in any event, if such confidential information is disclosed by User(s) in violation of this Agreement, Versé may on its own sole discretion, terminate this Agreement by deleting the Accounts of the User(s), without any notice to User(s) or to take any other legal measure which is considered reasonable and legitimate.
+
+6.2. In the event the User(s) are aware that the Confidential Information is passed to any third party, User(s) shall immediately inform Versé regarding the same.
+
+7. Representations and Warranties
+7.1. The Platform and information on it is provided by Versé as is” and on an “as available” basis and Versé, its officers, directors, employees, and agents make no warranties and hereby disclaim any express or implied warranties, including, but not limited to, the implied warranties (collectively, “warranties”) of merchantability and fitness for a particular purpose. In no event shall Versé be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this Platform, even if advised of the possibility of such damage.
+
+7.2. The contents accessible by use of the Platform by the User(s) include materials that belong to third parties. User(s) acknowledge that Versé assumes no responsibility for such contents.
+
+7.3. Versé makes no representations or guarantees that the Platform will be free from any bugs, viruses, Trojan horses, or the like which may be transmitted to or through our Platform by any third party, and/or any errors or omissions in any content or for any loss or damage of any kind incurred as a result of the use of any contents accessed by the User through the Platform.
+
+7.4. Versé does not warrant, endorse, guarantee, or assume responsibility for any product or service advertised or offered by a third party through the use of the Platform or any hyperlinked services or featured in any banner or other advertising, and Versé will not be a party to or in any way be responsible for monitoring any transaction between User(s) and third-party providers of products or services. As with the purchase of a product or service through any medium or in any environment, User(s) should use best judgment and exercise caution, interference, personal injury or property damage, of any nature whatsoever, resulting from the access to and use of the Platform, hacking, or other security intrusion by User(s), and Versé disclaims any liability relating thereto.
+
+7.5. Versé makes no guarantees, representations, or warranties that use or results of the Platform will be accurate, timely, reliable, uninterrupted, or without errors. Without prior notice, Versé may modify, suspend, or discontinue any part or all of the Platform or use of the Platform by User(s). In such event, Versé will not be liable to User(s) or any third party.
+
+7.6. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL VERSÉ BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES, FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OR INABILITY TO USE THE PLATFORM AND ANY LOSS OR DAMAGE ARISING OUT OF OR IN RELATION TO ACTS OF GOD OR ACT OF THIRD PARTY THAT IS BEYOND THE CONTROL OF VERSÉ.
+
+8. Advertisements & Third Party Content
+8.1. User(s) hereby agree, undertake and confirm to receive advertisements through use of this Platform.
+
+8.2. Versé may provide access to third party websites on its Platform. Versé is not responsible for any third-party content, including but not limited to texts, graphics, user interfaces, visual interfaces, photographs, trademarks, logos, sounds, music and artwork or applications, services, advertisements, and/or links that may be contained in the Platform.
+
+9. Privacy
+9.1. While User(s) are accessing, availing and/or using the Platform, Versé may collect some of the personal information and data of User(s). Such information is only collected with respect to various activities relating to the Platform and for no other purpose whatsoever. User(s) may read Versé’s Privacy Policy for more information.
+
+10. Governing Law, Jurisdiction and Arbitration
+10.1. The Agreement shall be governed by the laws for the time being in force in the territory of India and the Courts in Bangalore alone shall have exclusive jurisdiction on the matters concerning this Agreement.
+
+10.2. All disputes arising under or in relation to this Agreement may be referred to arbitration before a sole arbitrator. If the Parties fail to agree on the appointment of a sole arbitrator within the time stipulated under the [Indian] Arbitration and Conciliation Act, 1996 (the “Act”) the Parties shall approach the competent Court under the Act for appointment of the Sole Arbitrator. The Arbitration proceedings shall be carried out in accordance with the Act and the Rules framed there under and the place of Arbitration shall be Bangalore. The arbitration proceedings shall be conducted in English.
+
+11. Term & Termination
+11.1. This Agreement shall commence on the date the User installs and accepts the agreement and shall remain in full force and effect while User uses and accesses the Platform;
+
+11.2. User has the right, in his sole discretion, to terminate this Agreement by deleting or uninstalling the Platform;
+
+11.3. User hereby agrees that Versé reserves the right, in its sole discretion, to terminate this Agreement by deleting the User Account of the User, without any notice to User, for any reason that may also include violation of any terms of the Agreement by the User.
+
+11.4. On termination of User account, any and all user contents, information existing in User account or any and all activity from the User account shall be irretrievably deleted. However, certain details shall be maintained with Versé for archival and legal purposes.
+
+11.5. Both the Parties hereby agree, undertake and confirm that Provisions relating to Intellectual Property and Confidentiality shall survive the expiration or termination of the Agreement.
+
+12. Disclaimer
+12.1 THE PLATFORM, AND ALL NEWS CONTENTS ACCESSED THROUGH THE PLATFORM, ARE PROVIDED “AS IS”, “AS AVAILABLE”, AND “WITH ALL FAULTS”.
+
+12.2 THE PLATFORM AND ALL CONTENT ACCESSED BY THE USER(S) THROUGH THE PLATFORM, ARE PROVIDED “AS IS”, “AS AVAILABLE”, AND “WITH ALL FAULTS”.
+
+13. Indemnity
+13.1. User(s) hereby agree to indemnify, defend and hold Versé, (including all its officers, directors and employees) harmless from and against any and all damages, liabilities, costs and expenses, including attorney’s fees and expenses, arising out of, incident to, or resulting directly or indirectly from the use of the Platform in a manner inconsistent with this Agreement. Notwithstanding its reasonable efforts, Versé cannot take responsibility or control the News Contents accessed by the Users through the Platform.
+
+14. No Liability
+14.1. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL VERSÉ BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES, FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OR INABILITY TO USE THE PLATFORM AND ANY LOSS OR DAMAGE ARISING OUT OF OR IN RELATION TO ACTS OF GOD OR ACT OF THIRD PARTY THAT IS BEYOND THE CONTROL OF VERSÉ.
+
+15. Severability
+15.1. If any provision in this Agreement becomes invalid or illegal or adjudged unenforceable, the provision shall be deemed to have been severed from this Agreement and the remaining provisions of this Agreement shall not, so far as possible, be affected by the severance.
+
+16. Waiver
+16.1. The failure of Versé to enforce at any time any of the provisions of this Agreement shall not be construed to be a waiver of its right, power, privilege or remedy or as a waiver of any preceding or succeeding breach on User(s)’ part to this Agreement nor shall any single or partial exercise of any right power privilege or remedy preclude any other or further exercise of such or any other right power privilege or remedy provided in this Agreement all of which are several and cumulative and are not exclusive of each other or of any other rights or remedies otherwise available to Versé at law or in equity.
+
+17. Force Majeure And Act of Third Parties
+17.1 The performance of any part of this agreement by Versé shall be excused to the extent that such performance is hindered, delayed, or made impractical by flood, fire, war, or riot or any other cause beyond the reasonable control of Versé or act of any third party beyond the control of Versé including but not limited to hacking, data theft, unauthorised access to User account, impersonation, fraud, misrepresentation and so on.
+
+18. Modification
+18.1 User(s) hereby agree, undertake and confirm that Versé reserves the right to update, modify or suspend any part of this Agreement and/or Privacy Policy and/or Terms and Conditions from time to time. Such revised Agreement and/or Privacy Policy and/or Terms and Conditions shall be effective from the date of such update or modification or suspension. User(s) hereby agrees, undertakes and confirms that Versé is not under any obligation to notify User(s) about any changes, modifications made in the Agreement and/or Privacy Policy. It shall be the responsibility of User(s) to regularly review the Terms and Conditions and/or Privacy Policy and/or Terms and Conditions for updates if any. If User(s) disagree to any of the changes to the Agreement, User(s) can refrain from accessing or using the Platform by uninstalling the Platform. User(s)’ continued access or use or availing of the Platform following the changes in the Agreement and/ or the Policies (including Privacy Policy, Terms and Conditions and Content Policy) will indicate User(s)’ acceptance and acknowledgement of the changes and User(s) hereby agree, undertake and confirm that User(s) shall be bound by the revised Agreement and/or the Policies.
+For more information, please contact:
+Verse’ Innovation Pvt Ltd
+No. 2, 1st Main, 1st Block,
+Koramangala, Jakkasandra Extension.
+Bangalore, Karnataka 560034
+Yourfriends@Dailyhunt.in
+
+This document is an electronic record in terms of Information Technology Act, 2000 and rules there under as applicable and the amended provisions pertaining to electronic records in various statutes as amended by the Information Technology Act, 2000. This electronic record is generated by a computer system and does not require any physical or digital signature.
+I have read and understood the Terms and Conditions and I hereby, out of my free will, unconditionally accept to be bound by the same.

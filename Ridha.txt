@@ -14,3 +14,6 @@ Then using previously filtered data and getting >mean idf score sentences
 3: Lastly we have used tf-idf score for each word
 Repeated above steps
 Till now we have reduced on an average 20% data
+
+
+https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/

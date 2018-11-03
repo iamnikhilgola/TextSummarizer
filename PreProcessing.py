@@ -1,23 +1,29 @@
 import os
-import math
-import pandas
+import re
 import copy
+import time
+import pickle
+import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+from nltk.collocations import BigramCollocationFinder
+from nltk.metrics import BigramAssocMeasures
+from nltk.tokenize import sent_tokenize
 from nltk import ngrams
 from nltk import pos_tag
-from collections import Counter
+
 
 class PreProcessing:
     def __init__(self):
         self.path = os.path.abspath(os.path.dirname(__file__))                   #Path of data set folder
         self.data_set_path = os.path.join(self.path, "Datasets/Webapps Data")
+        if not (os.path.isdir("Pickled Data")):
+            os.mkdir('Pickled Data')
+        self.pickle_path = os.path.join(self.path, "Pickled Data")
         self.data_files = os.listdir(self.data_set_path)                         #List of all the file names with extension in dataset folder
         self.file_word_dictionary = {}                                           #Dictionary of files containing various words.
         self.file_sentence_dictionary ={}                                        #Dictionary of files containing all the sentences
         self.file_word_frequency = {}                                            #Dictionary of files containing frequency of unique words 
-        self.file_Tf={}                                                          #Dictionary of files containing TF values of the words
-        self.tfIDF = {}                                                          #Dictionary of files containing IDF values of the words
         self.word_set={}                                                         #It is the union of all the different words in corpus
         self.stop_words =set(stopwords.words("english"))                         #It contains all the stop words in english language
         self.file_names =[]                                                      #Contain File names without extension
@@ -31,6 +37,9 @@ class PreProcessing:
     def dataCleaning(self,word):                                        #Used to clean the words of the file
          word=word.strip('\n,:()"!@#$%^&*=+-.\'1234567890;:<>/')                         #from various punctuation marks.
          return word
+    
+    def hasNumbers(self,inputString):
+        return bool(re.search(r'\d', inputString))
     
     def getPosTags(self,tag):
         if tag.startswith('J'):		# adjective
@@ -53,16 +62,27 @@ class PreProcessing:
             sentences = line.split("\n.")                               #file_content is the content of the particular file
             for sentence in sentences:
                 sentence=sentence.strip('\n ')
-                if(sentence!=''):
-                    sentence_set.append(sentence.lower())
-                    #if('aaa' in sentence.lower()):
-                        #print(sentence.lower())
+                sentence= re.sub(r"http\S+", '', sentence, flags=re.MULTILINE)
+                if not self.hasNumbers(sentence):
+                    if(sentence!=''):
+                        sentence_set.append(sentence.lower())
+                        #if('aaa' in sentence.lower()):
+                            #print(sentence.lower())
+        """
+        sentence_set= sent_tokenize(file_content.lower())
+        new_sent=[]
+        for sentence in sentence_set:
+                #sentence=sentence.strip('\n')
+                sentence= re.sub(r"http\S+", '', sentence, flags=re.MULTILINE)
+                sentence=self.dataCleaning(sentence)
+                new_sent.append(sentence)
+        """ 
         return sentence_set
     
     def splitFileToWords(self,word_set,file_content):                   #Splitting the files into words
         newTag=[]
         WN=WordNetLemmatizer()
-        for line in file_content.splitlines():                                       #word_set is the dictionary which is initially empty
+        for line in file_content.splitlines():                          #word_set is the dictionary which is initially empty
             words = line.split(" ")                                     #file_content is the content of the particular file
             for word in words:
                 word=word.lower()
@@ -71,12 +91,10 @@ class PreProcessing:
                     #word=WN.lemmatize(word)
                     if(word!=''and len(word)>2 and word.isalpha()):     #isalpha to filter punctuation
                         word_set.append(word)
+        
         newTag=pos_tag(word_set)
         lemmatizedWords=[]
         for i in range(len(word_set)):                      #Lemmetizing the word file
-            #if(word_set[i]=='writing'):
-                #print(WN.lemmatize(word_set[i],'n'))
-                #print(newTag[i][1])
             if(self.getPosTags(newTag[i][1]) == ''):
                 lemma= WN.lemmatize(word_set[i])
             elif self.getPosTags(newTag[i][1]) == 'r' and word_set[i].endswith('ly'):
@@ -102,8 +120,12 @@ class PreProcessing:
             word_set,newTag= self.splitFileToWords(word_set,file__content)
             tags+=newTag
             sentence_set = self.splitFileToLines(sentence_set,file_content)
-            bigram_set = self.getBigrams(word_set)
-            #tags=pos_tag(word_set)
+            finder = BigramCollocationFinder.from_words(word_set, window_size = 3)
+            bigram_set=finder.nbest(BigramAssocMeasures.likelihood_ratio,1)
+            #finder.apply_freq_filter(2)
+            #bigram_set = BigramAssocMeasures()
+            #bigram_set = self.getBigrams(word_set)
+            tags=pos_tag(word_set)
             self.file_sentence_dictionary[file[:-4]] = sentence_set
             self.file_word_dictionary[file[:-4]] = word_set
             self.file_bigram_dictionary[file[:-4]] = bigram_set
@@ -123,56 +145,45 @@ class PreProcessing:
                 self.file_word_frequency[file][word] +=1
         return self.file_word_frequency
     
-    def computeTF(self,wordDict, BOW):              #Computing TF values  TF = (# of time word appear in document)/ (Total number of words in document)
-        tfDict ={}                                  # wordDict : frequency of words in a partiular file, BOW : Total # of words in a particular file
-        bow_count =len(BOW)
-        for word, count in wordDict.items():
-            tfDict[word]=count/float(bow_count)
-        return tfDict
-    
-    def computeIDF(self,documentList):              #Computing IDF values (# of documents)/(# of documents that contain a particular word)
-        idfDict = {}                                #documentList : list of idf values of all documents
-        length = len(documentList)
-        idfDict = dict.fromkeys(documentList[1].keys(),0)   #documentList[1] becaue we need just keys n all keys are same
-        for doc in documentList:
-            for word,value in doc.items():
-                if(value>0):
-                    idfDict[word] +=1
-        for word, val in idfDict.items():
-            idfDict[word] = math.log(length/float(val))
-        return idfDict
-    
-    def computeTFIDF(self,tfBow,idfs):              #computing TFIDF values (TF(word))*(IDF(word))
-        tfidf = {}
-        for word, val in tfBow.items():
-            tfidf[word] = val * idfs[word]
-        return tfidf
 
     def initiate(self):                             #Main function of the class
         self.file_word_dictionary, self.file_sentence_dictionary,self.file_bigram_dictionary,self.file_pos_tag=self.fileRead()
         self.word_set = self.getWordSet()
         self.file_word_frequency = self.computeWordFrequency()
         self.setFileName()
-
-        for file in self.file_word_dictionary:                                  #computing TF values
-            self.file_Tf[file] = self.computeTF(self.file_word_frequency[file], self.file_word_dictionary[file])
-        idf = self.computeIDF([self.file_Tf[file] for file in self.file_Tf])    #compute idf value
-        for file in self.file_word_dictionary:                                  #computing TFIDF values
-            self.tfIDF[file] = self.computeTFIDF(self.file_Tf[file],idf)
         
-        df2=pandas.DataFrame(self.file_Tf[file] for file in self.file_Tf)           #!st DataFrame
-        df2.index=[x for x in self.file_names]
-        #print(df2)
         
-        df=pandas.DataFrame({'Data':self.file_sentence_dictionary[file]} for file in self.file_sentence_dictionary)     #2nd Dataframe
-        df.index=[x for x in self.file_names]
-        df_combined = pandas.concat([df,df2],axis =1)
-
-        df_combined.to_csv("DataFiles.csv",sep=',')                         #Converting to csv format
+        with open(self.pickle_path+"/word_Dictionary.pickle","wb") as pickle_out:
+            pickle.dump(self.file_word_dictionary,pickle_out)
+        pickle_out.close()
         
+        with open(self.pickle_path+"/word_Frequency.pickle","wb") as pickle_out:
+            pickle.dump(self.file_word_frequency,pickle_out)
+        pickle_out.close()
+        
+        with open(self.pickle_path+"/sentence_Dictionary.pickle","wb") as pickle_out:
+            pickle.dump(self.file_sentence_dictionary,pickle_out)
+        pickle_out.close()
+        
+        with open(self.pickle_path+"/fileNames.pickle","wb") as pickle_out:
+            pickle.dump(self.file_names,pickle_out)
+        pickle_out.close()
+        
+        with open(self.pickle_path+"/unique_Wordset.pickle","wb") as pickle_out:
+            pickle.dump(self.word_set,pickle_out)
+        pickle_out.close()
+        
+        with open(self.pickle_path+"/bigram.pickle","wb") as pickle_out:
+            pickle.dump(self.file_bigram_dictionary,pickle_out)
+        pickle_out.close()
+                
+                        
 def main():
     PreprocessObj = PreProcessing()
     PreprocessObj.initiate()
 
 if __name__=="__main__":
+    start_time = time.time()
     main()
+    end_time = time.time()
+    print("Execution time in seconds", end_time-start_time)

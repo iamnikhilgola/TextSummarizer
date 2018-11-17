@@ -1,3 +1,7 @@
+# =============================================================================
+# This file is Responsible for Computing TFIDF values 
+# =============================================================================
+
 import math
 import pickle
 import os
@@ -11,7 +15,8 @@ with open(pickle_path+"/word_Dictionary.pickle","rb") as pickle_in:
 with open(pickle_path+"/word_Frequency.pickle","rb") as pickle_in:
     file_word_frequency = pickle.load(pickle_in)
 
-
+with open(pickle_path+"/ngram.pickle","rb") as pickle_in:
+    nngrams = pickle.load(pickle_in)
 
 def computeTF(wordDict, BOW):              #Computing TF values  TF = (# of time word appear in document)/ (Total number of words in document)
     tfDict ={}                                  # wordDict : frequency of words in a partiular file, BOW : Total # of words in a particular file

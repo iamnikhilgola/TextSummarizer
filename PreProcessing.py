@@ -1,9 +1,15 @@
+# =============================================================================
+# This File is responsible for Doing Preprocessing
+# 
+# =============================================================================
+
 import os
 import re
 import copy
 import time
 import pickle
 import nltk
+import csv
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.collocations import BigramCollocationFinder
@@ -29,6 +35,8 @@ class PreProcessing:
         self.file_names =[]                                                      #Contain File names without extension
         self.file_bigram_dictionary ={}                                          #Contain all bigrams (word appear 2 times)
         self.file_pos_tag ={}                                                    #Contains tags for each file   
+        self.file_content = {}
+        self.file_ngram_dictionary ={} 
         
     def setFileName(self):
         for name in self.data_files:
@@ -57,6 +65,10 @@ class PreProcessing:
         bigrams=list(ngrams(word_set,2))
         return bigrams
     
+    def nGrams(self,word_set,len):
+        nngrams = ngrams(word_set,len)
+        return nngrams
+    
     def splitFileToLines(self,sentence_set,file_content):               #Splitting the files into lines
         for line in file_content.splitlines():                          #Sentence_set is the dictionary which is initially empty
             sentences = line.split("\n.")                               #file_content is the content of the particular file
@@ -65,18 +77,7 @@ class PreProcessing:
                 sentence= re.sub(r"http\S+", '', sentence, flags=re.MULTILINE)
                 if not self.hasNumbers(sentence):
                     if(sentence!=''):
-                        sentence_set.append(sentence.lower())
-                        #if('aaa' in sentence.lower()):
-                            #print(sentence.lower())
-        """
-        sentence_set= sent_tokenize(file_content.lower())
-        new_sent=[]
-        for sentence in sentence_set:
-                #sentence=sentence.strip('\n')
-                sentence= re.sub(r"http\S+", '', sentence, flags=re.MULTILINE)
-                sentence=self.dataCleaning(sentence)
-                new_sent.append(sentence)
-        """ 
+                        sentence_set.append(sentence.lower()) 
         return sentence_set
     
     def splitFileToWords(self,word_set,file_content):                   #Splitting the files into words
@@ -88,8 +89,8 @@ class PreProcessing:
                 word=word.lower()
                 #word=self.dataCleaning(word)                           #function not required as isalpha used below
                 if word not in self.stop_words:                         #checking if word not in stop word
-                    #word=WN.lemmatize(word)
-                    if(word!=''and len(word)>2 and word.isalpha()):     #isalpha to filter punctuation
+                    word=WN.lemmatize(word)
+                    if(word!=''and len(word)>4 and word.isalpha()):     #isalpha to filter punctuation
                         word_set.append(word)
         
         newTag=pos_tag(word_set)
@@ -112,23 +113,25 @@ class PreProcessing:
             for nffile in new_file__content:
                 nffile=nffile.decode('utf-8', 'ignore')
                 file_content+=nffile
+            self.file_content[file[:-4]] =file_content
             file__content=copy.deepcopy(file_content)
             word_set = []
             sentence_set =[]
             bigram_set =[]
+            n_gram_set =[]
             tags=[]
             word_set,newTag= self.splitFileToWords(word_set,file__content)
             tags+=newTag
             sentence_set = self.splitFileToLines(sentence_set,file_content)
             finder = BigramCollocationFinder.from_words(word_set, window_size = 3)
             bigram_set=finder.nbest(BigramAssocMeasures.likelihood_ratio,1)
-            #finder.apply_freq_filter(2)
-            #bigram_set = BigramAssocMeasures()
-            #bigram_set = self.getBigrams(word_set)
+            n_gram_set=self.nGrams(word_set,8)
+            new_set=[list(value) for value in n_gram_set]
             tags=pos_tag(word_set)
             self.file_sentence_dictionary[file[:-4]] = sentence_set
             self.file_word_dictionary[file[:-4]] = word_set
             self.file_bigram_dictionary[file[:-4]] = bigram_set
+            self.file_ngram_dictionary[file[:-4]]=new_set
             self.file_pos_tag[file[:-4]]=tags
         return self.file_word_dictionary, self.file_sentence_dictionary,self.file_bigram_dictionary,self.file_pos_tag
     
@@ -152,7 +155,14 @@ class PreProcessing:
         self.file_word_frequency = self.computeWordFrequency()
         self.setFileName()
         
-        
+        with open('data.csv', 'w') as csvfile:
+            fieldnames = ['Document', 'Data']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            
+            writer.writeheader()
+            for file in self.file_content:
+                writer.writerow({'Document':file,'Data':self.file_content[file]})
+
         with open(self.pickle_path+"/word_Dictionary.pickle","wb") as pickle_out:
             pickle.dump(self.file_word_dictionary,pickle_out)
         pickle_out.close()
@@ -176,6 +186,14 @@ class PreProcessing:
         with open(self.pickle_path+"/bigram.pickle","wb") as pickle_out:
             pickle.dump(self.file_bigram_dictionary,pickle_out)
         pickle_out.close()
+        
+        with open(self.pickle_path+"/file_content.pickle","wb") as pickle_out:
+            pickle.dump(self.file_content,pickle_out)
+        pickle_out.close()
+        
+        with open(self.pickle_path+"/ngram.pickle","wb") as pickle_out:
+            pickle.dump(self.file_ngram_dictionary,pickle_out)
+        pickle_out.close()
                 
                         
 def main():
@@ -186,4 +204,3 @@ if __name__=="__main__":
     start_time = time.time()
     main()
     end_time = time.time()
-    print("Execution time in seconds", end_time-start_time)

@@ -11,6 +11,8 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.decomposition import PCA
+from sklearn import metrics
+from sklearn.metrics import pairwise_distances
 
 path = os.path.abspath(os.path.dirname(__file__))  
 pickle_path = os.path.join(path, "Pickled Data")
@@ -56,8 +58,11 @@ plt.show()
 
 #Applying k means Clutering
 #cluster = AgglomerativeClustering(n_clusters = 9,affinity='euclidean',linkage='ward').fit_predict(newDF)
-cluster = KMeans(n_clusters =9,init='k-means++', n_init=100, max_iter=400, tol=0.0006,random_state=100).fit_predict(newDF)
+cluster = KMeans(n_clusters =9,init='k-means++', n_init=100, max_iter=1000, tol=0.0006,random_state=100).fit_predict(newDF)
 #cluster.fit(newDF)
+#labels = cluster.labels_
+#value=metrics.silhouette_score(newDF, cluster, metric='euclidean')
+#print(value)
 newDF['cluster']=cluster
 
 
@@ -97,6 +102,8 @@ privacy =['protection','interests','licenses','protect','property','intellectual
 for clusters in clusterDict:
     clusterDict[clusters]=sorted(clusterDict[clusters])
 
+for clus in clusterDict:
+    print(clus,clusterDict[clus])
 with open(pickle_path+"/K_MeansCluster.pickle","wb") as pickle_out:
     pickle.dump(clusterDict,pickle_out)
 pickle_out.close()

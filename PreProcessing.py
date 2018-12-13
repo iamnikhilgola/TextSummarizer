@@ -26,6 +26,8 @@ class PreProcessing:
         if not (os.path.isdir("Pickled Data")):
             os.mkdir('Pickled Data')
         self.pickle_path = os.path.join(self.path, "Pickled Data")
+        self.test_file_path = os.path.join(self.path, "TestFiles")
+        self.data_test_file =os.listdir(self.test_file_path)
         self.data_files = os.listdir(self.data_set_path)                         #List of all the file names with extension in dataset folder
         self.file_word_dictionary = {}                                           #Dictionary of files containing various words.
         self.file_sentence_dictionary ={}                                        #Dictionary of files containing all the sentences
@@ -71,7 +73,7 @@ class PreProcessing:
     
     def splitFileToLines(self,sentence_set,file_content):               #Splitting the files into lines
         for line in file_content.splitlines():                          #Sentence_set is the dictionary which is initially empty
-            sentences = line.split("\n.")                               #file_content is the content of the particular file
+            sentences = line.split("\n")                               #file_content is the content of the particular file
             for sentence in sentences:
                 sentence=sentence.strip('\n ')
                 sentence= re.sub(r"http\S+", '', sentence, flags=re.MULTILINE)
@@ -148,12 +150,28 @@ class PreProcessing:
                 self.file_word_frequency[file][word] +=1
         return self.file_word_frequency
     
-
+    def fileTestRead(self):                                                 #Method to read all the dataset files 
+        file_sentence_dictionary={}
+        for file in self.data_test_file:
+                actual_path = self.test_file_path +"/"+ file
+                new_file__content =  open(actual_path,"rb")
+                file_content=' '
+                for nffile in new_file__content:
+                    nffile=nffile.decode('utf-8', 'ignore')
+                    file_content+=nffile
+                    #file_content[file[:-4]] =file_content
+                sentence_set =[]
+                sentence_set = self.splitFileToLines(sentence_set,file_content)
+                file_sentence_dictionary[file[:-4]] = sentence_set
+        return file_sentence_dictionary
+    
     def initiate(self):                             #Main function of the class
         self.file_word_dictionary, self.file_sentence_dictionary,self.file_bigram_dictionary,self.file_pos_tag=self.fileRead()
         self.word_set = self.getWordSet()
         self.file_word_frequency = self.computeWordFrequency()
         self.setFileName()
+        TestfileData={}
+        TestfileData =self.fileTestRead()
         
         with open('data.csv', 'w') as csvfile:
             fieldnames = ['Document', 'Data']
@@ -163,6 +181,10 @@ class PreProcessing:
             for file in self.file_content:
                 writer.writerow({'Document':file,'Data':self.file_content[file]})
 
+        with open(self.pickle_path+"/test_dictionary.pickle","wb") as pickle_out:
+            pickle.dump(TestfileData,pickle_out)
+        pickle_out.close()
+        
         with open(self.pickle_path+"/word_Dictionary.pickle","wb") as pickle_out:
             pickle.dump(self.file_word_dictionary,pickle_out)
         pickle_out.close()

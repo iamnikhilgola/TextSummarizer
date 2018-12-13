@@ -1,0 +1,211 @@
+Terms and Conditions of Use
+1. Welcome to JSTOR
+JSTOR’s integrated digital platform (the “JSTOR Platform”) is a trusted digital library providing for long-term preservation and access to leading academic journals and other scholarly materials from around the world. JSTOR is part of ITHAKA, a not-for-profit organization with a mission to help the scholarly community take advantage of advances in technology, and is supported by libraries, scholarly societies, publishers, and foundations.
+
+By using JSTOR, you agree to these Terms and Conditions of Use, which may be subject to an agreement entered into between JSTOR and a user’s affiliated institution, such as a user’s university (“Institutional Participation Agreement”). If you have questions about your affiliated institution’s participation agreement with JSTOR, please contact your librarian.
+
+2. Authorized Users
+Access to content on JSTOR is available for “Authorized Users”, meaning:
+
+(a) individuals who are affiliated with an Institutional Licensee, defined as an institution (such as a college, university, secondary school, public library, museum, foundation, government agency, research center or corporate and for-profit organization) that maintains a valid Institutional Participation Agreement with JSTOR.
+
+This includes, as applicable:
+
+i currently enrolled students (including distance education students);
+
+ii on an ad hoc basis, researchers and lecturers affiliated and/or visiting under the terms of an agreement with the Institutional Licensee;
+
+iii full and part-time staff;
+
+iv on-site users physically present and authorized to be on the Institutional Licensee’s premises (“Walk-In Users”);
+
+v for public libraries, off-site users accessing the Licensed Content through a sessions-based arrangement entered into between JSTOR and the library; and,
+
+vi for higher education Institutional Licensees that participate in JSTOR’s Alumni Access Program, individuals who have earned a degree, namely a Bachelor’s, Master’s, Doctorate, medical degree or their equivalent, from the Institutional Licensee.
+
+(b) individual members of scholarly societies that have entered into an agreement with JSTOR for access to specific Content via the JSTOR Platform (“Individual Access”); and
+
+(c) other users of specified Content agreed upon in writing by or on behalf of JSTOR, including users of
+
+i Data for Research;
+
+ii the Publisher Sales Service (a service through which JSTOR facilitates users’ purchase of content from publishers);
+
+iii individual researchers not affiliated with an Institutional Licensee, publication, or scholarly society;
+
+iv individual users of Early Journal Content;
+
+v individuals who have successfully registered with MyJSTOR or MyPlants but do not otherwise meet any of the criteria for Authorized Users (“Register Read Users”) and
+
+vi individuals who have successfully purchased access through JPASS (a service through which individuals can purchase access to JPASS Content as defined below) (“JPASS Users”).
+
+3. The Content
+3.1 “Content” means the collective of:
+
+“Books”, defined as complete books and/or portions of such books, such as book chapters.
+“Early Journal Content”, defined as journal content (as distinct from pamphlets, manuscripts, monographs or other content) that has been published prior to 1923 in the United States or prior to 1870 if initially published internationally.
+“GIS Data” is spatial/geographic information systems (“GIS”) data contained within the Cultural Heritage Sites and Landscapes and Struggles for Freedom in South Africa Collections.
+“Global Plants Content”, defined as plant specimens.
+“Journals Hosting Content”, defined as journals licensed by Institutional Licensees or other Authorized Users directly from the applicable publisher for access on the JSTOR Platform, such content not otherwise included in a JSTOR Collection as defined below.
+“JSTOR Collections Content”, defined as journal volumes and issues which have been curated by JSTOR into Archive and Thematic Collections as well as grey literature, including but not limited to research reports, white papers, working papers, policy papers, government documents, and newsletters.
+“Open Access Content”, defined as specified items of Content that are labeled “Open Access”.
+“Primary Source Materials”, defined as the Cultural Heritage Sites, Landscapes and Struggles for Freedom in South Africa Collections as well as any other primary source materials curated by JSTOR into Primary Source or other collections.
+other materials made available by JSTOR.
+3.2 “Licensed Content” means the Content for which an Authorized User’s affiliated Institutional Licensee has licensed access, or the Content available to an Authorized User through Individual Access, JPASS, the Publisher Sales Service, or other programs. For more information about the JSTOR material licensed by your affiliated Institutional Licensee, please contact your librarian.
+
+3.3  Authorized Users of Institutional Licensees who subscribe to the Artstor Digital Library may also encounter on or via the JSTOR platform content from JSTOR’s affiliate Artstor.  The Artstor Digital Library content, which will be indicated with , shall be solely subject to the Artstor Terms and Conditions of Use at http://www.artstor.org/artstor-terms (or version thereof agreed to by the Authorized User’s institution).
+
+4. Permitted Uses of the Content
+4.1 Institutional Licensees and/or Authorized Users may search, view, reproduce, display, download, print, perform, and distribute Licensed Content for the following Permitted Uses, provided they abide by the restrictions in this Section 4, Section 5 and elsewhere in these Terms and Conditions of Use:
+
+(a) research activities;
+
+(b) classroom or organizational instruction and related classroom or organizational activities;
+
+(c) student assignments;
+
+(d) as part of a scholarly, cultural, educational or organizational presentation or workshop, if such use conforms to the customary and usual practice in the field;
+
+(e) authors or other Content creators may at their discretion incorporate their Content (other than Books) into unrestricted databases or website with prior permission from the publisher and other applicable rights holders;
+
+(f) linking
+
+(g) Data for Research as defined further in Section 14.3 below.
+
+and for Institutional Licensees and/or Authorized Users other than Register & Read Users:
+
+(h) on an ad hoc basis and without commercial gain or in a manner that would substitute for direct access to the Content via services offered by JSTOR, sharing discrete portions of Content for purposes of collaboration, comment, or the scholarly exchange of ideas;
+
+(i) downloading Content (including certain Book chapters where downloading is made available for the Book chapters on the JSTOR Platform) to view, use and display including on a personal digital device (e.g. mobile devices, e-readers, and personal computers);
+
+(j) (except for Books) in research papers or dissertations, including reproductions of the dissertations, provided such reproductions are only for personal use, library deposit, and/or use solely within the institution(s) with which the Authorized User and/or his or her faculty readers are affiliated; and
+
+(k) fair use under Section 107 of the U.S. Copyright Act, educational exceptions, or other similar provisions of the copyright laws or other intellectual property right laws in the United States.
+
+4.2 The portions of Licensed Content that have been downloaded or printed out by an Authorized User may continue to be used in compliance with these Terms and Conditions even if such license should later terminate or expire.
+
+4.3 Additional Permitted Uses of the Early Journal Content. JSTOR encourages broad use of the Early Journal Content. In addition to all permitted uses described above, users are free to copy, use, and redistribute the Early Journal Content in part or in whole for non-commercial purposes.
+
+JSTOR asks that you acknowledge JSTOR as the source of the Early Journal Content; if you use material from JSTOR online, we request that you link directly to the stable URL provided. If you use Early Journal Content offline, we ask that you credit the source as follows: “Courtesy of JSTOR.”
+
+Please be considerate of other users and do not use robots or other devices or coordinate activity to systematically download these works as this may be disruptive to our systems.
+
+4.4 Use of Open Access Content.  Open Access Content may be subject to different terms of use, such as a Creative Commons license, as indicated in the copyright statement for the content.  If an Open Access Content item has different terms posted where the content appears, those terms shall have precedence over these Terms and Conditions of Use.
+
+5. Prohibited Uses of the Content
+Institutions and users may not:
+
+(a) use or authorize the use of the JSTOR Platform or Content for commercial purposes or gains, including charging a fee-for-service for the use of JSTOR beyond reasonable printing or administrative costs. For purposes of clarification, “commercial purposes or gains” shall not include research whose end-use is commercial in nature.
+
+(b) except as set forth above, provide and/or authorize access to the Content available through Individual Access, the Publisher Sales Service, or other programs to persons or entities other than Authorized Users;
+
+(c) attempt to override, circumvent, or disable any encryption features or software protections employed in the JSTOR Platform;
+
+(d) undertake any activity such as the use of computer programs that automatically download or export Content, commonly known as web robots, spiders, crawlers, wanderers or accelerators that may interfere with, disrupt or otherwise burden the JSTOR server(s) or any third-party server(s) being used or accessed in connection with JSTOR; or
+
+(e) undertake coordinated or systematic activity between or among two or more individuals and/or entities that, in the aggregate, constitutes downloading and/or distributing a significant portion of the Content; or
+
+(f) make any use, display, performance, reproduction, or distribution that exceeds or violates these Terms and Conditions of Use.
+
+Additionally, for Content other than the Early Journal Content, Institutions and users may not:
+
+(g) modify, obscure, or remove any copyright notice or other attribution included in the Content;
+
+(h) incorporate Content into an unrestricted database or website, except as provided in 4.1(e) above;
+
+(i) systematically print out or download Content to stock or replace print holdings;
+
+(j) download or print, or attempt to download or print an entire issue of a journal (unless such entire issue has been purchased through the Publisher Sales Service) or substantial portions of the entire run of a journal, except for the specific case in which the complete contents of a journal issue or a substantial portion of Content (e.g. a series of scholarly essays) is relevant to the particular research; or
+
+(k) reproduce or distribute Content in bulk, such as the inclusion of Content including portions of Content (e.g., Book chapters, individual articles and/or journal issues) or Content in course packs, electronic reserves, repositories, or organizational intranets (but see Section 4.1(f) above).
+
+6. Linking
+JSTOR encourages the use of links to facilitate access to the Content by Authorized Users and Institutional Licensees, including but not limited to links to online syllabi, bibliographies, and reading lists. All Content has a stable URL that can be found in the Browse and Search interfaces of JSTOR’s website as well as on the Article Information page each discrete Content item. Further information on establishing stable links to material in JSTOR may be obtained from User Support (support@jstor.org).
+
+7. Interlibrary Loan
+Institutional Licensees may fulfill requests from other libraries for textual Content, namely JSTOR Collections Content, Journals Hosting Content, and Books, a practice commonly called Interlibrary Loan.  Institutional Licensee agrees to fulfill such requests in accordance with Sections 107 and 108 of the U.S. Copyright Act or in accordance with other international copyright laws, guidelines, or conventions, provided that such use is not at a volume that would substitute for a subscription to the journal or acquisition of access to a Book.  For Books, this shall mean Interlibrary Loan shall be restricted to a single copy of a Book chapter.  Requests may be fulfilled using secure electronic, paper, or intermediated means.
+
+8. Responsibilities of Users
+8.1 Access.  Institutional Licensees shall make reasonable efforts to ensure that access to the Licensed Content is limited to Authorized Users and to protect the Licensed Content from unpermitted use, including but not limited to by issuing and terminating passwords within its control, verifying the status of Authorized User, providing lists of valid passwords or set of IP addresses to JSTOR if applicable, updating such lists on a regular basis and providing any information or assistance necessary for JSTOR to implement whatever user authentication processes JSTOR may establish in its sole discretion. Authorized Users shall be responsible for maintaining the confidentiality and security of his or her username and/or password (if such are provided), and for all usage or activity by them of JSTOR and may not provide access to JSTOR to anyone else.
+
+8.2 Unpermitted Use.  Institutional Licensees and Authorized Users shall notify JSTOR of any such unpermitted use of which they learn or are notified, including but not limited to any known or suspected unauthorized use(s) of an individual or institutional account or unauthorized use of JSTOR, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of a username, password, and/or IP address, and shall work cooperatively with JSTOR to resolve problems of unpermitted use. In the event of violation of these Terms and Conditions of Use by an Authorized User, (a) JSTOR may suspend or terminate, or, where practicable, request that Institutional Licensee suspend or terminate, such Authorized User’s access to the Licensed Content; (b) JSTOR may suspend or terminate the access of the Internet Protocol (“IP”) address(es) or other authorization and authentication mechanisms from which such unauthorized use occurred; and/or (c) JSTOR may request Institutional Licensee to consider the imposition of further reasonable restrictions on access to, and downloading and printing from, the JSTOR Platform. JSTOR shall make reasonable efforts to contact the Institutional Licensee prior to any suspension or termination of access and to restore access promptly following successful resolution of the matter.
+
+8.3 Posted Material.  Where Authorized Users are able to submit material and/or post comments on the JSTOR Platform, they represent and warrant that they will not upload or otherwise publish through JSTOR any materials that: (a) are protected by copyright, or other proprietary or intellectual property rights; (b) are libelous, defamatory, obscene, pornographic, abusive, or invasive of another’s privacy or hateful; or (c) contain a virus, spyware, or other harmful component, advertising of any kind, or false or misleading indications of origin or statements of fact. Authorized Users acknowledge and agree that any material that they submit or comments that they post may be edited, removed, modified, and/or published by JSTOR without notice.
+
+8.4 Hardware and Software.  Institutional Licensees understand and agree that Internet browser software is required to access the JSTOR Platform and Institutional Licensees and/or Authorized Users are responsible for providing and maintaining any hardware and Internet access necessary to provide access to the JSTOR Platform and any and all costs associated therewith.
+
+9. Intellectual Property Rights
+9.1 General Intellectual Property Rights. The JSTOR Platform and any trademarks, issued patents and patent applications, copyrights and copyright registrations and applications, rights in ideas, designs, works of authorship, derivative works, and all other intellectual property rights (collectively, “Intellectual Property”) relating to the JSTOR Platform and its participating libraries, universities, publishers, scholarly societies, and journals are proprietary to JSTOR or, as applicable, the aforementioned entities, subject to the rights of third parties.
+
+9.2 Trademarks. Neither JSTOR nor Institutional Licensee may use the other’s name or trademark and Institutional Licensees and users may not use the name or trademarks of the above-noted entities without approval except: (i) JSTOR may use Institutional Licensees’ names and/or the names of their libraries in brochures or other materials to identify Institutional Licensees as participants in JSTOR along with other participants, and (ii) Institutional Licensees are encouraged to use JSTOR’s name and logo to announce participation to Authorized Users and to train Authorized Users on the use of JSTOR.
+
+10. Responsibilities of JSTOR
+10.1 JSTOR will use reasonable efforts to provide continuous availability of the JSTOR Platform subject to periodic unavailability due to maintenance and/or updates of the server(s) and platform and downtime related to equipment or services outside the control of JSTOR (“Maintenance Downtime”). If JSTOR fails to provide online availability to the JSTOR Platform for more than 72 hours during any period of 30 consecutive calendar days Institutional Licensee may, upon written request, (a) be granted its choice of a refund or a credit of a prorated portion of its annual access fee for each 30-day period so affected or (b) terminate its agreement by providing written notice to JSTOR. JSTOR will provide support to Institutional Licensees and Authorized Users in accordance with the terms set forth https://support.jstor.org.
+
+10.2 JSTOR is committed to supporting and working with industry standards and best practices for online information delivery as these standards are developed. In furtherance of this commitment, JSTOR shall use reasonable efforts to ensure that:
+
+(a) Subject to constraints imposed by or in agreement with publishers and/or by third party rights holders, the Content contained in the JSTOR Platform that is produced by digitizing print material are complete and faithful replications of the print versions of such Content.
+
+(b) JSTOR Platform is compliant with Section 508 of the Rehabilitation Act and W3C WAI WCAG 2.0 Level AA except that JSTOR Global Plants and the Primary Source Materials include a large number of images, maps and other heavily visual forms of content, and in cases where the magnification feature of the image viewer does not suffice, JSTOR will only be able to provide access to metadata regarding images. Subject to constraints imposed by or in agreement with publishers, third party rights holders, and/or by digital rights management technology, JSTOR will make good faith efforts to ensure that the Books contained in the JSTOR Platform meets these accessibility standards. Register & Read Users who require an accessible version of certain Content, please contact JSTOR User Support. For more information on accessibility see http://about.jstor.org/accessibility.
+
+(c) the JSTOR Platform meets ANSI/NISO z39.88-2004 OpenURL standards;
+
+(d) the JSTOR Platform is compatible with the NISO Metasearch XML Gateway (MXG) protocol in development, XML and SRU/SRW search interfaces; and
+
+(e) It makes available to Institutional Licensees COUNTER-compliant usage statistics.
+
+11. Warranty; Disclaimers
+11.1 Authorized Users recognize that JSTOR is an aggregator of third-party Content, not the creator of the Content. JSTOR represents and warrants under the laws of United States that to its knowledge use of the JSTOR Platform and Licensed Content by Authorized Users in accordance with the terms of this Agreement will not infringe the copyright of any third party. The foregoing will not apply, however, to modifications or derivative works of the Content created by Institutional Licensees, Authorized Users or by any third party, nor usage of the JSTOR Platform or Content by Institutional Licensees or Authorized Users in violation of these Terms and Conditions of Use. Please note that the foregoing further will not apply to certain collections of Content as further stated in this Section 11.
+
+11.2 JSTOR will not be liable, and Institutional Licensees and Authorized Users agree that they will not hold JSTOR liable for any loss, injury, claim, liability, damages, costs, and/or attorneys fees of any kind that result from the unavailability of the JSTOR Platform or Content, delays or interruption of the services provided hereunder, or arising out of or in connection with Institutional Licensee’s or Authorized Users’ use of the JSTOR Platform or Content in violation of these Terms and Conditions of Use. If the JSTOR Platform fails to operate in conformance with the terms of this Agreement, Institutional Licensee will immediately notify JSTOR, and, subject to Section 10.1 above, JSTOR’s sole obligation will be to repair the nonconformity. In no event will JSTOR’s liability to an Institutional Licensee exceed the fees paid to JSTOR by that Institutional Licensee for the term of the agreement then in effect. OTHER THAN ANY EXPRESS WARRANTIES STATED IN THIS SECTION 11, THE JSTOR PLATFORM, CONTENT, AND ACCESS SOFTWARE ARE PROVIDED ON AN “AS IS” BASIS, AND JSTOR AND ANY AND ALL THIRD PARTY CONTENT AND SOFTWARE PROVIDERS AND/OR LICENSORS (“CONTENT PROVIDERS”) DISCLAIM ANY AND ALL OTHER WARRANTIES, CONDITIONS, OR REPRESENTATIONS OF ANY KIND (EXPRESS, IMPLIED, ORAL, OR WRITTEN) RELATING TO JSTOR, CONTENT, ACCESS SOFTWARE, OR ANY PARTS THEREOF, INCLUDING WITHOUT LIMITATION, ANY AND ALL IMPLIED WARRANTIES OF QUALITY, PERFORMANCE, NON-INFRINGEMENT, COMPATIBILITY, MERCHANTIBILITY, OR FITNESS FOR A PARTICULAR PURPOSE. JSTOR AND ALL CONTENT PROVIDERS MAKE NO WARRANTIES WITH RESPECT TO ANY HARM THAT MAY BE CAUSED BY THE TRANSMISSION OF A COMPUTER VIRUS, WORM, TIME BOMB, LOGIC BOMB, OR OTHER SUCH COMPUTER PROGRAM, EXCEPT THAT JSTOR WILL EXERCISE A REASONABLE LEVEL OF CARE TO PREVENT SUCH OCCURRENCES. JSTOR AND ALL CONTENT PROVIDERS FURTHER DISCLAIM ANY LIABILITY AND MAKE NO WARRANTIES WITH RESPECT TO THE CONTENT, INFORMATION, MATERIALS OR OTHER SERVICES INCLUDED IN OR OTHERWISE MADE AVAILABLE BY OR THROUGH JSTOR.
+
+11.3 The JSTOR Global Plants, Cultural Heritage Sites and Landscapes and the Primary Source Materials include a wide variety of materials, including archival materials and historical primary source materials where in some cases the author rights holders cannot be identified or located. JSTOR represents and warrants that it has made diligent efforts to locate and seek permission from the holders of the copyright and any other applicable rights in the Content. In some cases, JSTOR is relying on fair use under Section 107 of the U.S. Copyright Act, educational exceptions, or other similar provisions to the copyright laws or other intellectual property right laws in the United States or in other countries. JSTOR agrees to indemnify and hold harmless Institutional Licensee and its Authorized Users against damages for copyright infringement (and related legal fees and expenses) arising out of use of the Content in the JSTOR Global Plants and the Primary Source Materials (including GIS Data) for its intended purposes in accordance with these Terms and Conditions of Use and the applicable Participation Agreement between Institutional Licensee and JSTOR, provided that they notify JSTOR promptly of any such claim and allow JSTOR to control the defense and/or settlement of the dispute, and subject to the limitation on damages described in Section 11.2 of the JSTOR Terms and Conditions of Service.
+
+11.4 Users of Early Journal Content should note that third-party rights besides copyright (such as rights of publicity and privacy) may apply, and use of certain images or other materials may require additional permissions from third parties. Users shall hold JSTOR harmless and assume sole responsibility for addressing issues of publicity and privacy and any other third party rights, and obtaining necessary permissions, as they relate to use of the Early Journal Content.
+
+12. Archiving and Long-Term Access
+12.1 Archiving of JSTOR Collections Content. As an archive serving the scholarly community, JSTOR provides long term preservation of the JSTOR Collections Content by pursuing best practices and standards in the creation and maintenance of the JSTOR Platform and establishing mirror sites and multiple back up files for all of the materials in the JSTOR Platform, and for those items of JSTOR Collections Content that have print editions, establishing a dedicated repository at a participating institution to house and preserve the print copies under archival-quality conditions. With the support of Institutional Licensees, JSTOR is also developing an endowment to ensure the long term operating viability of the JSTOR Platform. Institutional Licensees typically pay an Annual Access Fee (a recurring payment for access to the JSTOR Platform) and an Archive Capital Fee (a one-time fee to ensure long term preservation, upgrading and enhancements of the scholarly materials on JSTOR). Should an Institutional Licensee elect to terminate access to a JSTOR Collection, it may resume access to that collection and all content subsequently added to that collection at any time in the future through payment of only the Annual Access Fee (unless the Institutional Licensee has remaining installments of the Archive Capital Fee in which case it will also resume paying that fee from the point at which the Institutional Licensee left).
+
+12.2 Post Cancellation Access for Journals Hosting Content. Post-cancellation access for Journals Hosting Content shall be provided by the applicable publisher who shall be responsible for ensuring Institutional Licensees and Authorized Users receive post-cancellation access to titles in accordance with the NISO Transfer Code of Practice.
+
+12.3 Perpetual Access for Books. In the event of an Institution’s cancellation or non-renewal of an Institutional Participation Agreement JSTOR shall provide access to Books through either JSTOR (with possible limitations on access and functionality) or Portico (many of the Books which are available on the JSTOR Platform are also part of the Portico digital preservation service) as selected in JSTOR’s discretion.
+
+13. DMCA Notifications
+If you believe that content in the Primary Source Materials violates your copyright or otherwise violates your rights, please send a written notice to JSTOR directed to the Office of the General Counsel, JSTOR, 2 Rector Street 18th Floor, New York, NY, 10006 or send an email to the address listed at the U.S. Copyright Office DMCA Designated Agent Directory. Please provide with your notice the following information, consistent with the Digital Millennium Copyright Act: (a) a physical or electronic signature of a person authorized to act on behalf of the copyright owner; (b) identification of the copyrighted work(s) claimed to have been infringed; (c) identification of the infringing material and information that will permit JSTOR to locate the material; (d) information that will permit us to contact you, including an address, telephone number, and, if available, an electronic mail address at which you may be contacted; (e) a statement by you that, in your good faith belief, use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (f) a statement that the information in the notification is accurate, and that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. Upon such notification, or if JSTOR learns of such a claim from another source, JSTOR may remove such content pending the resolution of such claim.
+
+14. Additional Terms and Conditions of Use
+14.1 JPASS Users will have access to certain Content for unlimited read-only access subject to the JPASS User’s agreement with JSTOR (the “JPASS Agreement”) and subject to these Terms and Conditions of Use. A fixed number of available Content items may be downloaded per month as further specified in the JPASS Agreement and once the JPASS User has reached the download limit the JPASS User will no longer be able to download Content.
+
+14.2 “Register & Read Users will have access to certain Content on a limited, read-only basis. A fixed number of available Content items may be placed on an Authorized User’s “MyJSTOR shelf” and each item can only be removed and replaced with other items after a fixed period of time (the number of items and amount of time to be determined by JSTOR and the publishers).
+
+14.3 Data for Research is a JSTOR program for research activities involving computational analysis rather than for purposes of understanding the intellectual meaning of such content. Data for Research users will be able to (i) search the JSTOR archive using the Data for Research search function; (ii) download chart data to view, use and display as Excel-compatible CSV files; (iii) view document-level data including word frequencies, citations, key terms and ngrams; requesting and downloading datasets containing word frequencies, citations, key terms, or ngrams associated with the Data for Research selected; and (iv) subject to registration with JSTOR and at JSTOR’s discretion, access additional data via a method prescribed by JSTOR. For the purpose of clarity, Data for Research is not limited to Licensed Content. Additional use of Data for Research and access to a custom dataset are subject to JSTOR’s approval. Please see the Data for Research registration page for further information http://dfr.jstor.org/accounts/register/.  The Prohibited Uses described in Section 5 above apply also to uses of Data for Research.
+
+14.4 Institutions in the United Kingdom and Republic of Ireland, and their users please see http://www.jisc-collections.ac.uk/Terms–Conditions/ for the Ireland Collection.
+
+14.5 Institutions in the United Kingdom and their users please see http://www.jisc-collections.ac.uk/Terms–Conditions/ for the 19th Century British Pamphlets Collection.
+
+15. Withdrawing Content from JSTOR
+JSTOR may withdraw Content from JSTOR for good cause shown. JSTOR would endeavor, to the extent practicable, to minimize any inconvenience to Authorized Users caused by such withdrawal. However, should JSTOR be unable to avoid such inconvenience, JSTOR in no way will be held liable for the withdrawal of such Content from the JSTOR Platform. If JSTOR withdraws a material amount of Content, Institutional Licensee may, upon written request, (a) be granted its choice of a refund or a credit of a prorated portion of its annual access fee for the Agreement then in effect or (b) terminate its agreement without penalty by providing written notice to JSTOR.
+
+16. Privacy Policy
+Use of JSTOR indicates acceptance of JSTOR’s Privacy Policy, available http://about.jstor.org/privacy as it may be amended from time to time.
+
+ITHAKA does not knowingly collect personally identifiable information from anyone under the age of 16. If it is discovered that we have collected PII from someone under 16 we promptly will delete that information.
+
+17. Force Majeure
+Neither JSTOR nor Institutional Licensees or Authorized Users will be liable for failures or delays in performing their obligations pursuant to this contract arising from any cause beyond their control, including but not limited to, act of God, acts of civil or military authority, terrorism, fires, strikes, lockouts or labor disputes, epidemics, wars, riots, earthquakes, storms, typhoons and floods and in the event of any such delay, the time for either party’s performance will be extended for a period equal to the time lost by reason of the delay. If the conditions giving rise to the delay continue beyond thirty (30) consecutive days, either party may terminate its agreement with the other by giving written notice to the other party.
+
+18. General
+18.1 These Terms and Conditions of Use are, where applicable, subject to and incorporated by reference into Institutional Licensees’ Institutional Participation Agreements. In the event of any conflict between these Terms and Conditions of Use and the Institutional Participation Agreement applicable to an Institutional Licensee and/or Authorized User, the Institutional Participation Agreement will prevail.
+
+18.2 These Terms and Conditions of Use will be interpreted and construed according to United States Federal law, excluding any such laws or conventions that might direct the application of the laws of another jurisdiction, and venue will lie exclusively in the federal and state courts of the United States, excluding any such laws to the contrary.
+
+18.3 If you are a United States public educational or government institution, those portions of this Agreement which are invalid or unenforceable against you due to applicable state or federal law, shall be construed in a manner most consistent with applicable governing law.
+
+18.4 If any provision or provisions of these Terms and Conditions of Use will be held to be invalid, illegal, unenforceable, or in conflict with the law of any jurisdiction, the validity, legality, and enforceability of the remaining provisions will not be in any way affected or impaired thereby. A waiver of any breach of these Terms and Conditions of Use will not be deemed a waiver of other breaches of these Terms and Conditions of Use.
+
+18.5 The English language version of agreements with JSTOR will be controlling over any other version.
+
+18.6 In the interest of managing the evolving needs of Institutional Licensees, Authorized Users, and Content providers, JSTOR reserves the right to reasonably modify these Terms and Conditions, or any aspect of JSTOR, at any time except it is JSTOR’s intention that such modifications shall not materially detract from the scope of Permitted Uses outlined herein. The most updated of these Terms and Conditions of Use will be posted on the JSTOR website, and JSTOR will notify Institutional Licensees via email of material modifications. Subject to Section 18.1 above, a modification will become effective for an Institutional Licensee if it does not object in writing to JSTOR within 60 (sixty) days from the time JSTOR emails notice of the modification. In the event of such an objection, JSTOR shall make reasonable efforts to address any concerns or the Institutional Licensee will have the right to terminate the Agreement on 30 (thirty) days written notice.
+
+Last updated on June 27, 2018

@@ -1,0 +1,198 @@
+Use of the Signal Service – Terms and Conditions
+Who These Terms Apply To
+
+These terms apply to you if you are using the Signal Service under an agreement between you and Signal Digital, Inc. (dba Signal) and that agreement specifically references these terms. Signal agreements that might reference these terms include free trial agreements and subscription agreements, but there may be other types of Signal agreements that reference these terms as well. In these terms, we will refer to the agreement between you and us simply as “our agreement.”
+
+By executing our agreement, you are agreeing to these terms, so please read them carefully. We update these terms from time to time, at our discretion, to reflect changes in our service, changes in the law, etc. The last time we updated these terms was July 30, 2014. Updates to these terms after the effective date of our agreement will not apply to you except: if an update has to do specifically with a new feature or functionality of the Signal Service, and you opt to use that new feature or functionality, then that update will apply to you. Before you use any new feature or functionality of the Signal Service, you should review these terms and familiarize yourself with any provisions applicable to that new feature or functionality.
+What the Signal Service Is All About
+
+You can use “Signal Tag” to manage and control the insertion of tag code and data collection code on, and to deliver server-direct data requests to integrated services from, your websites and mobile websites. If you’ve signed up for it, and depending on which features you’ve signed up for, you can also use “Signal FUSE” to:
+
+    collect data from websites, mobile websites, mobile applications, email messages, advertising impressions, CRM systems, POS systems, and other sources of data (collectively, “ Data Sources”)
+    sync customer profiles across channels
+    share all that data with your third party marketing, analytics, and other technology vendors and
+    capture all that data for your own use.
+
+We refer to Signal Tag and Signal FUSE together as the “ Signal Service.” Also, we refer to the Data Sources for which you actually use the Signal Service, which may be limited by the terms of our agreement, as “ Your Data Sources.” When you start using the Signal Service, we will give you access to an integration library file, SDK, or API (depending on the types of Data Sources, features you will be using, etc.) (collectively, the “ Signal Code”). You will also be given access to the Signal Service user interface (the “ Client Interface”) where you can control what data is collected, under what circumstances data is collected, and with whom data is shared.
+1. Special Considerations for Free Trial Agreements
+
+After you sign a free trial agreement with Signal, you’ll be able to access and use the Signal Service free of charge for the time period set forth in the free trial agreement. If you want to keep using the Signal Service after the free trial period, you’ll need to sign a subscription agreement. We can work out the details of the subscription agreement during the free trial. You should know that if you let your access to the Signal Service lapse, the data you entered, selections you made, customizations you made, etc. to the Signal Service during the free trial period will be lost forever.
+
+You’ll see that there are representations, warranties, and indemnities in these terms. Please note that those don’t apply to you during your free trial. During the free trial, we provide the Signal Service to you “as is” without warranty or indemnification.
+2. Additional Products and Services
+
+We may, from time to time, offer to you software as services that are new and different from, or complimentary to, the Signal Service (by this we do not mean updates to the Signal Service, even those containing new functionality). If you would like to take advantage of any new software service offered by us, we will enter into a separate agreement describing that software service and the fees to be paid for that software service.
+3. Access to and Use of the Signal Service
+3.1 Availability and Use of the Signal Service
+
+We will make the Signal Service available for you to access and use on Your Data Sources. You may use the Signal Service for your own Data Sources and any Data Sources owned or controlled by third parties for which you have obtained permission to incorporate the Signal Code. Each Data Source into which you incorporate the Signal Code will be considered one of “ Your Data Sources” for purposes of these terms. You are solely responsible for making decisions regarding which tag code, data collection code, and server-direct data requests (collectively, “ Tags”) to employ, which types of information pertaining to or derived from the presence or interactions of a user on Your Data Sources (“ User Data”) are collected by the Signal Service, the third parties to or through which that User Data is distributed, and any other instructions given to us via the Client Interface. You will endeavor to provide us with reasonable notice of any foreseeable significant increases in your use of the Signal Service or in traffic to Your Data Sources so that we may make any necessary adjustments to the Signal Service platform to accommodate those increases.
+3.2 Designated Users
+
+You will set up a separate user login for each individual (who must be an employee of yours or one of your affiliates or your subcontractors approved pursuant to these terms) who will access and use the Signal Service for your company. You are fully responsible for all selections made, or other directions given to us, via the Signal Service by individuals using your user logins to access the Signal Service. You must notify us immediately by emailing support@signal.co of any unauthorized use of your user logins.
+3.3 User Data
+
+As between us and you, you own all right, title, and interest in the User Data collected from Your Data Sources via the Signal Service. User Data is your confidential information. Unless instructed by you in writing, we will not store User Data other than as necessary for the Signal Service to collect and distribute User Data in real-time.
+3.4 Tags
+
+Nothing about your relationship with us or your use of the Signal Service alters (a) your relationship with your third-party vendors or (b) your responsibility to comply with all laws, rules, and regulations applicable to the collection and use of User Data. You are responsible for entering into, performing, and obtaining any necessary consents under all agreements with the third-party vendors whose Tags you opt to use. As a result of the directions you give via the Signal Service, cookies (any file on a device the contents of which can be subsequently accessed and communicated to a server) will be set on users of Your Data Sources. You are responsible for determining whether the setting of those cookies is appropriate. Your selection of a Tag setting a cookie via the Client Interface is an indication to us that you are aware of that activity and have determined it to be appropriate. We make no representations, warranties, guarantees, or indemnification regarding Tags or any other third-party product or service. All interaction between you and third parties providing Tags or other third-party products or services is between you and the third party. Some third-party vendors offer an open API with which clients can develop a direct serverto- server connection. At the request of certain clients, we built integrations to many of these open APIs to allow server-to-server distribution of User Data to these third-party vendors. In the Signal Service Tag catalog, those Tags are identified and are available for you to use. If you opt to use one of those Tags, you will be responsible for the Third-Party Vendor’s use of any User Data you opt to distribute to that Third-Party Vendor via the open API.
+4. Fees and Invoicing
+4.1 Fees
+
+You will not be charged any fee during your free trial. After your free trial, you will be charged the fees we agreed to in our agreement. If our agreement commences on a day other than the first of a month, we will pro-rate any monthly fees due with respect to the first month accordingly.
+4.2 Out of Pocket Expenses
+
+You will reimburse us for any out of pocket expenses reasonably incurred by us in connection with testing of any webpage that requires a credit card charge (e.g., your shopping cart) or in connection with a visit to your facilities at your request (e.g., to provide on-site training). Out of pocket expenses will be billed monthly in arrears.
+4.3 Late Payments
+
+If you do not pay undisputed fees when due, we may charge you a late fee at the rate of 1.5% per month (or if lower, the maximum rate allowed by law). If you don’t pay undisputed fees within 15 business days after the payment due date, after reasonable notice to you, we may even suspend your access to the Signal Service until you pay all overdue amounts.
+4.4 Taxes
+
+You will pay all federal, state, local, foreign or other taxes, duties, tariffs or other charges, however designated, arising from the transactions contemplated by our agreement and these terms, except for taxes based on our income, which we will pay. If we have a legal obligation to pay or collect taxes for which you are responsible, we will invoice you for the appropriate amount.
+4.5 Audit Rights
+
+If you have a good faith, reasonable belief that any amounts invoiced under our agreement are inaccurate, you will contact us regarding the discrepancy and together we will work promptly to resolve the discrepancy. Likewise, if we have a good faith, reasonable belief that any reports provided by you upon which we base our invoices (e.g., reports regarding number of advertising impressions served) are inaccurate, we will contact you regarding the discrepancy and together we will work promptly to resolve the discrepancy. If we are unable to resolve a discrepancy within a reasonable period of time, the party that believes there is a discrepancy may have an independent auditor acceptable to both parties conduct an inspection and audit of all the relevant accounting and sales books, records, agreements, computer systems, and documents. Audits will be (a) limited in scope to determining the accuracy of reports and/or invoices provided under our agreement, (b) conducted during regular business hours, at the audited party’s offices, and in such a manner as not to unreasonably interfere with the audited party’s normal business activities, and (c) conducted by each party no more frequently than once every twelve months. The auditor will be considered an agent of the auditing party and, accordingly, subject to the confidentiality provisions included in these terms. The auditing party will be responsible for all reasonable, out-of-pocket costs and expenses incurred in connection with the audit, unless the audit reveals a discrepancy in excess of 5%, in which case, the audited party will be responsible for all reasonable, out-of-pocket costs and expenses incurred in connection with the audit (subject to a cap of $2,500).
+5. Intellectual Property Rights
+5.1 Ownership of the Signal Service
+
+We own all right, title and interest, including without limitation all trade secrets, patents and patent applications, trademarks, service marks, trade names, copyrights and all other intellectual property and proprietary rights, whether registered or unregistered (collectively, “Intellectual Property Rights”), in and to the Signal Service, the Signal Code, and any software or technology incorporated in or made available through the Signal Service or delivered by us to you (collectively, the  “Technology”).
+5.2 License to Use the Signal Service
+
+We grant to you a worldwide, limited, non-assignable, non-exclusive, non-sublicense-able license (a) to incorporate the Signal Code into Your Data Sources solely for use with the Signal Service and (b) to use the Signal Code and the Technology solely to access and use the Signal Service for your internal business purposes. We reserve all rights not expressly granted to you under these terms.
+5.3 Limitations on Use of the Signal Service
+
+You may not misuse the Signal Service. You will not, and will not allow a third party to: (a) reverse engineer, decompile ,or disassemble, or otherwise attempt to discover the source code of the Technology; (b) reproduce or modify the Technology; (c) modify, alter, or delete any of the copyright, trademark, or other proprietary notices displayed on, embedded in, or affixed to the Technology; (d) use any device, software or routine to interfere with the proper working of the
+
+Technology; (e) use any automated means, including, without limitation, agents, robots, scripts or spiders, to access, monitor, or copy the Technology; (f) use the Technology in any manner other than as permitted by these terms; or (g) take any action outside the normal course of business that artificially imposes an unreasonable or disproportionately large load on the Signal Service’s infrastructure (e.g., stress testing), as reasonably determined by Signal (it being understood that increases in traffic related to seasonal variances, ad campaigns, SEO modifications, or SEM purchases are considered actions in the normal course of business).
+5.4 Ownership of User Data
+
+As between us and you, you own all right, title, and interest in the User Data collected from Your Data Sources via the Signal Service. Because the Signal Service will be involved in the collection and distribution of your User Data, we need a license from you regarding that User Data. Accordingly, you grant to us a worldwide, nonexclusive, limited license to access, collect, assemble, compile, analyze, modify, transform, transmit, use, and otherwise distribute or provide access to User Data only as is reasonably necessary to perform our obligations under our agreement and these terms. This license includes, without limitation, the right to: (a) facilitate the transfer of User Data in connection with providing the Signal Service; (b) generate Reporting Data; (c) deploy the Signal Code on Your Data Sources to collect User Data; and (d) cause Your Data Sources to set, read, and modify any file on a device the contents of which can be subsequently accessed and communicated to a server (“ Cookies”).
+6. Confidential Information
+6.1 Definition of Confidential Information
+
+“Confidential Information” includes any information that is disclosed by one of us to the other that is identified as confidential at the time of disclosure or that the receiving party should, in the exercise of reasonable judgment, know is confidential to the disclosing party.
+6.2 Obligations with Respect to Confidential Information
+
+Each of us agrees: (a) to protect and safeguard the other’s Confidential Information against unauthorized use, publication or disclosure with the same degree of care that it uses to protect the confidentiality of its own Confidential Information and, in any event, not less than reasonable care; (b) to restrict access to the other’s Confidential Information to those of its officers, directors, employees, agents, attorneys, accountants, investment advisors, and contractors who have confidentiality obligations that afford the Confidential Information a substantially similar level of protection as is afforded by these terms; and (c) not to use, or permit others to use, the other’s Confidential Information except as is reasonably necessary to perform its obligations or exercise its rights under our agreement and these terms. Each of us will return or destroy all Confidential Information of the other upon the termination of our agreement or upon the request of the other.
+6.3 Limitations on Obligations
+
+The obligations set forth above do not apply to information that: (a) is already known to the receiving party without restriction on use or disclosure at the time of communication to the receiving party; (b) is or becomes publicly known through no wrongful act or inaction of the receiving party; (c) has been rightfully received from a third party authorized to make such communication, without restriction on use or disclosure; or (d) has been independently developed by the receiving party without use of the Confidential Information of the other party. Notwithstanding any other provision of these terms, each of us may disclose Confidential Information of the other if such disclosure is required by an order of a court or other governmental authority, law or regulation, but only to the extent that any such disclosure is necessary and after notice to the other if practicable. In such case, the party required to make the disclosure will, at the other party’s expense, assist the other party in obtaining an order protecting the Confidential Information from public disclosure, or in otherwise minimizing and limiting the breadth and scope of such disclosure.
+6.4 Equitable Relief
+
+Each of us understands and acknowledges that any disclosure or misappropriation of any of the other’s Confidential Information in violation of these terms may cause irreparable harm, the amount of which may be difficult to ascertain and, therefore, agrees that the disclosing party will have the right to apply to a court of competent jurisdiction for an order restraining any such further disclosure or misappropriation and for such other relief as the disclosing party deems appropriate. Such right of the disclosing party will be in addition to the remedies otherwise available to the disclosing party at law or in equity.
+7. Termination of Our Agreement
+7.1 Expiration of Free Trial Agreement.
+
+When the free trial ends, unless you have signed a subscription agreement, you must immediately cease use of the Signal Service and remove the Signal Code from all Your Data Sources. If you sign a subscription agreement before your free trial ends, your access to the Signal Service will be uninterrupted and continue for the term of the subscription agreement.
+7.2 Termination of Our Agreement
+
+Each of us can terminate our agreement under these circumstances: (a) if the other party breaches any material provision of our agreement or these terms and fails to cure the breach within 10 business days after receipt of written notice of the breach; or (b) if the other party (i) becomes insolvent, (ii) makes an assignment for the benefit of creditors, (iii) files or has filed against it a petition in bankruptcy or seeking reorganization, (iv) has a receiver appointed, or (v) institutes any proceedings for the liquidation or winding up; provided, however, that, if any of the foregoing is involuntary, the party will only be in breach if the petition or proceeding has not been dismissed within 90 days.
+7.3 Effect of Termination or Expiration
+
+When our agreement expires, (a) we’ll send you an invoice for all outstanding undisputed fees and terminate your access to the Signal Service and (b) you’ll pay all outstanding undisputed fees and immediately remove the Signal Code from all Your Data Sources. Please note that until you remove the Signal Code from all data sources, it will continue to fire. Accordingly, the terms and conditions or our agreement, including these terms and conditions, will continue in full force and effect, and you will continue to incur monthly service fees, until you have removed the Signal Code from all Your Data Sources. Even after our agreement expires or is terminated, certain provisions in these terms will continue to apply. Namely, the provisions regarding Confidential Information, payment of fees (at least so long as there are outstanding fees), ownership of intellectual property and user data, indemnification obligations, and any other terms that would seem to a reasonable person to be intended to survive.
+8. Representations and Warranties
+8.1 Your Representations and Warranties to Us
+
+You represent and warrant to us that:
+
+(a) the execution of our agreement has been duly authorized and is a valid and binding obligation of your company;
+
+(b) you will not distribute Personally Identifiable User Data via the Signal Service to any integrated service provider or other Third Party Vendor that does not allow the use of its service, Tag, or other technology to process Personally Identifiable User Data (“ Personally Identifiable User Data” means any User Data that can be used to identify, contact, or locate a natural person, including without limitation, a natural person’s name, email address, telephone number, Social Security number, individual taxpayer information number, financial account information (e.g. bank accounts), payment card data (credit or debit card), driver’s license number, passport number, government-issued identification number, and personal health information);
+
+(c) you are and will remain in compliance with all applicable laws, rules, and regulations, and judicial, regulatory, and administrative orders (collectively “ Applicable Law”), as well as with all applicable standards or guidelines promulgated by self-regulatory groups (collectively, “Applicable Guidelines”), regarding the collection and use of User Data, and have obtained and will obtain all necessary consents and complied with all opt-out and opt-in procedures required under Applicable Law and Applicable Guidelines;
+
+(d) each of Your Data Sources will include, and you will comply with, a privacy policy in compliance with Applicable Law that discloses, as applicable, that information collected through Your Data Sources might be shared with third parties, and that third parties may be collecting data, setting cookies and similar tracking technologies, and serving advertisements through Your Data Sources; and
+
+(e) you have and will maintain the permission of any third party necessary for (a) use of the Signal Service with respect to any Tags and any of Your Data Sources, (b) us to, at your request, migrate Tags you currently use to the Signal Service, and (c) us to use the Tags in connection with providing the Signal Service to you.
+8.2 Our Representations and Warranties to You
+
+We represent and warrant to you* that:
+
+(a) the execution of our agreement has been duly authorized and is a valid and binding obligation of ours;
+
+(b) we will comply with all Applicable Law in the performance of our obligations under our agreement and these terms (we do not, however, make any warranties with respect to Tags other than the Signal Code);
+
+(c) the Technology (excluding Tags other than the Signal Code) does not and will not violate or infringe upon any trademark, trade secret, copyright, United States patent, or other right of any third party;
+
+(d) the Technology as provided to you (excluding Tags other than the Signal Code) does not include any content or functionality or any programming devices (e.g., viruses, key locks, etc.) that would permit us or any third party to access any of your equipment connected to the Technology without your authorization;
+
+(e) we will implement reasonable and appropriate technical and organizational measures designed to protect User Data from and against any accidental or unlawful destruction or any accidental loss, alteration, unauthorized disclosure, use or access, including, but not limited to, in connection with any transmission of such data over a public or private network, and from and against all other unlawful forms of processing, access, use and disclosure;
+
+(f) we will provide commercially reasonable levels of security for all our services and networks; and
+
+(g) except in cases where federal or state laws or judicial or administrative orders have prohibited the release of information connected to a security breach of protected information, we will comply with applicable legally mandated data theft and breach notification requirements, and notify you of any actual or suspected security breach of the Signal Service within twenty-four hours after the discovery of that breach or potential breach.
+
+* IF YOU ARE USING THE SIGNAL SERVICE UNDER A FREE TRIAL AGREEMENT, WE MAKE NO REPRESENTATIONS OR WARRANTIES TO YOU AND WE PROVIDE THE SIGNAL SERVICE TO YOU “AS IS.”
+8.3 Exclusion of Warranties
+
+EXCEPT AS EXPRESSLY STATED IN THESE TERMS, NEITHER OF MAKES ANY REPRESENTATION OR WARRANTY OF ANY KIND, AND EACH OF US SPECIFICALLY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Without limiting the generality of that statement, you should know that WE SPECIFICALLY DO NOT WARRANT THAT THE TECHNOLOGY WILL (A) BE UNINTERRUPTED; (B) BE FREE FROM INACCURACIES, ERRORS, VIRUSES OR OTHER HARMFUL COMPONENTS; (C) MEET YOUR NEEDS; OR (D) OPERATE IN THE CONFIGURATION OR WITH THE HARDWARE OR SOFTWARE YOU USE. EXCEPT AS EXPRESSLY STATED IN THESE TERMS AND CONDITIONS, YOUR USE OF THE TECHNOLOGY IS SOLELY AT YOUR OWN RISK.
+9. Limitations on Liability
+9.1 Exclusion of Damages
+
+NEITHER PARTY WILL BE LIABLE FOR ANY LOST PROFITS, LOST DATA, OR LOSS OF GOODWILL, OR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THE TRANSACTIONS CONTEMPLATED BY OUR AGREEMENT AND THESE TERMS. THIS LIMITATION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, AND EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+9.2 Cap on Liability
+
+NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY, IN NO EVENT WILL EITHER PARTY’S LIABILITY UNDER OUR AGREEMENT AND THESE TERMS EXCEED THE AMOUNT OF FEES PAID BY YOU TO US IN THE SIX MONTHS IMMEDIATELY PRECEDING THE DATE ON WHICH THE CAUSE OF ACTION RELATING TO THE LIABILITY AROSE.
+9.3 Exclusions to the Limitations on Liability
+
+NEITHER THE EXCLUSION OF DAMAGES NOR THE CAP ON LIABILITY ABOVE WILL BE CONSTRUED TO LIMIT EITHER PARTY’S LIABILITY FOR BREACH OF ITS OBLIGATIONS WITH RESPECT TO CONFIDENTIAL INFORMATION OR EITHER PARTY’S OBLIGATION TO
+
+INDEMNIFY THE OTHER PARTY UNDER THESE TERMS FOR DAMAGES AWARDED TO A THIRD PARTY (EVEN IF THE DAMAGES SUFFERED BY THAT THIRD PARTY ARE CHARACTERIZED AS INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL).
+10. Indemnification
+10.1 Indemnification by You
+
+You will indemnify, defend, and hold us and our affiliates, and our and their employees, representatives, agents, directors, officers, managers, and shareholders (collectively,  “Our Indemnified Parties”) harmless from and against any damages, losses, costs, settlements, judgments, awards, fines, penalties, interest, liabilities, or expenses (including without limitation, reasonable attorneys’ fees and disbursements and court costs) (collectively,  “Liability”) incurred in connection with any third-party claim, demand, or action (collectively,  “Claim”) brought against any of Our Indemnified Parties arising out of:
+
+(a) your use of the Technology other than in accordance with the terms of our agreement, these terms, Applicable Law, or Applicable Guidelines;
+
+(b) your use of Tags (including cookies set in connection with those Tags) or other third-party products or services in connection with the Signal Service, and any interactions or agreements between you and the third parties providing the Tags or other products or services;
+
+(c) your collection, distribution, or use of User Data, including without limitation Personally Identifiable User Data;
+
+(d) if you are an agency using the Signal Service on behalf of your client, any interactions or agreements between you and your client; or
+
+(e) any alleged or actual breach by you of any provision of these terms.
+10.2 Indemnification by Us
+
+We will indemnify, defend, and hold you* and your affiliates, and your and their employees, representatives, agents, directors, officers, managers, members, and shareholders (collectively,  “Your Indemnified Parties”) harmless from and against any Liability incurred in connection with any Claim brought against any of Your Indemnified Parties arising out of:
+
+(a) any unauthorized disclosure of User Data caused by a breach of the Signal Service;
+
+(b) any alleged or actual breach by us of any provision of these terms; or
+
+(c) any allegation that the Technology (excluding Tags other than the Signal Code) violates or infringes upon the trademark, trade secret, copyright, United States patent, or other right of any third party.
+
+* IF YOU ARE USING THE BRIGHTTAG SERVICE UNDER A FREE TRIAL AGREEMENT, THIS SECTION 10.2 DOES NOT APPLY TO YOU.
+10.3 Some Rules for Indemnification
+
+If one of us becomes aware of a Claim for which it is indemnified by the other, that party will promptly notify the other party of the Claim. The party seeking indemnification may, at its own expense, retain counsel to participate in the defense and disposition of the Claim. The indemnifying party may not settle, compromise, or in any other manner dispose of any Claim without the consent of party being indemnified, and the party being indemnified will not unreasonable withhold its consent.
+11. Miscellaneous
+11.1 Marketing
+
+Once you sign an agreement with us (other than a free trial agreement), you grant to us the right to include your name and logo on our client lists and on our website. We will comply with any guidelines for use of your name and logo given to us in writing.
+11.2 Subcontractors
+
+You may use consultants, agencies, or other subcontractors so long as you approve it in advance (requests for approval may be sent via email to support@signal.co). You will be responsible for, and will indemnify and defend us from any claims arising out of, the activities of any consultants, agencies, or other subcontractors as though they are your activities.
+11.3 Force Majeure
+
+No failure or omission by either of us to carry out or observe any of these terms (other than any payment obligation) will give rise to any claim against the other, or be deemed a breach of these terms, if the failure or omission arises from causes beyond the other’s reasonable control. By causes beyond our or your reasonable control, we mean things like earthquake, flood, fire, or other natural disasters, acts of God, acts of civil or military authority, government priorities, labor controversy, civil disturbance, terrorism, epidemics, quarantine, energy crises, war, riots, or any change in or the adoption of any law, regulation, judgment, or decree that would make the provision or use of the Signal Service unfeasible or not commercially reasonable to continue.
+11.4 Notices
+
+Notices will be considered given upon the date of delivery by email or fax if receipt is confirmed electronically or in writing. Notices can also be sent by an overnight delivery service (confirmed by a signed receipt), by certified U.S. mail (return receipt requested), or by personal delivery (confirmed in writing by the deliverer), in which case, notice will be considered given as of the date on which confirmation of receipt is made. If you want to send us a notice, send it to Giuliana Summer, SVP, Finance at 222 N LaSalle Street, Suite 1600, Chicago, IL 60601. If we want to send you a notice, we will send it to the name and address listed on our agreement.
+11.5 Governing Law and Arbitration
+
+The laws of the State of New York (without giving effect to its conflict of laws principles) govern all matters arising out of or relating to our agreement or these terms. The U.N. Convention on Contracts for the International Sales of Goods is hereby expressly excluded. All controversies and claims between us are to be resolved by arbitration in accordance with the then-current rules of the American Arbitration Association before a panel of three arbitrators selected in accordance with those rules. The arbitration is to be conducted in New York, NY. Any award, order or judgment pursuant to the arbitration is final and may be entered and enforced in any court of competent jurisdiction. Each of us can also seek and obtain injunctive relief in any court of competent jurisdiction. For purposes of seeking injunctive relief, each of us irrevocably submits to the non-exclusive jurisdiction of the State and Federal courts located in New York, NY. If either of us commences any action or proceeding against the other, the prevailing party will be entitled to recover the actual costs, expenses, and attorneys’ fees incurred by it in connection with the action or proceeding and in connection with enforcing any judgment or order entered in connection with the action or proceeding.
+11.6 Assignment
+
+Neither of us may assign its rights or delegate its obligations under our agreement or these terms without the prior written consent of the other, except that either of us may assign its rights and delegate its obligations under our agreement and these terms to an entity into which it has merged or which has otherwise succeeded to all or substantially all of its business, stock, or assets, and which has assumed in writing or by operation of law its obligations under our agreement and these terms. Our agreement and these terms will bind and inure to the benefit of our respective successors and permitted assigns.
+11.7 Entire Agreement
+
+These terms constitute an agreement between us, and together with our agreement, is the complete and exclusive expression of our agreement regarding our provision of and your use of the Signal Service.
+11.8 No Waiver
+
+If one of us fails or delays in exercising any right or remedy under our agreement or these terms, that does not mean we or you, as the case may be, are waiving that right or remedy.
+11.9 Severability
+
+If any provision of our agreement or these terms is determined to be invalid, illegal, or unenforceable, the remaining provisions remain in full force.
+11.10 Independent Contractors
+
+We are dealing with each other as independent contractors, and nothing in our agreement or these terms should be construed as, or deemed to be, the formation of a partnership, association, joint venture, or similar entity by or between the parties.

@@ -1,0 +1,6 @@
+DuckDuckGo does not collect or share personal information
+ Search engines could lose data, or get hacked, or accidentally expose data due to security holes or incompetence, all of which has happened with personal information on the Internet
+ However, in our case, we don't expect any because there is nothing useful to give them since we don't collect any personal information
+ your IP address, User agent and often a unique identifier stored in a browser cookie), and if you are logged in, your account information (e
+Additionally, if you use our !bang syntax/dropdown, which bangs you use are stored in a cookie so that we can list your most frequently used ones on top of the !bang dropdown box
+ We do not use any third parties to do the code insertion, and we do not work with any sites that share personally identifiable information (e

@@ -1,0 +1,305 @@
+Welcome to CamScanner!
+
+Please read the following Terms of Service carefully. Your use of CamScanner means you have accepted this agreement.
+
+Under these Terms of Service ("Terms"), the term "INTSIG" or "we" means INTSIG Information Co., Ltd., a limited company established and existing under the laws of the People’s Republic of China in Shanghai. This agreement also includes the Privacy Policy and other business rules. Please read them carefully.
+
+ 
+
+1.      About CamScanner
+
+CamScanner refers to software that we provide with functions of information acquiring and processing, converting information into document (PDF/JPEG/TXT/…) and document scan, recognition, management, storage and sharing, as well as other related value-added services ("Our Services"). We provide the above-mentioned services through free or paid CamScanner software ("Our Software"), CamScanner website (http://www.camscanner.com), or application programming interfaces ("APIs") for third parties to use.
+
+We remind you especially that we only provide you the software and service as tools. When using CamScanner acquiring and processing information, you should respect legal rights of others such as intellectual property rights and privacy rights etc., and make sure you are authorized to copy, amend, upload and publish the information. If doing such mentioned above without permission, you may infringe legal rights of others, which may result you to be liable for it.
+
+ 
+
+2.       Range of Software License and Service
+
+We grant you a personal, worldwide, revocable, non-transferable and non-exclusive license to use CamScanner. Unless otherwise expressly agreed in writing, you are permitted to install, use, display or run Our Software or use Our Services on your smart mobile end-device including but not limited to tablets and smart phones, and PCs as well as other computer systems ("End-Device") for personal and non-commercial purposes.
+
+ 
+
+3.      Paid Service
+
+You may need to pay for some of Our Services of CamScanner. You will obtain Our Service only after you have already completed payment on time and in full amount. About fee-based service, we will ask your consent before charges.
+
+We could modify the payment standard and method according to practical needs. Some current free services may become fee-based services in the future. If you refuse to pay, you will no longer be able to use the service when we start to charge fees. We will publicize such changes on CamScanner official website or inform you before you use relative services during the period of time. The price of product provided through the website would change at any time. We will not offer price protection or refundment for price reduction or sale promotion.
+
+As authorizing/activating information (including but not limited to authorizing code, password etc.) is included in, software is a special kind of commodity. After the completion of the sale, the cooling off period rule/ “Return of goods without reasons” shall not apply, and also the return shall be not accepted if there is no quality defect. If you have any questions or need any help, you can contact us by email: support@intsig.com.
+
+ 
+
+4.      Registration and Account Security
+
+In order to make CamScanner to be used more conveniently, we suggest you create an account of your own, and provide your authentic personal information. Please update such information if there is any change. If you don’t have an account, you will be not able to use some of the function of CamScanner. If you already have a CamCard account (CamCard is another piece of software also developed by INTSIG), you can use it to sign in to CamScanner service.
+
+The account password can be set by yourself, and please keep it secure. You agree that you will bear full responsibility for any and all the activities under your account. In order to keep your account secure, we particularly remind you of certain measures including but not limited to safekeeping your password, installing anti-virus software, changing your password regularly, and logging out safely after use. If your account or password is stolen, you shall assume full responsibility for all the consequences arising therefrom unless it can be proved that it is caused by our intentional act or gross negligence.
+
+If you learn of any unauthorized use of your account, or password, please contact us immediately: support@intsig.com.
+
+ 
+
+5.      Privacy and Personal Information
+
+We respect the privacy of each user and will protect your privacy and personal information in accordance with relevant laws. Please read our Privacy Policy carefully which specifies how we treat your personal information.
+
+We particularly remind you that the information you upload or submit to CamScanner may involve other peoples' personal information, privacy or other undisclosed information. INTSIG will not disclose such contents without authorization.
+
+When using CamScanner business social networking services, you should set or adjust your privacy controls according to your own needs to avoid risks.
+
+You acknowledge and promise that you will fully respect the privacy of anyone you have access to within CamScanner Services and will not collect, duplicate, store, disseminate, spread or misuse others' private information without permission. If you make malicious use of other people’s personal information or undisclosed information, or infringe other users’ privacy or undisclosed information by any other means (including but not limited to harassment to other users), we are entitled to restrict or terminate your account privilege until finally delete your account at any time, and we reserve the right to unilaterally terminate this agreement and request you to bear legal liabilities.
+
+ 
+
+6.      Providing Services "As Is"
+
+Our Software and our service are provided at a commercially reasonable level. We are trying our best to meet your needs and assure the consistency and security of our services. But we are not able to foresee some legal and technological risks at any time, which include but not limited to service interruption, data loss and other damages or risks due to force majeure, viruses, Trojans, hackers' attack, instability of system, defective services provided by third parties, or government actions etc. You hereby acknowledge and confirm that you use CamScanner at your own risk.
+
+ 
+
+7.      Advertisement
+
+You agree that we reserve the right to post advertisements or promotion information (including commercial and non-commercial information) in CamScanner, the manner, mode and extent of which are subject to change without prior notice to you.
+
+We shall fulfill the reference obligations to advertisers in accordance with law. You should judge by yourself the authenticity of advertisements and take responsibility for any and all the consequences arising therefrom. Unless otherwise provided in law, we are not liable for any loss or damage incurred by you as a result of any transaction with the above-mentioned advertisers, or as a result of any reliance placed by you on the above-mentioned advertisements. 
+
+ 
+
+8.      Third Party Services
+
+In CamScanner, we allow you to invoke services provided by third parties such as E-mail services, Google Docs, Box.net, Dropbox and Evernote etc. We develop the functions only through APIs and invoke services from third parties in CamScanner. However, actual services are provided by third parties. For relative rules of such service, please refer to Terms of Service and Privacy Policy issued by those third parties. Any problem or damage incurred by you as a result of using third party services will be afforded by you and the relevant parties, for which we will hold no direct or indirect liabilities.
+
+ 
+
+9.      Your Content in Our Services
+
+You should take responsibility for the contents (including but not limited to email, message, file, work, tags, software, music, recording, picture, graph, video, data, registered information and other information, etc.) you transmit, upload, post or distribute through CamScanner either publicly or privately. You promise that you have the necessary authorization for submitting such contents, respect other people's copyright as well as other legal rights, and will not duplicate, upload or post the infringement or unauthorized contents mentioned-above in CamScanner. We will not amend your substantial contents uploaded or published, but only automatically adjust the format of files by means of preprogramming when necessary for Internet connection or technique requirement of device, service or media.
+
+You retain the copyright and other rights of the contents you submit to Our Services in accordance with law. In order to enjoy our services, you agree to grant INTSIG(or the third parties authorized by INTSIG)  irrevocable, worldwide and free license to technically maintain, store, duplicate or back up information mentioned-above for the purpose of providing service, so that we can run our relevant services. You acknowledge and agree that INTSIG has the right to refuse uploading, storing and sharing any illegal contents based on its own judgment.
+
+We especially remind you that if you use CamScanner sharing the contents you uploaded, it will be considered that you understand others possibly view, duplicate and spread the contents. You should acknowledge it will result that the relevant contents are possibly shown in more places and browsed by more audiences. If your behavior results any damages to INTSIG (including but not limited to compensation and lawyer’s fee), you agree to bear all the liability to the damages. We reserve the right to review, filter, remove the contents or end the service in accordance with law.
+
+In terms of the information publicized, you agree to authorize INTSIG a royalty-free, non-exclusive, and perpetual license including sub-licensing. We can use (including without limitation duplicate, adapt, modify, create derivative works, translate) and disseminate such contents within our discretion. You also agree to grant INTSIG the right to bring an action, in the name of itself, against those who infringe the right of above contents and get all the indemnification. You promise to have the necessary authorization for granting INTSIG such license.
+
+Although there is the reservation in the items mentioned-above, it does not mean that we are sure to act the said behavior such as using and disseminating. We have no commercial plan in this respect by now. The reservation rights only refer to the contents which you have published, but not to personal information, privacy and other unpublished information.
+
+ 
+
+10.  Information Storage
+
+10.1 You acknowledge and agree to store information related to use of CamScanner into your own End-Device, which will occupy some storage space of your End-Device. We hereby remind you to decide whether to set passwords when using Our Service in order to protect information security according to your needs.
+
+10.2 If you set and use CamScanner software and your account in your End-Device, the contents and information which have been stored in this End-Device will be added into your account automatically, and also be stored in our servers. Your registered account will be bound to this End-Device by default unless you remove binding by means of logging off in the settings.
+
+10.3 We reserve the right to adjust the size of storage space that a single user could occupy in our services within our discretion based on actual situation. We will announce the relevant adjustment in our website or by other appropriate way 30 days in advance. Please often sign in your account and notice the website announcement.
+
+10.4 Our system stores your contents and information according to your operation. Please read the user manual carefully to well understand the system’s default setting and adjust it at your own will so as to use CamScanner correctly. We remind that you should also backup your information in other ways by yourself. We are not able to be responsible for your deleted or failure-stored information.
+
+ 
+
+11.  Code of Conduct
+
+11.1 When you are using the service of CamScanner, you shall firmly agree to abide by local laws and regulations. No one shall produce, duplicate, publish, or spread sensitive or illegal information, or any information or material which will be regarded as immoral by reasonable people, including but not limited to the following information:
+
+(1)   Opposing to the basic principles of the country’s Constitution;
+
+(2)   Committing acts detrimental to the security of the motherland, disclosing state secrets to subvert the state’s political power, undermining the unification of the state;
+
+(3)   Committing acts detrimental to the honor and interests of the motherland;
+
+(4)   Inciting ethnic hatred and ethnic discrimination, undermining national unity;
+
+(5)   Undermining the state’s religious policies to promote cults and feudal superstition;
+
+(6)   Spreading rumors, disturbing the social order, undermining the stability of the society;
+
+(7)   Spreading obscenity, pornography, gambling, violence, murder, terror or instigating crime;
+
+(8)   Insulting and slandering others, infringing others’ lawful interests;
+
+(9)   Violating the compulsory provisions of laws or administrative regulations.
+
+11.2 You shall not use CamScanner for any illegal purposes, or utilize CamScanner to conduct illegal behaviors, including but not limited to the following:
+
+(1)   To use CamScanner for any acts which make adverse influence on the Internet’s normal operation;
+
+(2)   To steal or illegal visit and abuses other users’ account or account information;
+
+(3)   To fabricate facts maliciously and conceal the truth to mislead or cheat others;
+
+(4)   To publish, transmit, and spread advertisement information or spam; initiate, continue or in any form join in any speculative or other illegal plans; use network communication to harass others;
+
+(5)   To publish, transmit, spread, and store information which infringes legal rights such as intellectual property rights, trade secrets; transmit, spread, or in other ways to present pictures, photos, software or other material files which are protected by intellectual property law, unless you have corresponding rights, authority or have received all the necessary ratification;
+
+(6)   Other acts which are forbidden by laws and administrative laws.
+
+11.3 You shall not engage in any activities which are to the disadvantages of INTSIG. Except for explicit legal permission or written permission from INTSIG, you should not engage in any activities which are unauthorized explicitly when you are using CamScanner, including but not limited to the following:
+
+(1)   To delete all CamScanner’s information about copyright;
+
+(2)   To reverse engineering, reverse assembling, reverse compiling our software, or in other way to attempt to discover our software’s source code;
+
+(3)   To retrieve, reproduce, modify, hook operation or create any derivative works of CamScanner’s information (including but not limited to our software or information stored in any End-Device when using CamScanner and mutual information between client and server), the forms including but not limited to using plug-ins, extras or unauthorized third party’s tools/service access, interference and influence our software and related system;
+
+(4)   To restrict, forbid or in other ways interfere or affect others in using or enjoying service of CamScanner (except for safety and protection tools such as parental control), including but not limited to release or transfer the following qualities of any information or software: including worm, virus, Trojan or other detrimental function, or generated flow capacity which is suffice to interfere with others’ use, dispatch or information retrieval;
+
+(5)   In any automatic ways to visit(or attempt to visit) CamScanner, or violate prescribed rules in CamScanner software and service’s related programs’ any robots.txt or similar files;
+
+(6)   To use, lease, lend, reproduce, modify, interlink, reprint, compile, issue, publish, establish mirror image websites of CamScanner’s relevant information;
+
+(7)   Any operation for manipulated or distorted purposes, or any operation possibly undermines integrity or veracity of CamScanner’s any rating or comment;
+
+(8)   Other acts which are not explicitly authorized by INTSIG.
+
+11.4 If you conduct previous behaviors, you should bear the corresponding responsibilities independently while we bear no responsibility whatsoever. You should make compensation for any damages according to laws, and we will reserve the rights to seek legal remedies to recover damages and compensation, if any.
+
+11.5 If you violating the agreement’s provision results damage to us, which includes but not limited to any claims, requirements, or damages from any third party due to your behavior, and our expend to dispose such matters, such as lawyer’s fee, you shall agree to compensate INTSIG and protect us from losses.
+
+ 
+
+12.  Intellectual Property
+
+You acknowledge and agree that INTSIG possesses any and all the lawful rights and interests of CamScanner, including any intellectual property rights of software and/or service.
+
+The information in CamScanner includes, but not limited to: texts, words, software, voices, photos, videos, diagrams, all contents in advertisements, the commercial information we offered and so on. The contents of CamScanner’s information are protected by copyright law, patent law, trademark law and all other related laws and regulations. You are allowed to use these contents only with our authorization. No arbitrary reproduction, modification or compilation of these contents or the creation of related derivative products is permitted.
+
+Unless you have otherwise reached written agreement with us, this agreement does not authorize you to use any of our software title, trademark, service mark, logo, domain name and/or any other identification with notable brand features.
+
+ 
+
+13.  Limitation on Liability
+
+13.1 Please download the CamScanner software directly from our website http://www.intsig.com, or acquire other ways in our website under our authorization for safe downloading... Please also register a CamScanner account and use our services through safe ways we provided. The aforesaid safe ways include using CamScanner software or visiting CamScanner website http://www.camscanner.com. Except for the situation above, we cannot make sure your software and account are safe. For the loss of yours or others’, which is caused by the unauthorized software, service or account, we will not bear any responsibilities.
+
+13.2 Please use CamScanner correctly. The introduction of functions and operations can be found in “User Menu” and “Help”. You can also contact us for help directly: support@intsig.com. For your improper operation, you should bear responsibilities and losses by yourself.
+
+13.2 You fully understand that CamScanner involves online service. It may meet various risk factors such as force majeure, or possibly interrupting the service. We will attempt to restore it immediately in such cases, however, you should bear such responsibility and losses by yourself caused hereby, and we shall not be responsible no matter directly or indirectly. The accidental risks include but not limited to the interruption and suffocation of service caused by the following reasons:
+
+(1)   Undermined by computer virus, Trojan or other malicious programs, or by Hacker’s attack;
+
+(2)   User or INTSIG’s End-Device’s software, system, hardware and telecommunication line happens to breakdown;
+
+(3)   Accidents, natural disaster or acts of government;
+
+(4)   User’s employment of service is neither provided nor authorized by INTSIG;
+
+(5)   Other force majeure or factors beyond INTSIG’s control.
+
+13.3 We make no warrants in any form for unpredictable or uncontrollable technical defects of product, the stability of service, or any losses or damages caused thereby, unless the law expressly stipulates mandatorily otherwise.
+
+13.4 You fully understand that you may face the risks of online information or from other users in the process of using our service. We do not make any commitments about the authenticity, applicability and legality of the relevant contents or assume liability to any damage occurred by infringement to you. These risks include but not limited to:
+
+(1)   Any defamatory, offensive or illegal content from anonymous people;
+
+(2)   Any losses of profits, revenues, or data, financial losses or indirect, special, consequential, exemplary, or punitive damages due to misuse or abuse of CamScanner;
+
+(3)   Other risks  due to network or other users.
+
+ 
+
+14.  Infringement Notification and Counter Notification
+
+14.1 Infringement Notification
+
+Apart from the clauses herein, in order to protect intellectual property rights, if any individual or entity finds that other users infringe his/her legitimate rights and interests by posting contents through our service, he/she (complainant) may file a formal notice of infringement with us in writing. The Infringement Notification will contain the contents as follow:
+
+(1)   Detailed contact information of the complainant, including name, a copy of the identity card or the passport (if an individual), a copy of the entity registration certificate (if an entity), address, telephone number, fax and email address;
+
+(2)   The suspected infringement contents applied in Our Service so that we can inform the user who supervise the infringement contents;
+
+(3)   Preliminary materials proving infringement;
+
+a)        Materials evidencing that the complaint has the right of trade mark, copyright or other legitimate right that the complaint is authorized to exercise of the allegedly infringing content;
+
+b)        Identify the material that the complaint claims is infringing the legitimated right listed in Item a) above;
+
+c)        Include the following statements in the Infringement Notice: "(i) I am the right holder or am authorized to exercise the right; (ii) I represent that the information in this Infringement Notice is sufficient, true and accurate and that I am the right holder or am authorized to exercise the legitimate right specified in item 1 of this Infringement Notice. My legitimate right is infringed by content on the allegedly infringing web pages; and (iii) I confirm that if the statements in the Infringement Notice are not true, I will be legally liable for such misrepresentation."
+
+14.2 Counter Notification
+
+If we remove your content or hyper-links according to an Infringement Notification, you may file a formal Counter Notification in writing with us. 
+
+(1)   To expedite our ability to process your counter notification, please use the following format (including item numbers):
+
+1)      Detailed contact information, including name, a copy of the identity card or the passport (if an individual), a copy of the entity registration certificate (if an entity), address, telephone number, fax and email address;
+
+2)      The information, contents or the websites that we have removed;
+
+3)      Preliminary materials proving non-infringement;
+
+a)        Materials evidencing that legitimacy of removed content, including, without limitation, materials evidencing that you have right or are authorized to exercise right of the removed content;
+
+b)        Include the following statements in the Counter Notice: "(i) I am the right holder or am authorized to exercise the legitimate right; (ii) I have rights to or I have been authorized to provide or post the information or content which has been removed; I represent that the information in this Counter Notice is sufficient, true and accurate and that I am the right holder or am authorized to exercise the legitimate right specified in item (a) of this Counter Notice; and (iii) I confirm that if the statements in the Counter Notice are not true, I will be legally liable for such misrepresentation."
+
+4)      Sign the paper; if you are an entity or an organization established in accordance with law, please seal your official stamp on the paper as well.
+
+14.3 Please send above mentioned materials and contact information in writing to the following address, with the title “Counter Notification of Infringing Materials” on the envelope:
+
+7B, 3rd Building, No.335, Guoding Road, Yangpu District, Shanghai, 200433 PR China
+
+14.4 We will handle it as soon as we receive an effective counter notification in accordance with laws and regulations. You agree that we have the right to copy the notification and reveal to the third party as to clarify the fact. We may also communicate with you via email or other ways for any purpose relating to the Service.
+
+ 
+
+15.   Conclusion of Agreement
+
+Your use or registration with CamScanner indicates to us that you have read and accepted our terms, which also means this agreement has come into force to you. If you do not agree to this agreement, please stop immediately and do not use Our Software or Our Services any more.
+
+ 
+
+16.  Modifications of the Terms
+
+We reserve the right to modify the terms of this agreement when necessary. Usually we will post notice of modifications to these terms on our homepage, via e-mail or by other reasonable means to inform you with a new agreement thirty days before it takes effects. If you do not agree to the modified terms, please discontinue your use of our service. Your behavior of continuous use will be considered as acceptation of the modification.
+
+ 
+
+17.  Modification, Suspension, Discontinuation and Termination of CamScanner
+
+17.1 You can stop using Our Services at any time, although we will be sorry to see you leave. If you want to cancel your account, please contact us at support@intsig.com with the registered email address. We will terminate your service account after verifying relevant information in accordance with our rules.
+
+17.2 We are constantly updating and improving our services. We highly recommend you to update in time. However, you can choose whether to accept the update or not. If you choose not to update, we do not guarantee to provide you with latest updated services, the likely loss therefrom shall be borne by yourself. .
+
+17.3 We reserve the right to modify, discontinue, suspend or terminate CamScanner at any time, about which includes but not limited to the room size of a single user, the feature and amount of uploaded contents or other data, or the ability of constant access Our Service etc. Before any action is adopted, we will normally try our best to give you reasonable notice in advance. Usually we will afford you high-quality service. Such term will only be used in particular situations when necessary.
+
+17.4 You agree that we may, without prior notice, immediately terminate, limit your access to or suspend your service account, and access to CamScanner in event of any of the following:
+
+(1)   Personal information you provide is inaccurate, fake or illegal;
+
+(2)   Breaching or violation of this agreement;
+
+(3)   No sufficient payment is paid to us;
+
+(4)   Requirement/order according to law or related government department;
+
+(5)   Other situation as we deem necessary;
+
+17.5 If your account is not used in nine months consistently, we reserve the right to terminate your service account, in order to avoid any waste of resources. The losses (including but not limited to loss of information, etc.) therefrom should be borne by yourself.
+
+17.6 The account may be canceled if user terminates using any of our services. We reserve the right to delete all the information of your account completely, and shall no longer undertake any obligation to you.
+
+ 
+
+18.  Severability of Agreement
+
+If any term or clause herein is not enforceable or defined by law court or arbitration to be invalid, the rest of the terms remain effective.
+
+ 
+
+19.  Applicable laws and Disputes Settlement
+
+19.1 If you are a user from China Mainland, this agreement shall be governed by and construed in accordance with the laws of People’s Republic of China Mainland (without regard to its conflict of law provisions). In the event there is a dispute between you and INTSIG, both parties shall attempt to settle the dispute amicably. If you dissatisfy with the result thereof and seek to file a legal claim against us, you agree to file and resolve it exclusively in a competent court located in Shanghai where is in accordance with the location of INTSIG.
+
+19.2 If you are a user from other area of China or a user from other country, this agreement shall be governed by and construed in accordance with the laws of Hong Kong (without regard to its conflict of law provisions). In the event there is a dispute between you and INTSIG, both parties shall attempt to settle the dispute amicably. If you dissatisfy with the result thereof and seek to file a legal claim against us, you agree to file and resolve it exclusively in Hong Kong International Arbitration Center (HKIA) according to its regulations. The language of arbitration is Chinese or English.
+
+19.3 All subtitles of this agreement are only for convenience to read and have no practical significance so as not to be used as the basis for interpretation.
+
+ 
+
+20.   Miscellaneous
+
+We normally will post notice concerning modifications or changes of the services or other important matters on our website, or via e-mail or by other reasonable means. It shall be deemed as you have been properly served as soon as you receive the e-mail or the notice or announcement has been on the website for 30 days.
+
+We welcome your feedback about the CamScanner Services. Unless otherwise expressly declared, any communications you send to us are deemed to be submitted on a non-confidential basis. You agree that we may decide to publicize such contents at our discretion. You agree to authorize us to make use of such contents for free, and revise, modify, adjust and change contextually, or make any other changes we need or feel appropriate.
+
+If you have any comments or suggestions on any part of the services or any part of this Terms of Service, please feel free to contact us through the customer service department (support@intsig.com). We will give you necessary help and support as possible.

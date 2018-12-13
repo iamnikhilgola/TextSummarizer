@@ -1,0 +1,133 @@
+
+ENGLISH
+APPLE INC. 
+SOFTWARE LICENSE AGREEMENT FOR SAFARI FOR WINDOWS
+SINGLE USE LICENSE
+PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE USING THE 
+APPLE SOFTWARE. BY USING THE APPLE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE 
+TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE 
+THE SOFTWARE. IF YOU DO NOT AGREE TO THE TERMS OF THE LICENSE, YOU MAY RETURN THE 
+APPLE SOFTWARE TO THE PLACE WHERE YOU OBTAINED IT FOR A REFUND. IF THE APPLE 
+SOFTWARE WAS ACCESSED ELECTRONICALLY, CLICK "DISAGREE".  
+IMPORTANT NOTE: To the extent that this software may be used to reproduce materials, it is licensed 
+to you only for reproduction of non-copyrighted materials, materials in which you own the copyright, or 
+materials you are authorized or legally permitted to reproduce. If you are uncertain about your right to 
+copy any material, you should contact your legal advisor.
+1. General.
+ The Apple and any third party software, documentation and any fonts accompanying this 
+License whether on disk, in read only memory, on any other media or in any other form (collectively the 
+"Apple Software") are licensed, not sold, to you by Apple Inc. ("Apple") for use only under the terms of this 
+License. Apple and/or its licensors retain ownership of the Apple Software itself and reserves all rights not 
+expressly granted to you. The terms of this License will govern any software upgrades provided by Apple 
+that replace and/or supplement the original Apple Software product, unless such upgrade is accompanied by 
+a separate license in which case the terms of that license will govern. 
+Title and intellectual property rights in and to any content displayed by or accessed through the Apple 
+Software belongs to the respective content owner. Such content may be protected by copyright or other 
+intellectual property laws and treaties, and may be subject to terms of use of the third party providing such 
+content. This License does not grant you any rights to use such content.
+2. Permitted License Uses and Restrictions.
+A. 
+Subject to the terms and conditions of this License you are granted a limited non-exclusive license to 
+install and use one copy of the Apple Software on each computer owned or controlled by you. 
+To the extent 
+that the Apple Software may be used to reproduce materials, such use is limited to reproduction of non-
+copyrighted materials, materials in which you own the copyright, or materials you are authorized or legally 
+permitted to reproduce.
+This License does not allow the Apple Software to exist on more than one computer 
+at a time, and you may not make the Apple Software available over a network where it could be used by 
+multiple computers at the same time. You may make one copy of the Apple Software in machine-readable 
+form for backup purposes only; provided that the backup copy must include all copyright or other proprietary 
+notices contained on the original. 
+In addition to the restrictions stated above, the Apple proprietary libraries ("Apple DLLs") included with the 
+Apple Software are only licensed: (i) for use with the Apple Software; and (ii) for your personal use or internal 
+business use in connection with your development of WebKit <
+http://webkit.org/
+>. You may not use the 
+Apple DLLs for any other purpose, nor may you link, compile or otherwise combine the Apple DLLs with your 
+own programs, modify, rent, release, lend, sublicense or otherwise redistribute the Apple DLLs, in whole or in 
+part. 
+B.
+Certain components of the Apple Software, and third party open source programs included with the Apple 
+Software, have been or may be made available by Apple on its Open Source web site (
+http://
+www.opensource.apple.com/
+) (collectively the "Open-Sourced Components"). You may modify or replace 
+only these Open-Sourced Components; provided that: (i) the resultant modified Apple Software is used, in 
+place of the unmodified Apple Software, on a single computer; and (ii) you otherwise comply with the terms 
+of this License and any applicable licensing terms governing use of the Open-Sourced Components. Apple 
+is not obligated to provide any updates, maintenance, warranty, technical or other support, or services for 
+the resultant modified Apple Software.
+You expressly acknowledge that if failure or damage to Apple hardware results from modification of the 
+Open-Sourced Components of the Apple Software, such failure or damage is excluded from the terms of the 
+Apple hardware warranty.
+C. You may not and you agree not to, or to enable others to, copy except as expressly permitted by this 
+License), decompile, reverse engineer, disassemble, attempt to derive the source code of, decrypt, modify, 
+create derivative works of the Apple Software, or any part thereof (except as and only to the extent any 
+foregoing restriction is prohibited by applicable law or to the extent as may be permitted by licensing terms 
+governing use of open-sourced components included with the Apple Software).  Any attempt to do so is a 
+violation of the rights of Apple and its licensors of the Apple Software.
+3. Transfer.
+ You may not rent, lease, lend, sell, redistribute or sublicense the Apple Software. You may, 
+however, make a one-time permanent transfer of all of your license rights to the Apple Software to another 
+party, provided that: (a) the transfer must include all of the Apple Software, including all its component parts, 
+original media (if any), printed materials and this License; (b) you do not retain any copies of the Apple 
+Software, full or partial, including copies stored on a computer or other storage device; and (c) the party 
+receiving the Apple Software reads and agrees to accept the terms and conditions of this License. All 
+components of the Apple Software are provided as part of a bundle and may not be separated from the 
+bundle and distributed as standalone applications.  
+Updates: 
+If an Apple Software update completely replaces (full install) a previously licensed version of the 
+Apple Software, you may not use both versions of the Apple Software at the same time nor may you transfer 
+them separately.
+Academic Copies:
+ If the Apple Software package has an academic label or if you acquired the Apple 
+Software at an academic discount, you must be an Eligible Educational End User to use the Apple Software. 
+"Eligible Educational End Users" means students, faculty, staff and administration attending and/or working 
+at an educational institutional facility (i.e., college campus, public or private K-12 schools).
+4. Consent to Use of Data. 
+A. 
+Diagnostic and Usage Data
+.
+You agree that Apple and its subsidiaries and agents may collect, maintain, 
+process and use diagnostic, technical, usage and related information, including but not limited to information 
+about your computer, system and application software, and peripherals, that is gathered periodically to 
+facilitate the provision of software updates, product support and other services to you (if any) related to the 
+Apple Software, and to verify compliance with the terms of this License. Apple may use this information, as 
+long as it is collected anonymously in a form that does not personally identify you, to provide and improve 
+Apple’s products and services. To enable Apple’s partners and third party developers to improve their 
+software, hardware and services designed for use with Apple products, Apple may also provide any such 
+partner or third party developer with a subset of diagnostic information that is relevant to that partner’s or 
+developer’s software, hardware and/or services, as long as the diagnostic information is in a form that does 
+not personally identify you.
+B. 
+Location Data
+. Apple and its partners, licensees, third party developers and websites may provide certain 
+services through the Apple Software that rely upon location information. To provide and improve these 
+services, where available, Apple and its partners, licensees, third party developers and websites may 
+transmit, collect, maintain, process and use your location data, including the real-time geographic location of 
+the device or computer on which the Apple Software is used and location search queries. The location data 
+and queries collected by Apple are collected in a form that does not personally identify you and may be used 
+by Apple and its partners, licensees, third party developers and websites to provide and improve location-
+based products and services. 
+By using the location-based features of the Apple Software, you agree and 
+consent to Apple’s and its partners’, licensees’, third party developers’ and websites’ transmission, 
+collection, maintenance, processing and use of your location data and queries to provide and improve 
+location-based products and services. 
+You may withdraw this consent at any time by disabling the 
+Location Services setting in the Apple Software. The Location Services setting is found in the Privacy pane 
+within the Apple Software’s Preferences menu. Not using these features will not impact the non location-
+based functionality of the Apple Software. If a website is not an Apple website, Apple has no control over 
+that website, its privacy practices or its use of your location data. When accessing third party websites that 
+use or provide your location data, you are subject to and should review that website’s terms of use and 
+privacy policy to understand how they treat your location data.
+C. At all times your information will be treated in accordance with Apple’s Privacy Policy which can be viewed 
+at: 
+http://www.apple.com/privacy/
+.
+5. Termination.
+ This License is effective until terminated. Your rights under this License will terminate 
+automatically or otherwise cease to be effective without notice from Apple if you fail to comply with any term
+(s) of this License. Upon the termination of this License, you shall cease all use of the Apple Software and 
+destroy all copies, full or partial, of the Apple Software. Sections 4, 5, 6, 7, 8, 11 and 12 of this License 
+survive any such termination.
+6. Services and Third Party Materials.

@@ -1,0 +1,28 @@
+DuckDuckGo does not collect or share personal information. That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
+
+    Last updated on 04/11/12. Removed ", which gets sent to my personal email." in last paragraph as our feedback is now handled by multiple team members via desk.com.
+
+At other search engines, when you do a search and then click on a link, your search terms are sent to that site you clicked on (in the HTTP referrer header). We call this sharing of personal information "search leakage."
+
+For example, when you search for something private, you are sharing that private search not only with your search engine, but also with all the sites that you clicked on (for that search).
+
+So when you do that private search, not only can those other sites know your search terms, but they can also know that you searched it. It is this combination of available information about you that raises privacy concerns.
+
+The other way to release it to the public is by accident. Search engines could lose data, or get hacked, or accidentally expose data due to security holes or incompetence, all of which has happened with personal information on the Internet.
+
+Why would search engines give your search history to law enforcement? Simply because law enforcement asked for it, usually as part of a legal investigation. If you read privacy policies and terms of service carefully you will notice that they say they can give your information on court order.
+
+This makes sense because they may be legally obligated to do so. However, search engines are not legally obligated to collect personal information in the first place. They do it on their own volition.
+
+The bottom line is if search engines have your information, it could get out, even if they have the best intentions. And this information (your search history) can be pretty personal.
+
+For these reasons, DuckDuckGo takes the approach to not collect any personal information. The decisions of whether and how to comply with law enforcement requests, whether and how to anonymize data, and how to best protect your information from hackers are out of our hands. Your search history is safe with us because it cannot be tied to you in any way.
+
+Because this information could be used to link you to your searches, we do not log (store) it at all. This is a very unusual practice, but we feel it is an important step to protect your privacy.
+
+Similarly, we may add an affiliate code to some eCommerce sites (e.g. Amazon & eBay) that results in small commissions being paid back to DuckDuckGo when you make purchases at those sites. We do not use any third parties to do the code insertion, and we do not work with any sites that share personally identifiable information (e.g. name, address, etc.) via their affiliate programs. This means that no information is shared from DuckDuckGo to the sites, and the only information that is collected from this process is product information, which is not tied to any particular user and which we do not save or store on our end. It is completely analogous to the search result case from the previous paragraphwe can see anonymous product info such that we cannot tie them to any particular person (or even tie multiple purchases together). This whole affiliate process is an attempt to keep advertising to a minimal level on DuckDuckGo.
+
+Finally, if you give us feedback, it may be stored in our email. However, you can give anonymous feedback (by not entering your email or other personal info on the feedback form).
+
+Also, like anyone else, we will comply with court ordered legal requests. However, in our case, we don't expect any because there is nothing useful to give them since we don't collect any personal information.
+

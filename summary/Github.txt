@@ -1,0 +1,66 @@
+g. intellectual property notice
+
+
+if you are a government user or otherwise accessing or using any github service in a government capacity, this government amendment to github terms of service applies to you, and you agree to its provisions.
+
+
+we do not pre-screen user-generated content, but we have the right (though not the obligation) to refuse or remove any user-generated content that, in our sole discretion, violates any github terms or policies.
+
+
+we need the legal right to do things like host your content, publish it, and share it. you grant us and our legal successors the right to store, parse, and display your content, and make incidental copies as necessary to render the website and provide the service. this includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case your content is something like music or video.
+
+
+short version: you own content you create, but you allow us certain rights to it, so that we can display and share the content you post. you still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. we have the right to remove content or close accounts if we need to.
+
+
+attempt to disrupt or tamper with github's servers in ways that could harm our website or service, to place undue burden on github's servers through automated means, or to access github's service in ways that exceed your authorization (other than those authorized by the github bug bounty program);
+
+
+you will promptly notify github if you become aware of any unauthorized use of, or access to, our service through your account, including any unauthorized use of your password or account.
+
+
+violate the privacy of any third party, such as by posting another person's personal information without consent.
+
+
+you are responsible for all fees, including taxes, associated with your use of the service. by using the service, you agree to pay github any charge incurred in connection with your use of the service. if you dispute the matter, contact github support. you are responsible for providing us with a valid means of payment for paid accounts. free accounts are not required to provide payment information.
+
+
+short version: you are responsible for any fees associated with your use of github. we are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.
+
+
+if you’d like to use github’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: 
+
+
+you are responsible for maintaining the security of your account and password. github cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+
+
+github makes no warranties of any kind in relation to developer products and is not liable for disclosures to third parties that you authorize to access your content. your use of any third-party applications is at your sole risk.
+
+
+a machine account is an account set up by an individual human who accepts the terms on behalf of the account, provides a valid email address, and is responsible for its actions. a machine account is used exclusively for performing automated tasks. multiple users may direct the actions of a machine account, but the owner of the account is ultimately responsible for the machine's actions. you may maintain no more than one free machine account in addition to your free user account.
+
+
+your use or inability to use the service;
+
+
+any user-generated content you post publicly, including issues, comments, and contributions to other users' repositories, may be viewed by others. by setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of content from your repositories in repositories they control).
+
+
+github considers the contents of private repositories to be confidential to you. github will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
+
+
+except to the extent applicable law provides otherwise, this agreement between you and github and any access to or use of the website or the service are governed by the federal laws of the united states of america and the laws of the state of california, without regard to conflict of law provisions. you and github agree to submit to the exclusive jurisdiction and venue of the courts located in the city and county of san francisco, california.
+
+
+all provisions of this agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+
+
+github may offer subscription-based access to our api for those users who require high-throughput access or access that would result in resale of github's service.
+
+
+an "account" represents your legal relationship with github. a “user account” represents an individual user’s authorization to log in to and use the service and serves as a user’s identity on github. “organizations” are shared workspaces that may be associated with a single entity or with one or more users where multiple users can collaborate across many projects at once. a user account can be a member of any number of organizations.
+
+
+to the extent this agreement is not enforceable by applicable law, you grant github the rights we need to use your content without attribution and to make reasonable adaptations of your content as necessary to render the website and provide the service.
+
+

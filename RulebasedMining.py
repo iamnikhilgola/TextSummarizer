@@ -8,24 +8,28 @@
 # 
 # Importing all the necessary libraries required for the Rule based Association Pattern mining
 
-# In[153]:
+# In[1]:
 
 
 import numpy as np  
 import matplotlib.pyplot as plt  
 import pickle
 from nltk.stem import WordNetLemmatizer
+import string
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-# In[154]:
+# In[2]:
 
 
 import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 from collections import Counter
 import numpy as np
 
 
-# In[155]:
+# In[3]:
 
 
 import os
@@ -36,20 +40,20 @@ import time
 
 # Setting the min_support and min_confidence value for the Confidence table
 
-# In[156]:
+# In[4]:
 
 
-min_support=0.0
-min_confidence=0.99
+min_support=0.4
+min_confidence=0.70
 
 
 # Loading the pickle word dictionary pickle file after preprocessing of the data (pickle file will act as a cache to our System)
 
-# In[157]:
+# In[5]:
 
 
 def loadWordDictionaryPickle():
-    f=open('word_Dictionary.pickle','rb')
+    f=open('Pickled Data/word_Dictionary.pickle','rb')
     vocab=pickle.load(f)
     f.close()
     return vocab
@@ -57,11 +61,11 @@ def loadWordDictionaryPickle():
 
 # Loading the word frequncy pickle file from preprocessed data
 
-# In[158]:
+# In[6]:
 
 
 def loadWordFrequencyPickle():
-    f1=open('word_Frequency.pickle','rb')
+    f1=open('Pickled Data/word_Frequency.pickle','rb')
     DocVocab=pickle.load(f1)
     #print(DocVocab['Facebook'])
     f1.close()
@@ -70,11 +74,11 @@ def loadWordFrequencyPickle():
 
 # Loading the unique word pickle from the preprocessed data
 
-# In[159]:
+# In[7]:
 
 
 def loadUniqueWordPickle(): 
-    f1=open('unique_Wordset.pickle','rb')
+    f1=open('Pickled Data/unique_Wordset.pickle','rb')
     unique_word=pickle.load(f1)
     unique_word=list(unique_word)
     f1.close()
@@ -83,7 +87,7 @@ def loadUniqueWordPickle():
 
 # Calculating word frequency in the training set(corpus) and calculating the probability of word for occuring in corpus and the tfidf values for every word in the corpus
 
-# In[160]:
+# In[8]:
 
 
 def uniqueWordFrequency(DocVocab):
@@ -117,7 +121,7 @@ def uniqueWordFrequency(DocVocab):
 
 # Filtering the words from the wordset based upon their frequency which above the mean of frequency
 
-# In[161]:
+# In[9]:
 
 
 
@@ -142,7 +146,7 @@ def filterWordSetFrequencySupport(mean1,Word_Set_frequency,wordSetSupport):
     return req_Dic,req_Dic_Sup
 
 
-# In[162]:
+# In[10]:
 
 
 '''fp = open('TFIDF_values.pickle','rb')
@@ -161,7 +165,7 @@ for key in tfidf_values.keys():
 '''
 
 
-# In[163]:
+# In[11]:
 
 
 '''def returnItemsWithMinSupport(vocab):
@@ -179,7 +183,7 @@ for key in tfidf_values.keys():
 '''
 
 
-# In[164]:
+# In[12]:
 
 
 def getData():
@@ -192,7 +196,7 @@ def getData():
     return words
 
 
-# In[165]:
+# In[13]:
 
 
 def FilterDictionary(A,Support_Score,unique_word):
@@ -205,7 +209,7 @@ def FilterDictionary(A,Support_Score,unique_word):
     return filteredDict,SScore
 
 
-# In[166]:
+# In[14]:
 
 
 def LemmatizeWord(A):
@@ -219,7 +223,7 @@ def LemmatizeWord(A):
         
 
 
-# In[167]:
+# In[15]:
 
 
 def ListToDic(vocab):
@@ -231,7 +235,7 @@ def ListToDic(vocab):
     return vocab
 
 
-# In[186]:
+# In[16]:
 
 
 def confidence(A,B,vocab):
@@ -254,7 +258,7 @@ def confidence(A,B,vocab):
     return ScoreMatrix
 
 
-# In[187]:
+# In[17]:
 
 
 
@@ -266,7 +270,7 @@ def confidence(A,B,vocab):
 #print(Ascore)
 
 
-# In[188]:
+# In[18]:
 
 
 def SelectAssociationRules(confidenceMatrix,min_support,min_confidence,A,B,Support_Score):
@@ -289,7 +293,7 @@ def SelectAssociationRules(confidenceMatrix,min_support,min_confidence,A,B,Suppo
     return required
 
 
-# In[189]:
+# In[19]:
 
 
 '''def MeanOFMean(confidenceMatrix):
@@ -303,7 +307,7 @@ MeanOFMean(confidenceMatrix)
 '''
 
 
-# In[190]:
+# In[20]:
 
 
 def Find(string): 
@@ -313,11 +317,11 @@ def Find(string):
     return url 
 
 
-# In[191]:
+# In[56]:
 
 
 def printSummary(rule_Dict,outputfile):
-    #list_of_lines_to_print = []
+    list_of_lines_to_print = []
     #print(rule_Dict.keys())
     
     #print(rule_Dict['personal_information']['DuckDuckGo does not collect or share personal information'])
@@ -333,19 +337,20 @@ def printSummary(rule_Dict,outputfile):
                 #print(rows[0])
                 if rows[0][1]>=mean8:
                     #rows[0][0]=rows[0][0].decode('utf-8','ignore')
-                    file1.write(rows[0][0]+'\n')
-               
-                    #list_of_lines_to_print.append(key2)
+                    if rows[0][0] not in list_of_lines_to_print:
+                        file1.write(rows[0][0]+'\n\n')
+                        list_of_lines_to_print.append(rows[0][0])
+                    
                     
             
 
 
-# In[201]:
+# In[57]:
 
 
 
 def doSummarization(filename,filepath,rules,tfidf_dict):
-    outputfile = filepath+'summary/'+filename[:-4]+'Summary'+'.txt'
+    outputfile = filepath+'summary/'+filename[:-4]+'associationSummary'+'.txt'
     filename = filepath+filename
     linesData =[]
     rule_Dict={}
@@ -401,7 +406,7 @@ def doSummarization(filename,filepath,rules,tfidf_dict):
     printSummary(rule_Dict,outputfile)
 
 
-# In[202]:
+# In[58]:
 
 
 def main():
@@ -424,6 +429,7 @@ def main():
     for item,value in requiredDicti.items():
         B.append(item)
     confidenceMatrix=confidence(A,B,vocab)
+    print(confidenceMatrix)
     rules=SelectAssociationRules(confidenceMatrix,min_support,min_confidence,A,B,wordSetSupport)
     test_path = "Datasets/testdata/"
     test_files = os.listdir(test_path)  
@@ -437,27 +443,69 @@ def main():
             doSummarization(file,test_path,rules,tfidf_dict)
 
 
-# In[203]:
+# In[59]:
 
-
+#Similarity********************************************************************
 def similarity(file1,file2,name1,name2):
-    count=0
-    data = open(file2,'rb')
-    listoffile=[]
-    for line in data:
-        listoffile.append(line.lower())
-    #print("list:",listoffile)
-    data1 = open(file1,'rb')
-    for line1 in data1:
-        #print("line1:",line1.lower())
-        if line1.lower() in listoffile:
-            count+=1
-    acc = count/len(listoffile)*100
+    dict1 = getTokensDictFromFile(file1)
+    dict2 = getTokensDictFromFile(file2)
+    sim = getSimilarity(dict1,dict2)
+    acc = sim*100
     print("Accuracy for ",name1," and ",name2," is : ",acc,"%")
 
 
-# In[204]:
+def getTokensDictFromFile(file):
+    data = open(file).read()
+    remove_punctuation_map = dict((ord(char), None) for char in string.punctuation)
+    tokens = word_tokenize(data.lower().translate(remove_punctuation_map))
+    words = [word.lower() for word in tokens]
+    stemmer = nltk.stem.porter.PorterStemmer()
+    stemmed_words = [stemmer.stem(word) for word in words]
+    
+    stopword = set(stopwords.words('english'))
+    filtered_words = [word for word in stemmed_words if not word in stopword]
+    
+    mydict = nltk.defaultdict(int)
+    for word in filtered_words:
+        mydict[word]+=1
+    return mydict
+    
+    
 
+
+# In[27]:
+
+
+def cosine_similarity(a,b):
+    dot_product = np.dot(a,b)
+    norma = np.linalg.norm(a)
+    normb = np.linalg.norm(b)
+    return dot_product/(norma*normb)
+
+
+# In[28]:
+
+
+def getSimilarity(dict1,dict2):
+    words =[]
+    for key in dict1.keys():
+        words.append(key)
+    for key in dict2.keys():
+        words.append(key)
+    n = len(words)
+    vector1 = np.zeros(n,dtype=np.int)
+    vector2 = np.zeros(n,dtype=np.int)
+    i=0
+    for (key) in words:
+        vector1[i] = dict1.get(key,0)
+        vector2[i] = dict2.get(key,0)
+        i=i+1
+    sim = cosine_similarity(vector1,vector2)
+    return sim
+
+
+# In[60]:
+#END Similarity********************************************************************
 
 main()
 
@@ -477,9 +525,5 @@ for i in range(0,len(sum_files)):
         
 
 
-# In[196]:
-
-
-
-    
+# In[26]:
 
